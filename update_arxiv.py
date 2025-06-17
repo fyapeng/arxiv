@@ -3,7 +3,8 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
+import pytz  # 引入时区库，用于处理时区问题
 import concurrent.futures
 
 # --- 配置 ---
@@ -39,11 +40,8 @@ def translate_with_kimi(text):
         return "翻译失败"
 
 def process_single_paper(paper_info, session):
-    """处理单篇论文的函数（获取摘要并翻译）"""
     title = paper_info['title']
     print(f"-> 开始处理: {title}")
-
-    # 获取摘要
     try:
         detail_response = session.get(paper_info['url'], timeout=20)
         detail_soup = BeautifulSoup(detail_response.text, 'html.parser')
@@ -52,79 +50,90 @@ def process_single_paper(paper_info, session):
     except Exception as e:
         print(f"  > 获取摘要失败 for {title}: {e}")
         abstract = '暂无摘要'
-        
+    
     paper_info['abstract'] = abstract
 
-    # 并行翻译
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as translator_executor:
         title_future = translator_executor.submit(translate_with_kimi, title)
         abstract_future = translator_executor.submit(translate_with_kimi, abstract)
         
         paper_info['title_cn'] = title_future.result()
         paper_info['abstract_cn'] = abstract_future.result()
-
     return paper_info
 
 def fetch_and_process_papers():
-    """获取并处理 arXiv 的新论文"""
+    """获取并处理 arXiv 的新论文，严格遵循日期判断逻辑"""
     session = requests.Session()
     session.headers.update({
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     })
 
     print(f"正在访问 arXiv 经济学最新论文页面: {ARXIV_URL}")
-    response = session.get(ARXIV_URL)
+    response = session.get(ARXIV_URL, timeout=30)
     response.raise_for_status()
     soup = BeautifulSoup(response.content, 'html.parser')
+    
+    # --- 核心日期判断逻辑 ---
+    # 1. 定义美国东部时区
+    eastern_tz = pytz.timezone('US/Eastern')
+    # 2. 获取当前美国东部时间的日期
+    current_et_day = datetime.now(eastern_tz).strftime("%-d") # %-d 在Linux/macOS上表示不带前导零的日期
+    print(f"当前美国东部时间 (ET) 日期为: {datetime.now(eastern_tz).strftime('%Y-%m-%d')}, 日期数字为: {current_et_day}")
 
-    # 检查今天是否有更新
-    # arXiv 的服务器时间是 EST/EDT (美国东部时间), 我们需要和当前 UTC 时间对比
-    h3_date = soup.find('h3')
-    if not h3_date or 'entries for' not in h3_date.text:
-        print("未找到日期标题，可能页面结构已更改。")
+    # 3. 从页面解析日期
+    h3_tag = soup.find('h3')
+    if not h3_tag or 'entries for' not in h3_tag.text:
+        print("错误：未找到日期标题或标题格式已更改，无法判断更新。")
         return None
     
-    # 简单的检查：如果 "recent" 页面没有 "new" 的文章标记，可能就没有新内容
-    if not soup.find('span', class_='new'):
-         print("页面上未发现'new'标记的文章，判断为今日无更新。")
-         return None
+    date_text = h3_tag.text.strip()
+    match = re.search(r'for\s+\w+\s+(\d{1,2}),', date_text)
+    if not match:
+        print(f"错误：无法从标题 '{date_text}' 中提取日期数字。")
+        return None
+        
+    day_from_page = match.group(1)
+    print(f"arXiv 页面显示的日期为: {day_from_page}")
+
+    # 4. 对比日期
+    if day_from_page != current_et_day:
+        print(f"日期不匹配 (页面日期: {day_from_page}, 当前ET日期: {current_et_day})。判断为今日无更新。")
+        return None
+    
+    print("日期匹配成功，开始解析论文列表。")
+    # --- 日期判断结束 ---
+
+    dl_element = soup.find('dl')
+    if not dl_element:
+        print("错误：页面日期匹配，但未找到 <dl> 论文列表。")
+        return None
 
     papers_to_process = []
-    # 查找所有新论文的列表项
-    dt_elements = soup.find_all('dt')
-    for dt in dt_elements:
-        # 只处理标记为 "new" 的论文
-        if dt.find('span', class_='new'):
-            dd = dt.find_next_sibling('dd')
-            if not dd: continue
+    for dt in dl_element.find_all('dt'):
+        dd = dt.find_next_sibling('dd')
+        if not dd: continue
 
-            title_div = dd.find('div', class_='list-title')
-            authors_div = dd.find('div', class_='list-authors')
-            
-            paper_id_tag = dt.find('a', title='Abstract')
-            if not paper_id_tag: continue
-            paper_id = paper_id_tag.text.strip()
-            
-            title = title_div.text.replace('Title:', '').strip()
-            authors = [a.text.strip() for a in authors_div.find_all('a')]
-            url = f"https://arxiv.org/abs/{paper_id}"
+        title_div = dd.find('div', class_='list-title')
+        authors_div = dd.find('div', class_='list-authors')
+        
+        id_link_tag = dt.find('a', title='Abstract')
+        if not id_link_tag: continue
+        paper_id = id_link_tag.text.strip()
+        
+        title = title_div.text.replace('Title:', '').strip()
+        authors = [a.text.strip() for a in authors_div.find_all('a')]
+        url = f"https://arxiv.org/abs/{paper_id}"
 
-            papers_to_process.append({
-                'title': title,
-                'authors': authors,
-                'url': url
-            })
+        papers_to_process.append({'title': title, 'authors': authors, 'url': url})
 
     if not papers_to_process:
-        print("今日无新论文更新。")
+        print("日期匹配，但未解析到任何论文。")
         return None
 
-    print(f"发现了 {len(papers_to_process)} 篇新论文。开始并行处理...")
-    
+    print(f"发现了 {len(papers_to_process)} 篇今日新论文。开始并行处理...")
     processed_results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         future_to_paper = {executor.submit(process_single_paper, paper, session): paper for paper in papers_to_process}
-        
         for future in concurrent.futures.as_completed(future_to_paper):
             try:
                 result = future.result()
@@ -133,35 +142,19 @@ def fetch_and_process_papers():
                     print(f"✓ 处理完成: {result['title'][:60]}...")
             except Exception as exc:
                 print(f"✗ 处理论文时出错: {exc}")
-
     return processed_results
 
 def generate_markdown(results):
     if not results:
         return "今日无新论文更新。"
-
-    # CST (UTC+8)
-    cst_time = datetime.now(timezone(timedelta(hours=8)))
-    update_time_str = cst_time.strftime('%Y-%m-%d %H:%M:%S CST')
-
+    eastern_tz = pytz.timezone('US/Eastern')
+    update_time_str = datetime.now(eastern_tz).strftime('%Y-%m-%d ET')
     title_list_parts = [f"*(Updated on: {update_time_str})*\n"]
     for i, res in enumerate(results):
-        title_list_parts.append(
-            f"{i+1}. **[{res['title']}]({res['url']})**<br/>{res['title_cn']}\n"
-            f"   - *Authors: {', '.join(res['authors'])}*"
-        )
-    
+        title_list_parts.append(f"{i+1}. **[{res['title']}]({res['url']})**<br/>{res['title_cn']}\n   - *Authors: {', '.join(res['authors'])}*")
     details_parts = ["\n---\n\n## 文章概览\n"]
     for res in results:
-        details_parts.extend([
-            f"### {res['title_cn']}",
-            f"**[{res['title']}]({res['url']})**\n",
-            f"**Authors**: {', '.join(res['authors'])}\n",
-            f"**Abstract**: {res['abstract']}\n",
-            f"**摘要**: {res['abstract_cn']}\n",
-            "---"
-        ])
-    
+        details_parts.extend([f"### {res['title_cn']}", f"**[{res['title']}]({res['url']})**\n", f"**Authors**: {', '.join(res['authors'])}\n", f"**Abstract**: {res['abstract']}\n", f"**摘要**: {res['abstract_cn']}\n", "---"])
     return "\n".join(title_list_parts) + "\n\n" + "\n".join(details_parts)
 
 def update_readme(content):
@@ -176,13 +169,11 @@ def update_readme(content):
 if __name__ == "__main__":
     if not kimi_client:
         exit(1)
-        
     papers_data = fetch_and_process_papers()
     if papers_data:
         markdown_output = generate_markdown(papers_data)
         update_readme(markdown_output)
     else:
-        # 如果没有新论文，也更新一下提示信息
-        cst_time = datetime.now(timezone(timedelta(hours=8)))
-        update_time_str = cst_time.strftime('%Y-%m-%d %H:%M:%S CST')
-        update_readme(f"*(Updated on: {update_time_str})*\n\n今日无新论文。")
+        eastern_tz = pytz.timezone('US/Eastern')
+        update_time_str = datetime.now(eastern_tz).strftime('%Y-%m-%d ET')
+        update_readme(f"*(Updated on: {update_time_str})*\n\n今日无新发表的经济学论文。")
