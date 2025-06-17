@@ -29,7 +29,7 @@ def translate_with_kimi(text):
         print(f"  > 正在翻译: '{text[:40].replace(os.linesep, ' ')}...'")
         response = kimi_client.chat.completions.create(
             model="moonshot-v1-8k",
-            messages=[{"role": "system", "content": "你是一个专业的经济学领域翻译助手。请将以下英文内容准确、流畅地翻译成中文。"}, {"role": "user", "content": text}],
+            messages=[{"role": "system", "content": "你是一个专业的经济学领域翻译助手。请将以下英文内容准确、流畅地翻译成中文，注意只输出对应的翻译结果就好。"}, {"role": "user", "content": text}],
             temperature=0.3,
         )
         return response.choices[0].message.content.strip()
