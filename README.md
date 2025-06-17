@@ -1,9 +1,9 @@
 # 最新arXiv论文
 
 <!-- ARXIV_PAPERS_START -->
-*(Updated on: 2025-06-17 19:18:25 CST)*
+*(Updated on: 2025-06-17 ET)*
 
-今日无新论文。
+今日无新发表的经济学论文。
 <!-- ARXIV_PAPERS_END -->
 
 ---
