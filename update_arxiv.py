@@ -149,7 +149,7 @@ def generate_markdown(results):
     update_time_str = datetime.now(eastern_tz).strftime('%Y-%m-%d ET')
     title_list_parts = [f"*(Updated on: {update_time_str})*\n"]
     for i, res in enumerate(results):
-        title_list_parts.append(f"{i+1}. **[{res['title']}]({res['url']})**<br/>{res['title_cn']}\n   - *Authors: {', '.join(res['authors'])}*")
+        title_list_parts.append(f"{i+1}. **[{res['title']}]({res['url']})**<br/>{res['title_cn']}\n    - *Authors: {', '.join(res['authors'])}*")
     details_parts = ["\n---\n\n## 文章概览\n"]
     for res in results:
         details_parts.extend([f"### {res['title_cn']}", f"**[{res['title']}]({res['url']})**\n", f"**Authors**: {', '.join(res['authors'])}\n", f"**Abstract**: {res['abstract']}\n", f"**摘要**: {res['abstract_cn']}\n", "---"])
