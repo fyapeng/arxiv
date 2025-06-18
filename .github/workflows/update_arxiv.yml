@@ -3,9 +3,9 @@ name: Update arXiv Econ Papers Daily
 on:
   # 允许手动触发，方便测试
   workflow_dispatch:
-  # 定时触发：周一至周五的 05:00 UTC (即北京时间 13:00)
+  # 定时触发：周一至周五的 03:00 UTC (即北京时间 11:00)
   schedule:
-    - cron: '0 5 * * 1-5'
+    - cron: '0 3 * * 1-5'
 
 # 授予工作流写入仓库内容的权限
 permissions:
