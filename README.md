@@ -1,168 +1,148 @@
 # 最新arXiv论文
 
 <!-- ARXIV_PAPERS_START -->
-*(Updated on: 2025-06-18 ET)*
+*(Updated on: 2025-06-19 ET)*
 
-1. **[Heterogeneous economic growth vulnerability across Euro Area countries under stressed scenarios](https://arxiv.org/abs/arXiv:2506.14321)**<br/>在压力情景下，欧元区国家异质经济增长脆弱性
-    - *Authors: Claudio Lissona, Esther Ruiz*
-2. **[Smart contracts and reaction-function games](https://arxiv.org/abs/arXiv:2506.14413)**<br/>智能合约和反应函数博弈
-    - *Authors: Jens Gudmundsson, Jens Leth Hougaard*
-3. **[An advanced reliability reserve incentivizes flexibility investments while safeguarding the electricity market](https://arxiv.org/abs/arXiv:2506.14664)**<br/>一个先进的可靠性储备激励灵活性投资的同时保护电力市场
-    - *Authors: Franziska Klaucke, Karsten Neuhoff, Alexander Roth, Wolf-Peter Schill, Leon Stolle*
-4. **[A break from the norm? Parametric representations of preference heterogeneity for discrete choice models in health](https://arxiv.org/abs/arXiv:2506.14099)**<br/>打破常规？健康领域离散选择模型中偏好异质性的参数表示
-    - *Authors: John Buckell, Alice Wreford, Matthew Quaife, Thomas O. Hancock*
-5. **[Numerical evaluation of deliberative discussions of the UK food system: stimuli, demographics, and opinion reversion](https://arxiv.org/abs/arXiv:2506.14102)**<br/>对英国食品系统审议讨论的数值评估：刺激因素、人口统计学和意见反转
-    - *Authors: John Buckell, Thomas Hancock*
-6. **[Machine Learning-Based Estimation of Monthly GDP](https://arxiv.org/abs/arXiv:2506.14078)**<br/>基于机器学习的月度GDP估计
-    - *Authors: Yonggeun Jung*
-7. **[The Bones and Shapes of the Phillips Curve](https://arxiv.org/abs/arXiv:2506.14030)**<br/>菲利普斯曲线的骨骼和形状
-    - *Authors: Hanyuan Jiang*
-8. **[Life cycle assessment tools for road design: analysing linearity assumptions](https://arxiv.org/abs/arXiv:2506.13896)**<br/>道路设计生命周期评估工具：分析线性假设
-    - *Authors: Nikolaos Kalyviotis*
-9. **[High-Dimensional Spatial-Plus-Vertical Price Relationships and Price Transmission: A Machine Learning Approach](https://arxiv.org/abs/arXiv:2506.13967)**<br/>高维空间加垂直价格关系与价格传导：一种机器学习方法
-    - *Authors: Mindy L. Mallory, Rundong Peng, Meilin Ma, H. Holly Wang*
-10. **[High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels](https://arxiv.org/abs/arXiv:2506.13840)**<br/>高社会经济地位与跨品牌和价格水平的多样化消费相关联
-    - *Authors: Yuanmo He, Milena Tsvetkova*
-11. **[Causal Mediation Analysis with Multiple Mediators: A Simulation Approach](https://arxiv.org/abs/arXiv:2506.14019)**<br/>多中介变量的因果中介分析：一种模拟方法
-    - *Authors: Jesse Zhou, Geoffrey T. Wodtke*
-12. **[The Anatomy of India's Industrial Interdependencies: 7-Digit Product-Level Supply-Use and Input-Output Tables from ASI Data (2016-2022) with a Case Study of the Mobile Phone Sector](https://arxiv.org/abs/arXiv:2506.13936)**<br/>印度工业相互依存的结构分析：基于ASI数据（2016-2022年）的7位产品级投入产出和供应使用表，以及移动电话部门的案例研究
-    - *Authors: Sourish Dutta*
-13. **[Towards an Approach for Evaluating the Impact of AI Standards](https://arxiv.org/abs/arXiv:2506.13839)**<br/>评估人工智能标准影响的方法
-    - *Authors: Julia Lane*
+1. **[Fast Learning of Optimal Policy Trees](https://arxiv.org/abs/arXiv:2506.15435)**<br/>快速学习最优策略树
+    - *Authors: James Cussens, Julia Hatamyar, Vishalie Shah, Noemi Kreif*
+2. **[The Economic Value of Depth](https://arxiv.org/abs/arXiv:2506.15354)**<br/>深度的经济价值
+    - *Authors: Pedro Afonso Fernandes*
+3. **[Minimal Stable Voting Rules](https://arxiv.org/abs/arXiv:2506.15323)**<br/>最小稳定投票规则
+    - *Authors: Héctor Hermida-Rivera*
+4. **[Self-Equivalent Voting Rules](https://arxiv.org/abs/arXiv:2506.15310)**<br/>自等价投票规则
+    - *Authors: Héctor Hermida-Rivera*
+5. **[Binary Self-Selective Voting Rules](https://arxiv.org/abs/arXiv:2506.15265)**<br/>二元自选择投票规则
+    - *Authors: Héctor Hermida-Rivera, Toygar T. Kerman*
+6. **[Upstream competition and exclusive content provision in media markets](https://arxiv.org/abs/arXiv:2506.15063)**<br/>上游竞争与媒体市场中的独家内容提供
+    - *Authors: Kiho Yoon*
+7. **[Efficient reallocation of indivisible resources: Pair-efficiency versus Pareto-efficiency](https://arxiv.org/abs/arXiv:2506.15169)**<br/>有效重新分配不可分割资源：配对效率与帕累托效率
+    - *Authors: Pinaki Mandal*
+8. **[On the relationship between prediction intervals, tests of sharp nulls and inference on realized treatment effects in settings with few treated units](https://arxiv.org/abs/arXiv:2506.14998)**<br/>关于在少数受治疗单位的情况下，预测区间、尖锐零假设检验与实际治疗效果推断之间的关系
+    - *Authors: Luis Alvarez, Bruno Ferman*
+9. **[How does online shopping affect offline price sensitivity?](https://arxiv.org/abs/arXiv:2506.15103)**<br/>网上购物如何影响线下价格敏感度？
+    - *Authors: Shirsho Biswas, Hema Yoganarasimhan, Haonan Zhang*
+10. **[Identifying economic narratives in large text corpora -- An integrated approach using Large Language Models](https://arxiv.org/abs/arXiv:2506.15041)**<br/>在大型文本语料库中识别经济叙事——使用大型语言模型的综合方法
+    - *Authors: Tobias Schmidt, Kai-Robin Lange, Matthias Reccius, Henrik Müller, Michael Roos, Carsten Jentsch*
+11. **[The Pharmaceutical Price Regulation Crisis: Implications on Antidepressant Access for Low-Income Americans](https://arxiv.org/abs/arXiv:2506.14849)**<br/>药品价格管制危机：对低收入美国人获取抗抑郁药的影响
+    - *Authors: Nicole Hodrosky, Gabriel Cacho, Faiza Ahmed, Rohana Mudireddy, Yapin Wen, Kymora Nembhard, Michael Yan*
 
 
 ---
 
 ## 文章概览
 
-### 在压力情景下，欧元区国家异质经济增长脆弱性
-**[Heterogeneous economic growth vulnerability across Euro Area countries under stressed scenarios](https://arxiv.org/abs/arXiv:2506.14321)**
+### 快速学习最优策略树
+**[Fast Learning of Optimal Policy Trees](https://arxiv.org/abs/arXiv:2506.15435)**
 
-**Authors**: Claudio Lissona, Esther Ruiz
+**Authors**: James Cussens, Julia Hatamyar, Vishalie Shah, Noemi Kreif
 
-**Abstract**: We analyse economic growth vulnerability of the four largest Euro Area (EA) countries under stressed macroeconomic and financial conditions. Vulnerability, measured as a lower quantile of the growth distribution conditional on EA-wide and country-specific underlying factors, is found to be higher in Germany, which is more exposed to EA-wide economic conditions, and in Spain, which has large country-specific sectoral dynamics. We show that, under stress, financial factors amplify adverse macroeconomic conditions. Furthermore, even severe sectoral (financial or macro) shocks, whether common or country-specific, fail to fully explain the vulnerability observed under overall stress. Our results underscore the importance of monitoring both local and EA-wide macro-financial conditions to design effective policies for mitigating growth vulnerability.
+**Abstract**: We develop and implement a version of the popular "policytree" method (Athey and Wager, 2021) using discrete optimisation techniques. We test the performance of our algorithm in finite samples and find an improvement in the runtime of optimal policy tree learning by a factor of nearly 50 compared to the original version. We provide an R package, "fastpolicytree", for public use.
 
-**摘要**: 我们分析了在宏观经济和金融条件承压的情况下，欧元区（EA）四个最大国家的经济增长脆弱性。脆弱性是指在EA范围内和特定国家的基本因素条件下，增长分布的较低分位数，研究发现德国的脆弱性较高，因为它更容易受到EA范围内经济状况的影响，而西班牙则因其国家特定的行业动态较大而脆弱性较高。我们展示了在压力下，金融因素会放大不利的宏观经济条件。此外，即使是严重的行业（金融或宏观）冲击，无论是共同的还是特定于国家的，也无法完全解释在总体压力下观察到的脆弱性。我们的结果强调了监测本地和EA范围内的宏观金融状况的重要性，以设计有效的政策来减轻增长脆弱性。
-
----
-### 智能合约和反应函数博弈
-**[Smart contracts and reaction-function games](https://arxiv.org/abs/arXiv:2506.14413)**
-
-**Authors**: Jens Gudmundsson, Jens Leth Hougaard
-
-**Abstract**: Blockchain-based smart contracts offer a new take on credible commitment, where players can commit to actions in reaction to actions of others. Such reaction-function games extend on strategic games with players choosing reaction functions instead of strategies. We formalize a solution concept in terms of fixed points for such games, akin to Nash equilibrium, and prove equilibrium existence. Reaction functions can mimic "trigger" strategies from folk theorems on infinitely repeated games -- but now in a one-shot setting. We introduce a refinement in terms of safe play. We apply our theoretical framework to symmetric investment games, which includes two prominent classes of games, namely weakest-link and public-good games. In both cases, we identify a safe and optimal reaction function. In this way, our findings highlight how blockchain-based commitment can overcome trust and free-riding barriers.
-
-**摘要**: 基于区块链的智能合约为可信承诺提供了一种新的视角，其中参与者可以对他人的行为做出反应并承诺采取行动。这种反应函数游戏扩展了战略游戏，玩家选择反应函数而不是策略。我们用固定点的概念来形式化这类游戏的解决方案，类似于纳什均衡，并证明了均衡的存在。反应函数可以模仿无限重复博弈中的“触发”策略——但现在是在一次性设置中。我们引入了一种以安全玩法为依据的精细化方式。我们将理论框架应用于对称投资游戏，这包括两个著名的游戏类别，即最弱环节游戏和公共品游戏。在这两种情况下，我们都识别出了一个安全且最优的反应函数。通过这种方式，我们的发现突出了基于区块链的承诺如何克服信任和搭便车障碍。
+**摘要**: 我们开发并实现了流行“policytree”方法的一个版本（Athey 和 Wager，2021年），使用离散优化技术。我们在有限样本中测试了我们算法的性能，并发现与原始版本相比，最优策略树学习的运行时间提高了近50倍。我们提供了一个R包，“fastpolicytree”，供公众使用。
 
 ---
-### 一个先进的可靠性储备激励灵活性投资的同时保护电力市场
-**[An advanced reliability reserve incentivizes flexibility investments while safeguarding the electricity market](https://arxiv.org/abs/arXiv:2506.14664)**
+### 深度的经济价值
+**[The Economic Value of Depth](https://arxiv.org/abs/arXiv:2506.15354)**
 
-**Authors**: Franziska Klaucke, Karsten Neuhoff, Alexander Roth, Wolf-Peter Schill, Leon Stolle
+**Authors**: Pedro Afonso Fernandes
 
-**Abstract**: To ensure security of supply in the power sector, many countries are already using or discussing the introduction of capacity mechanisms. Two main types of such mechanisms include capacity markets and capacity reserves. Simultaneously, the expansion of variable renewable energy sources increases the need for power sector flexibility, for which there are promising yet often under-utilized options on the demand side. In this paper, we analyze how a centralized capacity market and an advanced reliability reserve with a moderately high activation price affect investments in demand-side flexibility technologies. We do so for a German case study of 2030, using an open-source capacity expansion model and incorporating detailed demand-side flexibility potentials across industry, process heat, and district heating. We show that a centralized capacity market effectively caps peak prices in the wholesale electricity market and thus reduces incentives for investments in demand-side flexibility options. The advanced reliability reserve induces substantially higher flexibility investments while leading to similar overall electricity supply costs and ensuring a similar level of security of supply. The advanced reliability reserve could thus create a learning environment for flexibility technologies to support the transition to climate neutral energy systems. Additionally, an advanced reliability reserve could be introduced faster and is more flexible than a centralized capacity market. While concrete design parameters are yet to be specified, we argue that policymakers should consider the reliability reserve concept in upcoming decision on capacity mechanisms in Germany and beyond.
+**Abstract**: The main goal of this article is to introduce an economic perspective in the social logic of space. Firstly, we describe the economic model of a linear city to show how depth can generate value by creating local monopolies in less integrated spaces. Then, a new syntactic measure, the d-value, is proposed to capture the relation between the depth of some space from outside and the mean depth of all spaces from outside. An application to a public housing estate suggests that economic activities and services may be located in spaces with a d-value close to one. The article is complemented by a Prolog programme with a special predicate to compute the d-value.
 
-**摘要**: 为确保电力部门的供应安全，许多国家已经在采用或讨论引入容量机制。这类机制主要有两种类型，包括容量市场和容量储备。同时，可变可再生能源的扩张增加了电力部门对灵活性的需求，需求侧有一些有前景但往往未充分利用的选项。在本文中，我们分析了一个集中式容量市场和一个中等高激活价格的高级可靠性储备对需求侧灵活性技术投资的影响。我们以2030年德国的案例研究为例，使用开源的容量扩展模型，并纳入了工业、工艺热和区域供热方面详细的需求侧灵活性潜力。我们展示了集中式容量市场有效地限制了批发市场中的峰值价格，从而降低了对需求侧灵活性选项的投资激励。高级可靠性储备诱导了更高的灵活性投资，同时导致类似的总体电力供应成本，并确保了类似的供应安全水平。因此，高级可靠性储备可以为灵活性技术创造一个学习环境，以支持向气候中立能源系统的过渡。此外，高级可靠性储备可以比集中式容量市场更快地引入，并且更加灵活。虽然具体的设计参数还有待确定，但我们认为政策制定者应该在即将对德国及其它地区的容量机制决策中考虑可靠性储备概念。
-
----
-### 打破常规？健康领域离散选择模型中偏好异质性的参数表示
-**[A break from the norm? Parametric representations of preference heterogeneity for discrete choice models in health](https://arxiv.org/abs/arXiv:2506.14099)**
-
-**Authors**: John Buckell, Alice Wreford, Matthew Quaife, Thomas O. Hancock
-
-**Abstract**: Background: Any sample of individuals has its own, unique distribution of preferences for choices that they make. Discrete choice models try to capture these distributions. Mixed logits are by far the most commonly used choice model in health. A raft of parametric model specifications for these models are available. We test a range of alternatives assumptions, and model averaging, to test if or how model outputs are impacted. Design: Scoping review of current modelling practices. Seven alternative distributions, and model averaging over all distributional assumptions, were compared on four datasets: two were stated preference, one was revealed preference, and one was simulated. Analyses examined model fit, preference distributions, willingness-to-pay, and forecasting. Results: Almost universally, using normal distributions is the standard practice in health. Alternative distributional assumptions outperformed standard practice. Preference distributions and the mean willingness-to-pay varied significantly across specifications, and were seldom comparable to those derived from normal distributions. Model averaging offered distributions allowed for greater flexibility, further gains in fit, reproduced underlying distributions in simulations, and mitigated against analyst bias arising from distribution selection. There was no evidence that distributional assumptions impacted predictions from models. Limitations: Our focus was on mixed logit models since these models are the most common in health, though latent class models are also used. Conclusions: The standard practice of using all normal distributions appears to be an inferior approach for capturing random preference heterogeneity. Implications: Researchers should test alternative assumptions to normal distributions in their models.
-
-**摘要**: 背景：任何个体样本都有其独特的偏好分布，这些偏好会影响他们所做的选择。离散选择模型试图捕捉这些分布。混合逻辑模型是迄今为止在健康领域最常用的选择模型。这些模型有大量的参数化模型规范可供选择。我们测试了一系列替代假设和模型平均，以测试模型输出是否或如何受到影响。设计：对当前建模实践的广泛回顾。在四个数据集上比较了七种替代分布，并对所有分布假设进行了模型平均：其中两个是声明偏好，一个是显示偏好，还有一个是模拟的。分析检查了模型拟合度、偏好分布、支付意愿和预测。结果：几乎普遍地，在健康领域使用正态分布是标准做法。替代的分布假设优于标准做法。偏好分布和平均支付意愿在不同规范中差异显著，很少与从正态分布得出的结果可比。模型平均提供了分布，允许更大的灵活性，进一步提高了拟合度，复制了模拟中的底层分布，并减少了因分布选择而产生的分析员偏见。没有证据表明分布假设影响了模型的预测。局限性：我们的重点是混合逻辑模型，因为这些模型在健康领域最常见，尽管也使用潜在类别模型。结论：使用所有正态分布的标准做法似乎是一种较差的方法，无法捕捉随机偏好异质性。影响：研究人员应该在他们的模型中测试替代正态分布的假设。
+**摘要**: 本文的主要目标是在空间的社会逻辑中引入经济视角。首先，我们描述了一个线性城市的经济模型，以展示深度如何通过在整合度较低的空间中创造局部垄断来产生价值。接着，提出了一个新的句法度量——d值，用以捕捉某空间从外部的深度与所有空间从外部的平均深度之间的关系。对一个公共住宅区的应用表明，经济活动和服务可能位于d值接近1的空间。文章还附带了一个Prolog程序，其中包含一个特殊的谓词来计算d值。
 
 ---
-### 对英国食品系统审议讨论的数值评估：刺激因素、人口统计学和意见反转
-**[Numerical evaluation of deliberative discussions of the UK food system: stimuli, demographics, and opinion reversion](https://arxiv.org/abs/arXiv:2506.14102)**
+### 最小稳定投票规则
+**[Minimal Stable Voting Rules](https://arxiv.org/abs/arXiv:2506.15323)**
 
-**Authors**: John Buckell, Thomas Hancock
+**Authors**: Héctor Hermida-Rivera
 
-**Abstract**: There is increasing acknowledgement - including from the UK government - of the benefit of employing deliberative processes (deliberative fora, citizens' juries, etc.). Evidence suggests that the qualitative reporting of deliberative fora are often unclear or imprecise. If this is the case, their value to policymakers could be diminished. In this study we develop numerical methods of deliberative processes to document people's preferences, as a complement to qualitative analysis. Data are taken from the Food Conversation, a nationwide public consultation on reformations of the food system comprising 345 members of the general public. Each participant attended 5 workshops, each with differing stimuli covering subtopics of the food system. In each workshop, individuals twice reported responsibility, from 0-10, for changing the food system for 5 stakeholders (governments, the food industry, supermarkets, farmers, individuals). Analyses examined individuals' perceptions of food system change responsibility. Governments were most responsible and farmers least so. We assessed variation by workshop content, and by demographics. Reported responsibility changed most for individuals, and changed least for the food industry. We devise a model to document a reversion effect, where shifts in perceptions on responsibility that occurred during workshops waned over time; this was strongest among those who intended to vote (rather than not to). These results can support qualitative analyses and inform food system policy development. These methods are readily adopted for any such deliberative process, allowing for statistical evaluation of whether they can induce opinion change.
+**Abstract**: In this paper, I characterize minimal stable voting rules and minimal self-stable constitutions (i.e., pairs of voting rules) for societies in which only power matters. To do so, I first let players' preference profiles over voting rules satisfy four natural axioms commonly used in the analysis of power: non-dominance, anonymity, null player and swing player. I then provide simple notions of minimal stability and minimal self-stability, and show that the families of minimal stable voting rules and minimal self-stable constitutions are fairly small. Finally, I conclude that political parties have evolved to ensure the minimal self-stability of otherwise not minimal self-stable constitutions.
 
-**摘要**: 越来越多的人认识到，包括英国政府在内，采用审议性程序（审议性论坛、公民陪审团等）的好处。有证据表明，审议性论坛的定性报告往往不清晰或不精确。如果情况确实如此，它们对政策制定者的价值可能会降低。在这项研究中，我们开发了审议性程序的数值方法来记录人们的偏好，作为定性分析的补充。数据来自“食品对话”，这是一项全国性的公共咨询活动，涉及食品系统改革，共有345名普通公众成员参与。每位参与者参加了5次研讨会，每次研讨会都有不同的刺激，涵盖食品系统的子主题。在每次研讨会中，个人两次报告了改变食品系统的责任，分为0-10级，针对5个利益相关者（政府、食品工业、超市、农民、个人）。分析检查了个人对食品系统变革责任的看法。政府负有最大的责任，农民的责任最小。我们通过研讨会内容和人口统计学来评估变化。报告的责任对个人来说变化最大，对食品工业来说变化最小。我们设计了一个模型来记录一种回归效应，即在研讨会期间对责任的看法发生了变化，但随着时间的推移逐渐减弱；这在那些打算投票（而不是不打算投票）的人中最为明显。这些结果可以支持定性分析，并为食品系统政策发展提供信息。这些方法可以很容易地被任何此类审议性过程采用，允许对它们是否能够引起意见变化进行统计评估。
-
----
-### 基于机器学习的月度GDP估计
-**[Machine Learning-Based Estimation of Monthly GDP](https://arxiv.org/abs/arXiv:2506.14078)**
-
-**Authors**: Yonggeun Jung
-
-**Abstract**: This paper proposes a scalable framework to estimate monthly GDP using machine learning methods. We apply Multi-Layer Perceptron (MLP), Long Short-Term Memory networks (LSTM), Extreme Gradient Boosting (XGBoost), and Elastic Net regression to map monthly indicators to quarterly GDP growth, and reconcile the outputs with actual aggregates. Using data from China, Germany, the UK, and the US, our method delivers robust performance across varied data environments. Benchmark comparisons with prior US studies and UK official statistics validate its accuracy. The approach offers a flexible and data-driven tool for high-frequency macroeconomic monitoring and policy analysis.
-
-**摘要**: 本文提出了一个可扩展的框架，使用机器学习方法来估算月度GDP。我们应用多层感知器（MLP）、长短期记忆网络（LSTM）、极端梯度提升（XGBoost）和弹性网络回归，将月度指标映射到季度GDP增长，并与实际总和进行协调。使用来自中国、德国、英国和美国的数据，我们的方法在不同的数据环境中都表现出了稳健的性能。与之前美国研究和英国官方统计数据的基准比较验证了其准确性。这种方法提供了一个灵活且数据驱动的工具，用于高频宏观经济监测和政策分析。
+**摘要**: 在本文中，我为那些只看重权力的社会特征化了最小稳定投票规则和最小自稳定宪法（即投票规则的配对）。为此，我首先让玩家对投票规则的偏好配置文件满足分析权力时常用的四个自然公理：非支配性、匿名性、空玩家和摇摆玩家。然后，我提供了最小稳定性和最小自稳定性的简单概念，并展示了最小稳定投票规则和最小自稳定宪法的家族相当小。最后，我得出结论，政党已经演变为确保否则不是最小自稳定宪法的最小自稳定性。
 
 ---
-### 菲利普斯曲线的骨骼和形状
-**[The Bones and Shapes of the Phillips Curve](https://arxiv.org/abs/arXiv:2506.14030)**
+### 自等价投票规则
+**[Self-Equivalent Voting Rules](https://arxiv.org/abs/arXiv:2506.15310)**
 
-**Authors**: Hanyuan Jiang
+**Authors**: Héctor Hermida-Rivera
 
-**Abstract**: The COVID-19 pandemic reignited debate on the U.S. Phillips curve. Using MSA-level panel data (2001-2024), we employ a Two-Stage Least Squares (2SLS) instrumental variable strategy with a shift-share instrument to estimate core non-tradable inflation's response to a v/u-based slack measure. We distinguish structural slope stability from state-dependent non-linearities via a threshold model. Our analysis addresses whether the slope of the Phillips Curve changed during and after the Pandemic in the United States by evaluating if recent inflation dynamics reflect an altered structural trade-off ("bones") or the activation of non-linear "shapes" in response to extreme labor market tightness. This distinction offers critical insights into the unemployment cost of disinflation.
+**Abstract**: In this paper, I introduce a novel stability axiom for stochastic voting rules, called self-equivalence, by which a society considering whether to replace its voting rule using itself will choose not do so. I then show that under the unrestricted strict preference domain, a voting rule satisfying the democratic principles of anonymity, optimality, monotonicity, and neutrality is self-equivalent if and only if it assigns to every voter equal probability of being a dictator (i.e., uniform random dictatorship). Thus, any society that desires stability and adheres to the aforementioned democratic principles is bound to either employ the uniform random dictatorship or decide whether to change its voting rule using a voting rule other than itself.
 
-**摘要**: COVID-19大流行重新点燃了关于美国菲利普斯曲线的辩论。我们使用MSA级别的面板数据（2001-2024年），采用两阶段最小二乘法（2SLS）工具变量策略，并使用份额变化工具来估计核心非贸易品通胀对基于v/u的松弛度量的反应。我们通过阈值模型区分结构斜率稳定性和状态依赖的非线性。我们的分析通过评估最近的通胀动态是否反映了改变的结构性权衡（“骨架”）或对极端劳动力市场紧张的非线性“形状”的激活，来解决美国大流行期间和之后菲利普斯曲线的斜率是否发生了变化。这种区分为理解降低通胀的失业成本提供了关键见解。
-
----
-### 道路设计生命周期评估工具：分析线性假设
-**[Life cycle assessment tools for road design: analysing linearity assumptions](https://arxiv.org/abs/arXiv:2506.13896)**
-
-**Authors**: Nikolaos Kalyviotis
-
-**Abstract**: Road infrastructure significantly impacts how people move and live and the emissions associated with travel behaviour. The design of roads is crucial in mitigating emissions. This paper reviews existing transport life cycle assessment tools that have been developed by various entities and can be used for roads. The review focuses on data sources used in the analysis, methods of estimating carbon dioxide emissions, the underlying software that is used to make the estimates, and any limitations of the tools. A critical issue identified in life cycle assessment analysis is the erroneous assumption that relationships within the assessed systems are linear. The current tools focusing on transport infrastructure assessment were developed based on the linear assumptions and limitations of the life cycle assessment analysis. A significant research gap identified is that existing life cycle assessment tools are not integrated with the design process. The analysis is an add-on process to design and the results of an assessment are not then used iteratively to enhance the design. A case study on aggregate road design found that road area significantly correlates with emissions, slope adjustments reduce emissions, and soil type impacts emissions, suggesting future research should explore non-linear relationships for sustainable road design.
-
-**摘要**: 道路基础设施显著影响人们的出行和生活方式以及与旅行行为相关的排放。道路设计在减少排放方面至关重要。本文回顾了由不同实体开发并可用于道路的现有交通生命周期评估工具。审查侧重于分析中使用的数据来源、估算二氧化碳排放的方法、用于估算的底层软件以及工具的任何局限性。生命周期评估分析中识别的一个关键问题是错误地假设被评估系统内的关系是线性的。目前专注于交通基础设施评估的工具是基于生命周期评估分析的线性假设和局限性开发的。识别的一个重要研究空白是现有的生命周期评估工具没有与设计过程集成。分析是设计的一个附加过程，评估的结果没有被迭代地用于增强设计。一个关于集料道路设计的案例研究发现，道路面积与排放显著相关，坡度调整减少排放，土壤类型影响排放，这表明未来的研究应该探索可持续道路设计的非线性关系。
+**摘要**: 在本文中，我为随机投票规则引入了一个新颖的稳定性公理，称为自我等价性，根据这一公理，一个社会在考虑是否使用自身来替换其投票规则时，会选择不这么做。然后，我展示了在无限制严格偏好领域下，一个满足匿名性、最优化、单调性和中立性等民主原则的投票规则，如果且仅如果它为每个选民分配了成为独裁者（即，均匀随机独裁）的等概率，那么它是自我等价的。因此，任何希望稳定并遵循上述民主原则的社会，要么必须采用均匀随机独裁，要么使用除自身之外的其他投票规则来决定是否改变其投票规则。
 
 ---
-### 高维空间加垂直价格关系与价格传导：一种机器学习方法
-**[High-Dimensional Spatial-Plus-Vertical Price Relationships and Price Transmission: A Machine Learning Approach](https://arxiv.org/abs/arXiv:2506.13967)**
+### 二元自选择投票规则
+**[Binary Self-Selective Voting Rules](https://arxiv.org/abs/arXiv:2506.15265)**
 
-**Authors**: Mindy L. Mallory, Rundong Peng, Meilin Ma, H. Holly Wang
+**Authors**: Héctor Hermida-Rivera, Toygar T. Kerman
 
-**Abstract**: Price transmission has been studied extensively in agricultural economics through the lens of spatial and vertical price relationships. Classical time series econometric techniques suffer from the "curse of dimensionality" and are applied almost exclusively to small sets of price series, either prices of one commodity in a few regions or prices of a few commodities in one region. However, an agrifood supply chain usually contains several commodities (e.g., cattle and beef) and spans numerous regions. Failing to jointly examine multi-region, multi-commodity price relationships limits researchers' ability to derive insights from increasingly high-dimensional price datasets of agrifood supply chains. We apply a machine-learning method - specifically, regularized regression - to augment the classical vector error correction model (VECM) and study large spatial-plus-vertical price systems. Leveraging weekly provincial-level data on the piglet-hog-pork supply chain in China, we uncover economically interesting changes in price relationships in the system before and after the outbreak of a major hog disease. To quantify price transmission in the large system, we rely on the spatial-plus-vertical price relationships identified by the regularized VECM to visualize comprehensive spatial and vertical price transmission of hypothetical shocks through joint impulse response functions. Price transmission shows considerable heterogeneity across regions and commodities as the VECM outcomes imply and display different dynamics over time.
+**Abstract**: This paper introduces a novel binary stability property for voting rules-called binary self-selectivity-by which a society considering whether to replace its voting rule using itself in pairwise elections will choose not to do so. In Theorem 1, we show that a neutral voting rule is binary self-selective if and only if it is universally self-selective. We then use this equivalence to show, in Corollary 1, that under the unrestricted strict preference domain, a unanimous and neutral voting rule is binary self-selective if and only if it is dictatorial. In Theorem 2 and Corollary 2, we show that whenever there is a strong Condorcet winner; a unanimous, neutral and anonymous voting rule is binary self-selective (or universally self-selective) if and only if it is the Condorcet voting rule.
 
-**摘要**: 价格传递在农业经济学中通过空间和垂直价格关系的角度得到了广泛研究。传统的时间序列计量经济学技术受到“维度的诅咒”的困扰，几乎只应用于小规模的价格序列集，无论是一个商品在几个区域的价格，还是一个区域中几个商品的价格。然而，农业食品供应链通常包含几种商品（例如，牛和牛肉）并跨越许多区域。未能联合检查多区域、多商品价格关系限制了研究人员从农业食品供应链日益高维的价格数据集中获取洞察的能力。我们应用一种机器学习方法——具体来说，是正则化回归——来增强传统的向量误差修正模型（VECM），并研究大型空间加垂直价格系统。利用中国仔猪-生猪-猪肉供应链的每周省级数据，我们揭示了在一次重大生猪疾病爆发前后系统中价格关系的经济上有趣的变化。为了量化大型系统中的价格传递，我们依赖于正则化VECM识别的空间加垂直价格关系，通过联合脉冲响应函数可视化假设冲击的全面空间和垂直价格传递。正如VECM结果所暗示和显示的，价格传递在区域和商品之间显示出相当大的异质性，并随着时间的推移展现出不同的动态。
-
----
-### 高社会经济地位与跨品牌和价格水平的多样化消费相关联
-**[High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels](https://arxiv.org/abs/arXiv:2506.13840)**
-
-**Authors**: Yuanmo He, Milena Tsvetkova
-
-**Abstract**: Consumption practices are determined by a combination of economic, social, and cultural forces. We posit that lower economic constraints leave more room to diversify consumption along cultural and social aspects in the form of omnivorous or lifestyle-based niche consumption. We provide empirical evidence for this diversity hypothesis by analysing millions of mobile-tracked visits from thousands of Census Block Groups to thousands of stores in New York State. The results show that high income is significantly associated with diverse consumption across brands and price levels. The associations between diversity and income persist but are less prominent for necessity-based consumption and for the densely populated and demographically diverse New York City. The associations replicate for education as an alternative measure of socioeconomic status and for the state of Texas. We further illustrate that the associations cannot be explained by simple geographic constraints, including the neighbourhoods' demographic diversity, the residents' geographic mobility and the stores' local availability, so deeper social and cultural factors must be at play.
-
-**摘要**: 消费实践是由经济、社会和文化力量的结合所决定的。我们认为，较低的经济约束为在文化和社会方面多样化消费留下了更多空间，表现为杂食性或基于生活方式的小众消费。我们通过分析纽约州数千个人口普查区块组的数百万次手机追踪访问数据，以及这些区块组对数千家商店的访问情况，为这种多样性假设提供了实证证据。结果显示，高收入与跨品牌和价格水平的多样化消费显著相关。多样性与收入之间的关联持续存在，但对于基于需求的消费以及人口密集和人口统计多样性的纽约市来说，这种关联不那么突出。这种关联在教育作为社会经济地位的替代衡量标准时得以复制，并且在德克萨斯州也有所体现。我们进一步说明，这些关联不能简单地用地理约束来解释，包括邻里的人口多样性、居民的地理流动性和商店的地方可用性，因此必须有更深层次的社会和文化因素在起作用。
+**摘要**: 本文介绍了一种新的二元稳定性属性，称为二元自选择性，它指的是一个社会在考虑是否使用自身在成对选举中替换其投票规则时，会选择不这么做。在定理1中，我们展示了一个中立的投票规则是二元自选择性的，当且仅当它是普遍自选择性的。然后我们利用这种等价性，在推论1中展示，在无限制的严格偏好域下，一个一致且中立的投票规则是二元自选择性的，当且仅当它是独裁的。在定理2和推论2中，我们展示了每当存在一个强康多塞赢家时，一个一致的、中立的和匿名的投票规则是二元自选择性的（或普遍自选择性的），当且仅当它是康多塞投票规则。
 
 ---
-### 多中介变量的因果中介分析：一种模拟方法
-**[Causal Mediation Analysis with Multiple Mediators: A Simulation Approach](https://arxiv.org/abs/arXiv:2506.14019)**
+### 上游竞争与媒体市场中的独家内容提供
+**[Upstream competition and exclusive content provision in media markets](https://arxiv.org/abs/arXiv:2506.15063)**
 
-**Authors**: Jesse Zhou, Geoffrey T. Wodtke
+**Authors**: Kiho Yoon
 
-**Abstract**: Analyses of causal mediation often involve exposure-induced confounders or, relatedly, multiple mediators. In such applications, researchers aim to estimate a variety of different quantities, including interventional direct and indirect effects, multivariate natural direct and indirect effects, and/or path-specific effects. This study introduces a general approach to estimating all these quantities by simulating potential outcomes from a series of distribution models for each mediator and the outcome. Building on similar methods developed for analyses with only a single mediator (Imai et al. 2010), we first outline how to implement this approach with parametric models. The parametric implementation can accommodate linear and nonlinear relationships, both continuous and discrete mediators, and many different types of outcomes. However, it depends on correct specification of each model used to simulate the potential outcomes. To address the risk of misspecification, we also introduce an alternative implementation using a novel class of nonparametric models, which leverage deep neural networks to approximate the relevant distributions without relying on strict assumptions about functional form. We illustrate both methods by reanalyzing the effects of media framing on attitudes toward immigration (Brader et al. 2008) and the effects of prenatal care on preterm birth (VanderWeele et al. 2014).
+**Abstract**: With a multilateral vertical contracting model of media markets, we examine upstream competition and contractual arrangements in content provision. We analyze the trade of content by the Nash bargaining solution and the downstream competition by the Hotelling location model. We characterize the equilibrium outcomes and the contractual arrangements for various vertical structures. We show that the possibility of exclusive contracts rises when the value of the premium content increases, the degree of horizontal differentiation in the downstream market decreases, the importance of advertising revenue decreases, and the relative bargaining power of upstream firm decreases.
 
-**摘要**: 因果中介分析常常涉及暴露诱导的混杂因素或者与之相关的多个中介变量。在这类应用中，研究者的目标是估计多种不同的量，包括干预的直接和间接效应、多变量自然直接和间接效应以及/或者路径特定的效应。本研究介绍了一种通过模拟一系列分布模型的潜在结果来估计所有这些量的综合方法，这些模型分别对应每个中介变量和结果。基于为只有一个中介变量的分析而开发的类似方法（Imai等人，2010年），我们首先概述了如何使用参数模型来实现这种方法。参数实现可以适应线性和非线性关系，包括连续和离散的中介变量，以及许多不同类型的结果。然而，它依赖于用于模拟潜在结果的每个模型的正确规范。为了解决模型规范错误的风险，我们还介绍了一种使用一类新颖的非参数模型的替代实现方法，这些模型利用深度神经网络来近似相关分布，而不依赖于关于函数形式的严格假设。我们通过重新分析媒体框架对移民态度的影响（Brader等人，2008年）和产前护理对早产的影响（VanderWeele等人，2014年）来说明这两种方法。
-
----
-### 印度工业相互依存的结构分析：基于ASI数据（2016-2022年）的7位产品级投入产出和供应使用表，以及移动电话部门的案例研究
-**[The Anatomy of India's Industrial Interdependencies: 7-Digit Product-Level Supply-Use and Input-Output Tables from ASI Data (2016-2022) with a Case Study of the Mobile Phone Sector](https://arxiv.org/abs/arXiv:2506.13936)**
-
-**Authors**: Sourish Dutta
-
-**Abstract**: Outlines the construction of high-resolution, 7-digit product-level Supply-Use Tables (SUTs) and symmetric Input-Output Tables (IOTs) for the Indian economy, leveraging microdata from the Annual Survey of Industries (ASI) for the period 2016-2022. We delineate a robust methodology encompassing the generation of detailed input and output flows, with a particular focus on the reconciliation of data from registered and unregistered manufacturing sectors through a meticulously developed NPCMS-NIC concordance. The critical transformation from the often-rectangular SUTs to square, symmetric product-by-product IOTs is explicated using the Industry Technology Assumption, a choice justified by its suitability for handling by-products prevalent in a diverse manufacturing landscape. The analytical prowess of this newly constructed high-resolution IOT framework is then demonstrated through its application to assess key economic impacts, specifically the Domestic Value Added (DVA) generated and the employment supported by production and export activities. A detailed case study of India's rapidly evolving mobile phone manufacturing sector (NPCMS 4722200) for the 2016-2022 period reveals profound structural shifts: significant output growth coupled with notable import substitution, a remarkable surge in exports, and a dynamic evolution in the DVA versus Foreign Value Added (FVA) shares, particularly in export-oriented production. The analysis further uncovers substantial employment growth, albeit with an increasing reliance on contractual labour and a heartening rise in female participation in the workforce. These meticulously constructed tables represent a significant methodological advancement and provide an invaluable empirical resource for nuanced analysis of sectoral interdependencies, the efficacy of industrial policy, and the complex dynamics of India's engagement with global value chains.
-
-**摘要**: 概述了为印度经济构建高分辨率、7位数产品级别的供给-使用表（SUTs）和对称的投入-产出表（IOTs），利用2016-2022年期间工业年度调查（ASI）的微观数据。我们详细描述了一种健全的方法论，包括生成详细的投入和产出流动，特别关注通过精心开发的NPCMS-NIC协调系统，协调注册和非注册制造业部门的数据。关键的转变是从通常为矩形的SUTs到正方形、对称的产品对产品IOTs，这一转变是通过行业技术假设来阐释的，这一选择因其适合处理多样化制造业中普遍存在的副产品而被证明是合适的。然后通过将其应用于评估关键经济影响，特别是生产和出口活动产生的国内增加值（DVA）和支持的就业，来展示这种新构建的高分辨率IOT框架的分析能力。对2016-2022年期间印度快速发展的手机制造业部门（NPCMS 4722200）的详细案例研究揭示了深刻的结构变化：显著的产出增长伴随着明显的进口替代，出口的惊人激增，以及在出口导向生产中DVA与外国增加值（FVA）份额的动态演变。分析进一步揭示了就业的大幅增长，尽管对合同劳动的依赖日益增加，女性在劳动力中的参与度也有所上升。这些精心构建的表格代表了方法论上的重大进步，并为对行业相互依存性、产业政策的有效性以及印度与全球价值链复杂动态的细致分析提供了宝贵的实证资源。
+**摘要**: 通过一个多边垂直契约模型来研究媒体市场，我们考察了上游竞争和内容提供中的契约安排。我们通过纳什谈判解来分析内容的交易，并通过霍特林位置模型来分析下游竞争。我们描述了不同垂直结构的均衡结果和契约安排。我们表明，当优质内容的价值增加、下游市场的水平差异化程度降低、广告收入的重要性减少以及上游企业的相对议价能力降低时，独家合同的可能性会增加。
 
 ---
-### 评估人工智能标准影响的方法
-**[Towards an Approach for Evaluating the Impact of AI Standards](https://arxiv.org/abs/arXiv:2506.13839)**
+### 有效重新分配不可分割资源：配对效率与帕累托效率
+**[Efficient reallocation of indivisible resources: Pair-efficiency versus Pareto-efficiency](https://arxiv.org/abs/arXiv:2506.15169)**
 
-**Authors**: Julia Lane
+**Authors**: Pinaki Mandal
 
-**Abstract**: There have been multiple calls for investments in the development of AI standards that both preserve the transformative potential and minimize the risks of AI. The goals of AI standards, particularly with respect to AI data, performance, and governance, are to promote innovation and public trust in systems that use AI. However, there is a lack of a formal or shared method to measure the impact of these standardization activities on the goals of innovation and trust. This concept paper proposes an analytical approach that could inform the evaluation of the impact of AI standards. The proposed approach could be used to measure, assess, and eventually evaluate the extent to which AI standards achieve their stated goals, since most Standards Development Organizationss do not track the impact of their standards once completed. It is intended to stimulate discussions with a wide variety of stakeholders, including academia and the standards community, about the potential for the approach to evaluate the effectiveness, utility, and relative value of AI standards. The document draws on successful and well-tested evaluation frameworks, tools, and metrics that are used for monitoring and assessing the effect of programmatic interventions in other domains to describe a possible approach. It begins by describing the context within which an evaluation would be designed, and then introduces a standard evaluation framework. These sections are followed by a description of what outputs and outcomes might result from the adoption and implementation of AI standards and the process whereby those AI standards are developed . Subsequent sections provide an overview of how the effectiveness of AI standards might be assessed and a conclusion.
+**Abstract**: In the object reallocation problem, achieving Pareto-efficiency is desirable, but may be too demanding for implementation purposes. In contrast, pair-efficiency, which is the minimal efficiency requirement, is more suitable. Despite being a significant relaxation, however, pair-efficiency ensures Pareto-efficiency for any strategy-proof and individually rational rule when agents' preferences are unrestricted.
+What if agents' preferences have specific restricted structures, such as single-peakedness or single-dippedness? We often encounter such situations in real-world scenarios. This study aims to investigate whether pair-efficiency is sufficient to ensure Pareto-efficiency in such cases.
+Our main contribution in this paper is establishing the equivalence between pair-efficiency and Pareto-efficiency when dealing with single-peaked or single-dipped preference profiles. This equivalence holds without needing to assume any other properties of the rule. We further show that both the single-peaked domain and the single-dipped domain are the "maximal" domains where this equivalence holds.
 
-**摘要**: 已有多次呼吁投资于人工智能（AI）标准的开发，这些标准既要保持AI的变革潜力，又要最小化AI的风险。AI标准的目标，特别是关于AI数据、性能和治理方面，是促进创新和公众对使用AI的系统的信任。然而，目前缺乏一种正式或共享的方法来衡量这些标准化活动对创新和信任目标的影响。本文提出了一种分析方法，可以为评估AI标准的影响提供参考。这种方法可以用来衡量、评估并最终评估AI标准实现其既定目标的程度，因为大多数标准开发组织在标准完成后并不跟踪其标准的影响。它旨在激发包括学术界和标准社区在内的各种利益相关者之间的讨论，讨论这种方法评估AI标准的有效性、实用性和相对价值的潜力。该文件借鉴了用于监测和评估其他领域程序干预效果的成功和经过测试的评估框架、工具和指标，以描述可能的方法。它首先描述了设计评估的背景，然后引入了一个标准评估框架。这些部分之后是对采用和实施AI标准可能产生的输出和结果的描述，以及这些AI标准开发的过程。后续部分提供了如何评估AI标准有效性的概述和结论。
+**摘要**: 在对象重新分配问题中，实现帕累托效率是理想的，但可能对实施来说要求过高。相比之下，成对效率作为最小的效率要求，更为合适。尽管这是一个重大的放松，然而，成对效率确保了任何策略证明和个体理性规则的帕累托效率，当代理人的偏好不受限制时。
+如果代理人的偏好具有特定的限制结构，例如单峰性或单谷性，会怎样呢？我们在现实世界场景中经常遇到这样的情况。本研究旨在调查在这种情况下，成对效率是否足以确保帕累托效率。
+我们这篇论文的主要贡献是建立成对效率和帕累托效率在处理单峰或单谷偏好配置文件时的等价性。这种等价性不需要假设规则的其他属性。我们进一步展示了单峰域和单谷域是这种等价性成立的“最大”域。
+
+---
+### 关于在少数受治疗单位的情况下，预测区间、尖锐零假设检验与实际治疗效果推断之间的关系
+**[On the relationship between prediction intervals, tests of sharp nulls and inference on realized treatment effects in settings with few treated units](https://arxiv.org/abs/arXiv:2506.14998)**
+
+**Authors**: Luis Alvarez, Bruno Ferman
+
+**Abstract**: We study how inference methods for settings with few treated units that rely on treatment effect homogeneity extend to alternative inferential targets when treatment effects are heterogeneous -- namely, tests of sharp null hypotheses, inference on realized treatment effects, and prediction intervals. We show that inference methods for these alternative targets are deeply interconnected: they are either equivalent or become equivalent under additional assumptions. Our results show that methods designed under treatment effect homogeneity can remain valid for these alternative targets when treatment effects are stochastic, offering new theoretical justifications and insights on their applicability.
+
+**摘要**: 我们研究了在少数受治单位的情况下，依赖于治疗效果同质性的推断方法如何扩展到当治疗效果异质时的替代推断目标——即对尖锐零假设的检验、对实现的治疗效果的推断以及预测区间。我们展示了这些替代目标的推断方法是深刻相互联系的：它们要么等价，要么在额外假设下变得等价。我们的结果表明，在治疗效果同质性下设计的推断方法在治疗效果是随机的情况下，对于这些替代目标仍然有效，为它们的适用性提供了新的理论依据和见解。
+
+---
+### 网上购物如何影响线下价格敏感度？
+**[How does online shopping affect offline price sensitivity?](https://arxiv.org/abs/arXiv:2506.15103)**
+
+**Authors**: Shirsho Biswas, Hema Yoganarasimhan, Haonan Zhang
+
+**Abstract**: The rapid rise of e-commerce has transformed consumer behavior, prompting questions about how online adoption influences offline shopping. We examine whether consumers who adopt online shopping with a retailer become more price-sensitive in their subsequent offline purchases with that retailer. Using transaction-level data from a large Brazilian pet supplies retailer operating both online and offline, we compare ''adopters'' - customers who began shopping online after a period of offline-only purchasing - with ''non-adopters'' who remained offline-only. We estimate a discrete choice logit model with individual-level heterogeneity, using a novel algorithm to handle high-dimensional fixed effects and address price endogeneity. We then apply a staggered difference-in-differences approach to the estimated price elasticities and obtain the Average Treatment Effect on the Treated (ATT). We find that offline price sensitivity increases significantly after online adoption in three out of four product categories, particularly in items with low switching costs, such as pet hygiene. Counterfactual pricing simulations show that incorporating these behavioral spillovers into pricing strategies can increase firm profits by up to 4.1%. These results underscore the importance of recognizing cross-channel effects in consumer behavior and contribute to the literature on pricing and multichannel retailing by identifying online adoption as a key driver of offline price sensitivity.
+
+**摘要**: 电子商务的迅速崛起改变了消费者行为，引发了关于线上采纳如何影响线下购物的问题。我们研究了与零售商一起采用在线购物的消费者是否在随后的线下购买中变得更加对价格敏感。利用一家在巴西经营线上和线下业务的大型宠物用品零售商的交易级数据，我们比较了“采纳者”——那些在一段时间仅线下购物后开始在线购物的客户——与“非采纳者”——那些仍然仅线下购物的客户。我们估计了一个具有个体层面异质性的离散选择逻辑模型，使用一种新颖的算法来处理高维固定效应并解决价格内生性问题。然后，我们对估计的价格弹性应用了分阶段的差异-差异方法，并获得了处理效应的平均值（ATT）。我们发现，在四个产品类别中的三个中，线下价格敏感性在线上采纳后显著增加，特别是在切换成本较低的商品中，例如宠物卫生用品。反事实定价模拟显示，将这些行为溢出效应纳入定价策略可以将公司利润提高高达4.1%。这些结果强调了认识到消费者行为中的跨渠道效应的重要性，并通过对在线采纳作为线下价格敏感性的关键驱动因素的识别，为定价和多渠道零售文献做出了贡献。
+
+---
+### 在大型文本语料库中识别经济叙事——使用大型语言模型的综合方法
+**[Identifying economic narratives in large text corpora -- An integrated approach using Large Language Models](https://arxiv.org/abs/arXiv:2506.15041)**
+
+**Authors**: Tobias Schmidt, Kai-Robin Lange, Matthias Reccius, Henrik Müller, Michael Roos, Carsten Jentsch
+
+**Abstract**: As interest in economic narratives has grown in recent years, so has the number of pipelines dedicated to extracting such narratives from texts. Pipelines often employ a mix of state-of-the-art natural language processing techniques, such as BERT, to tackle this task. While effective on foundational linguistic operations essential for narrative extraction, such models lack the deeper semantic understanding required to distinguish extracting economic narratives from merely conducting classic tasks like Semantic Role Labeling. Instead of relying on complex model pipelines, we evaluate the benefits of Large Language Models (LLMs) by analyzing a corpus of Wall Street Journal and New York Times newspaper articles about inflation. We apply a rigorous narrative definition and compare GPT-4o outputs to gold-standard narratives produced by expert annotators. Our results suggests that GPT-4o is capable of extracting valid economic narratives in a structured format, but still falls short of expert-level performance when handling complex documents and narratives. Given the novelty of LLMs in economic research, we also provide guidance for future work in economics and the social sciences that employs LLMs to pursue similar objectives.
+
+**摘要**: 随着近年来对经济叙事的兴趣增长，专门从文本中提取这类叙事的管道数量也在增加。这些管道通常采用一系列最先进的自然语言处理技术，如BERT，来应对这项任务。虽然这些模型在对叙事提取至关重要的基础语言操作上非常有效，但它们缺乏区分提取经济叙事与仅仅执行语义角色标注等经典任务所需的深层语义理解。我们没有依赖复杂的模型管道，而是通过分析《华尔街日报》和《纽约时报》关于通货膨胀的报纸文章语料库，评估了大型语言模型（LLMs）的优势。我们应用了严格的叙事定义，并将GPT-4o的输出与专家标注者产生的黄金标准叙事进行了比较。我们的结果表明，GPT-4o能够以结构化格式提取有效的经济叙事，但在处理复杂文档和叙事时，仍然未能达到专家级的表现。鉴于LLMs在经济研究中的新颖性，我们还为未来在经济学和社会科学中使用LLMs追求类似目标的工作提供了指导。
+
+---
+### 药品价格管制危机：对低收入美国人获取抗抑郁药的影响
+**[The Pharmaceutical Price Regulation Crisis: Implications on Antidepressant Access for Low-Income Americans](https://arxiv.org/abs/arXiv:2506.14849)**
+
+**Authors**: Nicole Hodrosky, Gabriel Cacho, Faiza Ahmed, Rohana Mudireddy, Yapin Wen, Kymora Nembhard, Michael Yan
+
+**Abstract**: Depression affects more than 280 million people worldwide, with poorer communities having disproportionate burden as well as barriers to treatment. This study examines the role of pharmacy pricing caps in access to antidepressants among poorer Americans through bibliometric analysis of the 100 most cited articles on antidepressant pricing and access in the Web of Science Core Collection. We used tools like Bibliometrix and VOSviewer to visualize publication trends, dominant contributors, thematic clusters, and citation networks in the literature. Findings highlight intransigent inequalities in access to antidepressants based on astronomically high drug pricing as well as systemic inequalities against racial and ethnic minorities in particular. Branded antidepressant high prices are associated with low initiation of therapy as well as regimen compliance, heightened mental illness outcomes, as well as increased health utilization. This work uncovers critical gaps in the literature and demands immediate policy action to make antidepressants affordable as well as appropriately accessible to marginalized communities.
+
+**摘要**: 抑郁症影响着全球超过2.8亿人，贫困社区不仅承受着不成比例的负担，还面临着治疗障碍。本研究通过在Web of Science核心合集中对100篇关于抗抑郁药定价和获取的最常引用文章进行文献计量分析，检验了药房定价上限在提高美国较贫困人群中抗抑郁药获取方面的作用。我们使用了Bibliometrix和VOSviewer等工具来可视化文献中的出版趋势、主要贡献者、主题聚类和引用网络。研究结果突出了由于药物定价高得惊人以及特别是对种族和民族少数群体的系统性不平等，抗抑郁药获取方面存在的顽固不平等。品牌抗抑郁药的高价与治疗启动低、用药方案依从性差、精神疾病结果加重以及健康利用率增加有关。这项工作揭示了文献中的关键空白，并要求立即采取政策行动，使抗抑郁药能够负担得起，并且能够适当地惠及边缘化社区。
 
 ---
 <!-- ARXIV_PAPERS_END -->
