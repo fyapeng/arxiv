@@ -158,8 +158,17 @@ def generate_markdown(results):
 def update_readme(content):
     with open(README_PATH, 'r', encoding='utf-8') as f:
         readme_content = f.read()
+
+    # --- 核心修改在这里！---
+    # 在将 content 用于替换之前，先将其中的反斜杠转义
+    # 这可以防止 content 中包含的 '\l' 等字符串被 re.sub 错误地解析为转义序列
+    sanitized_content = content.replace('\\', '\\\\')
+
     pattern = f"({re.escape(START_COMMENT)})(.*?)({re.escape(END_COMMENT)})"
-    new_readme = re.sub(pattern, f"\\1\n{content}\n\\3", readme_content, flags=re.DOTALL)
+    
+    # 使用净化后的 sanitized_content进行替换
+    new_readme = re.sub(pattern, f"\\1\n{sanitized_content}\n\\3", readme_content, flags=re.DOTALL)
+    
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(new_readme)
     print("README.md 更新成功！")
