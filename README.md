@@ -1,264 +1,183 @@
 # 最新arXiv论文
 
 <!-- ARXIV_PAPERS_START -->
-*(Updated on: 2025-07-01 ET)*
+*(Updated on: 2025-07-02 ET)*
 
-1. **[Robust Inference with High-Dimensional Instruments](https://arxiv.org/abs/arXiv:2506.23834)**<br/>使用高维工具的稳健推断
-    - *Authors: Qu Feng, Sombut Jaidee, Wenjie Wang*
-2. **[Flexible Moral Hazard Problems with Adverse Selection](https://arxiv.org/abs/arXiv:2506.23954)**<br/>带有逆向选择的灵活道德风险问题
-    - *Authors: Siwen Liu*
-3. **[Testing parametric additive time-varying GARCH models](https://arxiv.org/abs/arXiv:2506.23821)**<br/>测试参数化的加性时变GARCH模型
-    - *Authors: Niklas Ahlgren, Alexander Back, Timo Teräsvirta*
-4. **[Minimax and Bayes Optimal Best-arm Identification: Adaptive Experimental Design for Treatment Choice](https://arxiv.org/abs/arXiv:2506.24007)**<br/>最小最大值和贝叶斯最优最佳臂识别：治疗选择的自适应实验设计
-    - *Authors: Masahiro Kato*
-5. **[An Improved Inference for IV Regressions](https://arxiv.org/abs/arXiv:2506.23816)**<br/>对工具变量回归的改进推断
-    - *Authors: Liyu Dou, Pengjin Min, Wenjie Wang, Yichong Zhang*
-6. **[Evaluating the EU Carbon Border Adjustment Mechanism with a Quantitative Trade Model](https://arxiv.org/abs/arXiv:2506.23341)**<br/>使用定量贸易模型评估欧盟碳边境调节机制
-    - *Authors: Noemi Walczak, Kenan Huremović, Armando Rungi*
-7. **[Modeling European Electricity Market Integration during turbulent times](https://arxiv.org/abs/arXiv:2506.23289)**<br/>在动荡时期模拟欧洲电力市场一体化
-    - *Authors: Francesco Ravazzolo, Luca Rossini, Andrea Viselli*
-8. **[Design-Based and Network Sampling-Based Uncertainties in Network Experiments](https://arxiv.org/abs/arXiv:2506.22989)**<br/>基于设计的和基于网络抽样的网络实验中的不确定性
-    - *Authors: Kensuke Sakamoto, Yuya Shimizu*
-9. **[Digital Transformation and the Restructuring of Employment: Evidence from Chinese Listed Firms](https://arxiv.org/abs/arXiv:2506.23230)**<br/>数字化转型与就业结构重组：来自中国上市公司的证据
-    - *Authors: Yubo Cheng*
-10. **[P-CRE-DML: A Novel Approach for Causal Inference in Non-Linear Panel Data](https://arxiv.org/abs/arXiv:2506.23297)**<br/>P-CRE-DML：一种非线性面板数据因果推断的新方法
-    - *Authors: Amarendra Sharma*
-11. **[Tracking the affordability of least-cost healthy diets helps guide intervention for food security and improved nutrition](https://arxiv.org/abs/arXiv:2506.22965)**<br/>追踪最经济健康饮食的可负担性有助于指导食品安全和改善营养的干预措施。
-    - *Authors: William A. Masters*
-12. **[Causal Inference for Aggregated Treatment](https://arxiv.org/abs/arXiv:2506.22885)**<br/>聚合处理的因果推断
-    - *Authors: Carolina Caetano, Gregorio Caetano, Brantly Callaway, Derek Dyal*
-13. **[Temperature Sensitivity of Residential Energy Demand on the Global Scale: A Bayesian Partial Pooling Model](https://arxiv.org/abs/arXiv:2506.22768)**<br/>全球范围内住宅能源需求的温度敏感性：贝叶斯部分汇总模型
-    - *Authors: Peer Lasse Hinrichsen, Katrin Rehdanz, Richard S.J. Tol*
-14. **[Entropy Regularized Belief Reporting](https://arxiv.org/abs/arXiv:2506.22649)**<br/>熵正则化信念报告
-    - *Authors: Elchin Suleymanov*
-15. **[Overparametrized models with posterior drift](https://arxiv.org/abs/arXiv:2506.23619)**<br/>过度参数化的模型和后验漂移
-    - *Authors: Guillaume Coqueret, Martial Laguerre*
-16. **[Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development](https://arxiv.org/abs/arXiv:2506.22704)**<br/>超越代码：大型语言模型在软件开发中的多维影响
-    - *Authors: Sardar Fatooreh Bonabi, Sarah Bana, Tingting Nian, Vijay Gurbaxani*
-17. **[Autonomy by Design: Preserving Human Autonomy in AI Decision-Support](https://arxiv.org/abs/arXiv:2506.23952)**<br/>设计中的自主性：在人工智能决策支持中保持人类自主性
-    - *Authors: Stefan Buijsman, Sarah Carter, Juan Pablo Bermúdez*
-18. **[Detection of coordinated fleet vehicles in route choice urban games. Part I. Inverse fleet assignment theory](https://arxiv.org/abs/arXiv:2506.22966)**<br/>在路线选择城市博弈中协调车队车辆的检测。第一部分。逆向车队分配理论
-    - *Authors: Grzegorz Jamróz, Rafał Kucharski*
-19. **[Doubly robust estimation of causal effects for random object outcomes with continuous treatments](https://arxiv.org/abs/arXiv:2506.22754)**<br/>对具有连续处理的随机对象结果的因果效应进行双重稳健估计
-    - *Authors: Satarupa Bhattacharjee, Bing Li, Xiao Wu, Lingzhou Xue*
-20. **[From Model Design to Organizational Design: Complexity Redistribution and Trade-Offs in Generative AI](https://arxiv.org/abs/arXiv:2506.22440)**<br/>从模型设计到组织设计：生成性人工智能中的复杂性再分配与权衡
-    - *Authors: Sharique Hasan, Alexander Oettl, Sampsa Samila*
-21. **[FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement Learning in Peer-to-Peer Markets](https://arxiv.org/abs/arXiv:2506.22708)**<br/>FairMarket-RL：由大型语言模型引导的公平性塑造，用于点对点市场中的多智能体强化学习
-    - *Authors: Shrenik Jadhav, Birva Sevak, Srijita Das, Akhtar Hussain, Wencong Su, Van-Hai Bui*
+1. **[Local Strategy-Proofness and Dictatorship](https://arxiv.org/abs/arXiv:2507.00913)**<br/>本地策略证明性与独裁统治
+    - *Authors: Abinash Panda, Anup Pramanik, Ragini Saxena*
+2. **[Randomization Inference with Sample Attrition](https://arxiv.org/abs/arXiv:2507.00795)**<br/>样本流失下的随机推断
+    - *Authors: Xinran Li, Peizan Sheng, Zeyang Yu*
+3. **[Plausible GMM: A Quasi-Bayesian Approach](https://arxiv.org/abs/arXiv:2507.00555)**<br/>似然广义矩估计：一种准贝叶斯方法
+    - *Authors: Victor Chernozhukov, Christian B. Hansen, Lingwei Kong, Weining Wang*
+4. **[Comparing Misspecified Models with Big Data: A Variational Bayesian Perspective](https://arxiv.org/abs/arXiv:2507.00763)**<br/>比较大数据下的误设定模型：变分贝叶斯视角
+    - *Authors: Yong Li, Sushanta K. Mallick, Tao Zeng, Junxing Zhang*
+5. **[Dynamic SINR-Guided Iterative Interference Cancellation for ODDM Systems in Doubly Dispersive Channels](https://arxiv.org/abs/arXiv:2507.00397)**<br/>动态信噪比引导的迭代干扰消除在双重色散信道中的ODDM系统
+    - *Authors: Jiasong Han, Xuehan Wang, Jintao Wang*
+6. **[Extrapolation in Regression Discontinuity Design Using Comonotonicity](https://arxiv.org/abs/arXiv:2507.00289)**<br/>利用共单调性在回归不连续设计中的外推
+    - *Authors: Ben Deaner, Soonwoo Kwon*
+7. **[Robust Inference when Nuisance Parameters may be Partially Identified with Applications to Synthetic Controls](https://arxiv.org/abs/arXiv:2507.00307)**<br/>当干扰参数可能部分被识别时的稳健推断及其在合成控制中的应用
+    - *Authors: Joseph Fry*
+8. **[Reconfiguring Digital Accountability: AI-Powered Innovations and Transnational Governance in a Postnational Accounting Context](https://arxiv.org/abs/arXiv:2507.00288)**<br/>重新配置数字责任：后国家会计背景下的人工智能驱动创新和跨国治理
+    - *Authors: Claire Li, David Freeborn*
+9. **[Endogenous Network Structures with Precision and Dimension Choices](https://arxiv.org/abs/arXiv:2507.00249)**<br/>内生网络结构与精度和维度选择
+    - *Authors: Nikhil Kumar*
+10. **[Factors Influencing Change Orders in Horizontal Construction Projects: A Comparative Analysis of Unit Price and Lump Sum Contracts](https://arxiv.org/abs/arXiv:2507.00281)**<br/>影响水平施工项目变更订单的因素：单价合同与总价合同的比较分析
+    - *Authors: Mohamed Khalafalla, Tejal Mulay, Shonda L Bernadin*
+11. **[Satellite and Mobile Phone Data Reveal How Violence Affects Seasonal Migration in Afghanistan](https://arxiv.org/abs/arXiv:2507.00279)**<br/>卫星和手机数据揭示了暴力如何影响阿富汗的季节性迁移
+    - *Authors: Xiao Hui Tai, Suraj R. Nair, Shikhar Mehra, Joshua E. Blumenstock*
+12. **[The gradual transformation of inland countries -- human plowing, horse plowing and equity incentives](https://arxiv.org/abs/arXiv:2507.00067)**<br/>内陆国家的逐步转型——人力耕作、马耕作和公平激励
+    - *Authors: Hongfa Zi, Zhen Liu*
+13. **[Unraveling Global Threads: Pandemic, Geopolitical Conflict, and Resilience in Fashion and Textile Supply Chain](https://arxiv.org/abs/arXiv:2507.00207)**<br/>解开全球线索：大流行、地缘政治冲突以及时尚和纺织供应链的韧性
+    - *Authors: Md. Al-Amin, Muneeb Tahir, Amit Talukder, Abdullah Al Mamun, Md Tanjim Hossain, Nigar Sultana*
+14. **[Reducing Profile-Based Matching to the Maximum Weight Matching Problem](https://arxiv.org/abs/arXiv:2507.00047)**<br/>将基于档案的匹配问题简化为最大权重匹配问题
+    - *Authors: Seongbeom Park*
 
 
 ---
 
 ## 文章概览
 
-### 使用高维工具的稳健推断
-**[Robust Inference with High-Dimensional Instruments](https://arxiv.org/abs/arXiv:2506.23834)**
+### 本地策略证明性与独裁统治
+**[Local Strategy-Proofness and Dictatorship](https://arxiv.org/abs/arXiv:2507.00913)**
 
-**Authors**: Qu Feng, Sombut Jaidee, Wenjie Wang
+**Authors**: Abinash Panda, Anup Pramanik, Ragini Saxena
 
-**Abstract**: We propose a weak-identification-robust test for linear instrumental variable (IV) regressions with high-dimensional instruments, whose number is allowed to exceed the sample size. In addition, our test is robust to general error dependence, such as network dependence and spatial dependence. The test statistic takes a self-normalized form and the asymptotic validity of the test is established by using random matrix theory. Simulation studies are conducted to assess the numerical performance of the test, confirming good size control and satisfactory testing power across a range of various error dependence structures.
+**Abstract**: We investigate preference domains where every unanimous and locally strategy-proof social choice function (scf) satisfies dictatorship. We identify a condition on domains called connected with two distinct neighbours which is necessary for unanimous and locally strategy-proof scfs to satisfy dictatorship. Further, we show that this condition is sufficient within the class of domains where every unanimous and locally strategy-proof scf satisfies tops-onlyness. While a complete characterization remains open, we make significant progress by showing that on connected with two distinct neighbours domains, unanimity and strategy-proofness (a stronger requirement) guarantee dictatorship.
 
-**摘要**: 我们提出了一种弱识别稳健的检验方法，用于高维工具变量（IV）线性回归，其中工具变量的数量允许超过样本量。此外，我们的检验对于一般误差依赖性是稳健的，例如网络依赖性和空间依赖性。检验统计量采用自归一化形式，通过随机矩阵理论建立检验的渐近有效性。通过模拟研究来评估检验的数值性能，确认在各种误差依赖结构下检验具有良好尺寸控制和令人满意的检验能力。
-
----
-### 带有逆向选择的灵活道德风险问题
-**[Flexible Moral Hazard Problems with Adverse Selection](https://arxiv.org/abs/arXiv:2506.23954)**
-
-**Authors**: Siwen Liu
-
-**Abstract**: We study a moral hazard problem with adverse selection: a risk-neutral agent can directly control the output distribution and possess private information about the production environment. The principal designs a menu of contracts satisfying limited liability. Deviating from classical models, not only can the principal motivate the agent to exert certain levels of aggregate efforts by designing the "power" of the contracts, but she can also regulate the support of the chosen output distributions by designing the "range" of the contract. We show that it is either optimal for the principal to provide a single full-range contract, or the optimal low-type contract range excludes some high outputs, or the optimal high-type contract range excludes some low outputs. We provide sufficient and necessary conditions on when a single full-range contract is optimal under convex effort functions, and show that this condition is also sufficient with general effort functions.
-
-**摘要**: 我们研究了一个带有逆向选择的道德风险问题：一个风险中性的代理人可以直接控制产出分布，并拥有关于生产环境的私人信息。委托人设计了一系列满足有限责任的合同菜单。与经典模型不同，委托人不仅可以通过设计合同的“权力”来激励代理人付出一定程度的总体努力，还可以通过设计合同的“范围”来调节所选产出分布的支持。我们展示了对于委托人来说，要么提供单一全范围合同是最优的，要么最优的低类型合同范围排除了一些高产量，要么最优的高类型合同范围排除了一些低产量。我们提供了在凸努力函数下单一全范围合同是最优的充分必要条件，并展示了这个条件在一般努力函数下也是充分的。
+**摘要**: 我们研究了偏好域，其中每个一致且局部策略证明的社会选择函数（scf）都满足独裁。我们确定了对域的一个条件，称为与两个不同邻居相连，这是一致且局部策略证明的scf满足独裁的必要条件。此外，我们展示了在每个一致且局部策略证明的scf满足仅顶部性质的域类中，这个条件是充分的。尽管完整的特征描述仍然是一个开放的问题，但我们通过展示在与两个不同邻居相连的域上，一致性和策略证明性（一个更强的要求）保证了独裁，从而取得了重大进展。
 
 ---
-### 测试参数化的加性时变GARCH模型
-**[Testing parametric additive time-varying GARCH models](https://arxiv.org/abs/arXiv:2506.23821)**
+### 样本流失下的随机推断
+**[Randomization Inference with Sample Attrition](https://arxiv.org/abs/arXiv:2507.00795)**
 
-**Authors**: Niklas Ahlgren, Alexander Back, Timo Teräsvirta
+**Authors**: Xinran Li, Peizan Sheng, Zeyang Yu
 
-**Abstract**: We develop misspecification tests for building additive time-varying (ATV-)GARCH models. In the model, the volatility equation of the GARCH model is augmented by a deterministic time-varying intercept modeled as a linear combination of logistic transition functions. The intercept is specified by a sequence of tests, moving from specific to general. The first test is the test of the standard stationary GARCH model against an ATV-GARCH model with one transition. The alternative model is unidentified under the null hypothesis, which makes the usual LM test invalid. To overcome this problem, we use the standard method of approximating the transition function by a Taylor expansion around the null hypothesis. Testing proceeds until the first non-rejection. We investigate the small-sample properties of the tests in a comprehensive simulation study. An application to the VIX index indicates that the volatility of the index is not constant over time but begins a slow increase around the 2007-2008 financial crisis.
+**Abstract**: Although appealing, randomization inference for treatment effects can suffer from severe size distortion due to sample attrition. We propose new, computationally efficient methods for randomization inference that remain valid under a range of potentially informative missingness mechanisms. We begin by constructing valid p-values for testing sharp null hypotheses, using the worst-case p-value from the Fisher randomization test over all possible imputations of missing outcomes. Leveraging distribution-free test statistics, this worst-case p-value admits a closed-form solution, connecting naturally to bounds in the partial identification literature. Our test statistics incorporate both potential outcomes and missingness indicators, allowing us to exploit structural assumptions-such as monotone missingness-for increased power. We further extend our framework to test non-sharp null hypotheses concerning quantiles of individual treatment effects. The methods are illustrated through simulations and an empirical application.
 
-**摘要**: 我们开发了用于构建加性时变（ATV-）GARCH模型的误设定检验。在该模型中，GARCH模型的波动率方程通过一个确定性的时变截距进行了增强，该截距被建模为逻辑转换函数的线性组合。截距通过一系列从特定到一般的测试来指定。第一个测试是将标准平稳GARCH模型与具有一个转换的ATV-GARCH模型进行对比的测试。在零假设下，备择模型无法被识别，这使得通常的LM检验无效。为了克服这个问题，我们使用了围绕零假设对转换函数进行泰勒展开的标准方法。测试一直进行，直到第一次不拒绝。我们在一项全面的模拟研究中调查了测试的小样本特性。对VIX指数的应用表明，该指数的波动性并非随时间恒定，而是在2007-2008年金融危机左右开始缓慢上升。
-
----
-### 最小最大值和贝叶斯最优最佳臂识别：治疗选择的自适应实验设计
-**[Minimax and Bayes Optimal Best-arm Identification: Adaptive Experimental Design for Treatment Choice](https://arxiv.org/abs/arXiv:2506.24007)**
-
-**Authors**: Masahiro Kato
-
-**Abstract**: This study investigates adaptive experimental design for treatment choice, also known as fixed-budget best-arm identification. We consider an adaptive procedure consisting of a treatment-allocation phase followed by a treatment-choice phase, and we design an adaptive experiment for this setup to efficiently identify the best treatment arm, defined as the one with the highest expected outcome. In our designed experiment, the treatment-allocation phase consists of two stages. The first stage is a pilot phase, where we allocate each treatment arm uniformly with equal proportions to eliminate clearly suboptimal arms and estimate outcome variances. In the second stage, we allocate treatment arms in proportion to the variances estimated in the first stage. After the treatment-allocation phase, the procedure enters the treatment-choice phase, where we choose the treatment arm with the highest sample mean as our estimate of the best treatment arm. We prove that this single design is simultaneously asymptotically minimax and Bayes optimal for the simple regret, with upper bounds that match our lower bounds up to exact constants. Therefore, our designed experiment achieves the sharp efficiency limits without requiring separate tuning for minimax and Bayesian objectives.
-
-**摘要**: 本研究调查了用于治疗选择的自适应实验设计，也称为固定预算最佳臂识别。我们考虑了一个自适应程序，包括治疗分配阶段和治疗选择阶段，并为此设置设计了一个自适应实验，以高效识别最佳治疗臂，定义为具有最高预期结果的治疗臂。在我们设计的实验中，治疗分配阶段包括两个阶段。第一阶段是试点阶段，我们均匀地以相等比例分配每个治疗臂，以消除明显的次优臂并估计结果方差。第二阶段，我们根据第一阶段估计的方差按比例分配治疗臂。治疗分配阶段结束后，程序进入治疗选择阶段，我们选择样本均值最高的治疗臂作为最佳治疗臂的估计。我们证明了这种单一设计同时是简单遗憾的渐近最小最大和贝叶斯最优，其上界与我们的下界完全匹配到确切的常数。因此，我们设计的实验实现了尖锐的效率极限，而不需要为最小最大和贝叶斯目标分别调整。
+**摘要**: 尽管随机化推断在处理效应方面具有吸引力，但由于样本流失，它可能会受到严重的尺寸扭曲影响。我们提出了一些新的、计算效率高的随机化推断方法，这些方法在一系列可能的信息性缺失机制下仍然有效。我们首先构建了用于测试尖锐零假设的有效p值，这些p值来自于费舍尔随机化测试中最坏情况下的p值，涵盖了所有可能的缺失结果的插补。利用无分布的测试统计量，这种最坏情况下的p值允许一个封闭形式的解决方案，自然地与部分识别文献中的界限相联系。我们的测试统计量结合了潜在结果和缺失指标，使我们能够利用结构性假设——如单调缺失——以增加功效。我们进一步扩展了我们的框架，以测试关于个体处理效应分位数的非尖锐零假设。这些方法通过模拟和实证应用进行了说明。
 
 ---
-### 对工具变量回归的改进推断
-**[An Improved Inference for IV Regressions](https://arxiv.org/abs/arXiv:2506.23816)**
+### 似然广义矩估计：一种准贝叶斯方法
+**[Plausible GMM: A Quasi-Bayesian Approach](https://arxiv.org/abs/arXiv:2507.00555)**
 
-**Authors**: Liyu Dou, Pengjin Min, Wenjie Wang, Yichong Zhang
+**Authors**: Victor Chernozhukov, Christian B. Hansen, Lingwei Kong, Weining Wang
 
-**Abstract**: Researchers often report empirical results that are based on low-dimensional IVs, such as the shift-share IV, together with many IVs. Could we combine these results in an efficient way and take advantage of the information from both sides? In this paper, we propose a combination inference procedure to solve the problem. Specifically, we consider a linear combination of three test statistics: a standard cluster-robust Wald statistic based on the low-dimensional IVs, a leave-one-cluster-out Lagrangian Multiplier (LM) statistic, and a leave-one-cluster-out Anderson-Rubin (AR) statistic. We first establish the joint asymptotic normality of the Wald, LM, and AR statistics and derive the corresponding limit experiment under local alternatives. Then, under the assumption that at least the low-dimensional IVs can strongly identify the parameter of interest, we derive the optimal combination test based on the three statistics and establish that our procedure leads to the uniformly most powerful (UMP) unbiased test among the class of tests considered. In particular, the efficiency gain from the combined test is of ``free lunch" in the sense that it is always at least as powerful as the test that is only based on the low-dimensional IVs or many IVs.
+**Abstract**: Structural estimation in economics often makes use of models formulated in terms of moment conditions. While these moment conditions are generally well-motivated, it is often unknown whether the moment restrictions hold exactly. We consider a framework where researchers model their belief about the potential degree of misspecification via a prior distribution and adopt a quasi-Bayesian approach for performing inference on structural parameters. We provide quasi-posterior concentration results, verify that quasi-posteriors can be used to obtain approximately optimal Bayesian decision rules under the maintained prior structure over misspecification, and provide a form of frequentist coverage results. We illustrate the approach through empirical examples where we obtain informative inference for structural objects allowing for substantial relaxations of the requirement that moment conditions hold exactly.
 
-**摘要**: 研究人员经常报告基于低维工具变量（IVs）的实证结果，例如位移份额IV，以及许多其他IVs。我们能否以一种有效的方式结合这些结果，并利用双方的信息？在本文中，我们提出了一种组合推断程序来解决这个问题。具体来说，我们考虑三个检验统计量的线性组合：一个基于低维IVs的标准聚类稳健Wald统计量，一个剔除一个聚类的拉格朗日乘数（LM）统计量，以及一个剔除一个聚类的安德森-鲁宾（AR）统计量。我们首先建立Wald、LM和AR统计量的联合渐近正态性，并在局部备择假设下推导出相应的极限实验。然后，在至少低维IVs可以强有力地识别感兴趣参数的假设下，我们基于这三个统计量推导出最优组合检验，并建立我们的程序导致在考虑的检验类别中统一最有力（UMP）无偏检验。特别是，组合检验的效率增益是“免费午餐”意义上的，因为它总是至少和仅基于低维IVs或许多IVs的检验一样有力。
-
----
-### 使用定量贸易模型评估欧盟碳边境调节机制
-**[Evaluating the EU Carbon Border Adjustment Mechanism with a Quantitative Trade Model](https://arxiv.org/abs/arXiv:2506.23341)**
-
-**Authors**: Noemi Walczak, Kenan Huremović, Armando Rungi
-
-**Abstract**: This paper examines the economic and environmental impacts of the European Carbon Border Adjustment Mechanism (CBAM). We develop a multi-country, multi-sector general equilibrium model with input-output linkages and characterise the general equilibrium response of trade flows, welfare and emissions. As far as we know, this is the first quantitative trade model that jointly endogenises the Emission Trading Scheme (ETS) allowances and CBAM prices. We find that the CBAM increases by 0.005\% the EU Gross National Expenditure (GNE), while trade shifts towards domestic cleaner production. Notably, emissions embodied in direct EU imports fall by almost 4.80\%, but supply chain's upstream substitution effects imply a decrease in emissions embodied in EU indirect imports by about 3\%. The latter involves a dampening effect that we can detect only by explicitly incorporating the production network. In contrast, extra-EU countries experience a slight decline in GNE (0.009\%) and a reduction in emissions leakage (0.11\%).
-
-**摘要**: 本文研究了欧洲碳边境调节机制（CBAM）的经济和环境影响。我们构建了一个包含多国、多部门的一般均衡模型，并考虑了投入产出联系，以描述贸易流动、福利和排放的一般均衡响应。据我们所知，这是第一个量化贸易模型，它同时内生化了排放交易计划（ETS）配额和CBAM价格。我们发现，CBAM使欧盟国民总支出（GNE）增加了0.005%，同时贸易转向国内更清洁的生产。值得注意的是，直接欧盟进口中隐含的排放量下降了近4.80%，但供应链上游替代效应意味着欧盟间接进口中隐含的排放量减少了约3%。后者涉及的抑制效应，我们只能通过明确纳入生产网络来检测。相比之下，欧盟以外的国家国民总支出略有下降（0.009%），排放泄漏减少了0.11%。
+**摘要**: 在经济学中，结构估计经常利用以矩条件表述的模型。虽然这些矩条件通常有很好的理论基础，但通常不清楚这些矩限制是否完全成立。我们考虑一个框架，研究者通过先验分布来模拟他们对潜在误设定程度的信仰，并采用准贝叶斯方法来对结构参数进行推断。我们提供了准后验集中的结果，验证了在维持对误设定的先验结构的情况下，准后验可以用来获得近似最优的贝叶斯决策规则，并提供了一种频率论覆盖结果。我们通过实证例子来说明这种方法，其中我们对结构对象进行了信息丰富的推断，允许在很大程度上放宽矩条件完全成立的要求。
 
 ---
-### 在动荡时期模拟欧洲电力市场一体化
-**[Modeling European Electricity Market Integration during turbulent times](https://arxiv.org/abs/arXiv:2506.23289)**
+### 比较大数据下的误设定模型：变分贝叶斯视角
+**[Comparing Misspecified Models with Big Data: A Variational Bayesian Perspective](https://arxiv.org/abs/arXiv:2507.00763)**
 
-**Authors**: Francesco Ravazzolo, Luca Rossini, Andrea Viselli
+**Authors**: Yong Li, Sushanta K. Mallick, Tao Zeng, Junxing Zhang
 
-**Abstract**: This paper introduces a novel Bayesian reverse unrestricted mixed-frequency model applied to a panel of nine European electricity markets. Our model analyzes the impact of daily fossil fuel prices and hourly renewable energy generation on hourly electricity prices, employing a hierarchical structure to capture cross-country interdependencies and idiosyncratic factors. The inclusion of random effects demonstrates that electricity market integration both mitigates and amplifies shocks. Our results highlight that while renewable energy sources consistently reduce electricity prices across all countries, gas prices remain a dominant driver of cross-country electricity price disparities and instability. This finding underscores the critical importance of energy diversification, above all on renewable energy sources, and coordinated fossil fuel supply strategies for bolstering European energy security.
+**Abstract**: Optimal data detection in massive multiple-input multiple-output (MIMO) systems often requires prohibitively high computational complexity. A variety of detection algorithms have been proposed in the literature, offering different trade-offs between complexity and detection performance. In recent years, Variational Bayes (VB) has emerged as a widely used method for addressing statistical inference in the context of massive data. This study focuses on misspecified models and examines the risk functions associated with predictive distributions derived from variational posterior distributions. These risk functions, defined as the expectation of the Kullback-Leibler (KL) divergence between the true data-generating density and the variational predictive distributions, provide a framework for assessing predictive performance. We propose two novel information criteria for predictive model comparison based on these risk functions. Under certain regularity conditions, we demonstrate that the proposed information criteria are asymptotically unbiased estimators of their respective risk functions. Through comprehensive numerical simulations and empirical applications in economics and finance, we demonstrate the effectiveness of these information criteria in comparing misspecified models in the context of massive data.
 
-**摘要**: 本文介绍了一种新颖的贝叶斯反向无限制混合频率模型，应用于九个欧洲电力市场的面板数据。我们的模型分析了每日化石燃料价格和每小时可再生能源发电量对每小时电力价格的影响，采用层次结构来捕捉跨国相互依赖性和特殊因素。随机效应的纳入表明，电力市场一体化既减轻又放大了冲击。我们的结果强调，虽然可再生能源在所有国家始终降低了电力价格，但天然气价格仍然是跨国电力价格差异和不稳定性的主要驱动因素。这一发现强调了能源多样化的重要性，尤其是可再生能源，以及协调化石燃料供应策略对于加强欧洲能源安全至关重要。
-
----
-### 基于设计的和基于网络抽样的网络实验中的不确定性
-**[Design-Based and Network Sampling-Based Uncertainties in Network Experiments](https://arxiv.org/abs/arXiv:2506.22989)**
-
-**Authors**: Kensuke Sakamoto, Yuya Shimizu
-
-**Abstract**: OLS estimators are widely used in network experiments to estimate spillover effects via regressions on exposure mappings that summarize treatment and network structure. We study the causal interpretation and inference of such OLS estimators when both design-based uncertainty in treatment assignment and sampling-based uncertainty in network links are present. We show that correlations among elements of the exposure mapping can contaminate the OLS estimand, preventing it from aggregating heterogeneous spillover effects for clear causal interpretation. We derive the estimator's asymptotic distribution and propose a network-robust variance estimator. Simulations and an empirical application reveal sizable contamination bias and inflated spillover estimates.
-
-**摘要**: 普通最小二乘（OLS）估计器在网络实验中被广泛用于通过回归暴露映射来估计溢出效应，这些映射总结了治疗和网络结构。我们研究了当治疗分配的设计基础不确定性和网络链接的抽样基础不确定性都存在时，这类OLS估计器的因果解释和推断。我们展示了暴露映射中元素之间的相关性可能会污染OLS估计量，阻止它为清晰的因果解释聚合异质的溢出效应。我们推导出估计器的渐近分布，并提出了一个网络稳健的方差估计器。模拟和一个实证应用揭示了相当大的污染偏差和膨胀的溢出估计。
+**摘要**: 在大规模多输入多输出（MIMO）系统中进行最优数据检测通常需要极高的计算复杂度。文献中提出了多种检测算法，它们在复杂度和检测性能之间提供了不同的权衡。近年来，变分贝叶斯（VB）已成为处理大规模数据背景下统计推断的广泛使用的方法。本研究关注错误指定的模型，并检验与从变分后验分布导出的预测分布相关的风险函数。这些风险函数定义为真实数据生成密度与变分预测分布之间的Kullback-Leibler（KL）散度的期望，为评估预测性能提供了一个框架。我们提出了两个基于这些风险函数的新的预测模型比较信息准则。在某些正则性条件下，我们证明了所提出的信息准则是它们各自风险函数的渐近无偏估计量。通过全面的数值模拟以及在经济学和金融学中的实证应用，我们展示了这些信息准则在大规模数据背景下比较错误指定模型的有效性。
 
 ---
-### 数字化转型与就业结构重组：来自中国上市公司的证据
-**[Digital Transformation and the Restructuring of Employment: Evidence from Chinese Listed Firms](https://arxiv.org/abs/arXiv:2506.23230)**
+### 动态信噪比引导的迭代干扰消除在双重色散信道中的ODDM系统
+**[Dynamic SINR-Guided Iterative Interference Cancellation for ODDM Systems in Doubly Dispersive Channels](https://arxiv.org/abs/arXiv:2507.00397)**
 
-**Authors**: Yubo Cheng
+**Authors**: Jiasong Han, Xuehan Wang, Jintao Wang
 
-**Abstract**: This paper examines how digital transformation reshapes employment structures within Chinese listed firms, focusing on occupational functions and task intensity. Drawing on recruitment data classified under ISCO-08 and the Chinese Standard Occupational Classification 2022, we categorize jobs into five functional groups: management, professional, technical, auxiliary, and manual. Using a task-based framework, we construct routine, abstract, and manual task intensity indices through keyword analysis of job descriptions. We find that digitalization is associated with increased hiring in managerial, professional, and technical roles, and reduced demand for auxiliary and manual labor. At the task level, abstract task demand rises, while routine and manual tasks decline. Moderation analyses link these shifts to improvements in managerial efficiency and executive compensation. Our findings highlight how emerging technologies, including large language models (LLMs), are reshaping skill demands and labor dynamics in Chinas corporate sector.
+**Abstract**: Orthogonal delay-Doppler division multiplexing (ODDM) modulation has recently gained significant attention as a promising candidate to promote the communication reliability in high-mobility environments. Low complexity signal detection is one of the most significant challenges for ODDM over general physical channels, due to the large channel spreading caused by the fractional delay and Doppler shifts. In this paper, we investigate the low-complexity data detection for ODDM system by utilizing iterative interference cancellation. Based on the theoretical analysis of signal to interference plus noise ratio (SINR) during the iteration, a dynamic SINR-guided approach is proposed to provide a better initialization result. Specifically, we analyze the SINR of each time domain sample before initial estimate with consideration of off-grid delay and Doppler shifts. The iteration is then started from the multi-carrier symbol index which has the best SINR. The corresponding interference is then eliminated for other time domain samples while the SINR for symbol awaiting detection is also updated. Based on the updated SINR, the next multi-carrier symbol index is selected for the same processing until all data symbols have been initialized. Finally, we update the SINR synchronously until the end of the initialization. Simulation experiments indicate that our proposed algorithms demonstrate satisfying convergence and error performance while avoiding the huge complexity introduced by full linear minimum mean squared error (LMMSE) initialization.
 
-**摘要**: 本文考察了数字化转型如何重塑中国上市公司的就业结构，重点关注职业功能和任务强度。利用按照ISCO-08和2022年中国标准职业分类进行分类的招聘数据，我们将工作分为五个功能组：管理、专业、技术、辅助和手工。通过工作描述的关键词分析，我们构建了基于任务的框架，创建了常规、抽象和手工任务强度指数。我们发现，数字化与增加管理、专业和技术角色的招聘以及减少对辅助和手工劳动力的需求有关。在任务层面，抽象任务需求上升，而常规和手工任务下降。调节分析将这些变化与提高管理效率和高管薪酬联系起来。我们的发现强调了新兴技术，包括大型语言模型（LLMs），如何重塑中国企业部门的技能需求和劳动动态。
-
----
-### P-CRE-DML：一种非线性面板数据因果推断的新方法
-**[P-CRE-DML: A Novel Approach for Causal Inference in Non-Linear Panel Data](https://arxiv.org/abs/arXiv:2506.23297)**
-
-**Authors**: Amarendra Sharma
-
-**Abstract**: This paper introduces a novel Proxy-Enhanced Correlated Random Effects Double Machine Learning (P-CRE-DML) framework to estimate causal effects in panel data with non-linearities and unobserved heterogeneity. Combining Double Machine Learning (DML, Chernozhukov et al., 2018), Correlated Random Effects (CRE, Mundlak, 1978), and lagged variables (Arellano & Bond, 1991) and innovating within the CRE-DML framework (Chernozhukov et al., 2022; Clarke & Polselli, 2025; Fuhr & Papies, 2024), we apply P-CRE-DML to investigate the effect of social trust on GDP growth across 89 countries (2010-2020). We find positive and statistically significant relationship between social trust and economic growth. This aligns with prior findings on trust-growth relationship (e.g., Knack & Keefer, 1997). Furthermore, a Monte Carlo simulation demonstrates P-CRE-DML's advantage in terms of lower bias over CRE-DML and System GMM. P-CRE-DML offers a robust and flexible alternative for panel data causal inference, with applications beyond economic growth.
-
-**摘要**: 本文介绍了一种新颖的代理增强型相关随机效应双重机器学习（P-CRE-DML）框架，用于估计具有非线性和未观察到的异质性的面板数据中的因果效应。结合双重机器学习（DML, Chernozhukov等人，2018年）、相关随机效应（CRE, Mundlak, 1978年）和滞后变量（Arellano & Bond, 1991年），并在CRE-DML框架（Chernozhukov等人，2022年；Clarke & Polselli, 2025年；Fuhr & Papies, 2024年）内进行创新，我们将P-CRE-DML应用于研究社会信任对89个国家（2010-2020年）GDP增长的影响。我们发现社会信任与经济增长之间存在积极且统计显著的关系。这与之前关于信任-增长关系的研究结果一致（例如，Knack & Keefer, 1997年）。此外，蒙特卡洛模拟显示，与CRE-DML和系统GMM相比，P-CRE-DML在降低偏差方面具有优势。P-CRE-DML为面板数据因果推断提供了一种稳健灵活的替代方案，其应用范围不仅限于经济增长。
+**摘要**: 正交延迟-多普勒分复用（ODDM）调制技术因其在高移动性环境中提升通信可靠性的潜力而近期受到广泛关注。在一般物理信道上，低复杂度信号检测是ODDM面临的最重大挑战之一，因为分数延迟和多普勒频移引起的大信道扩展。本文通过利用迭代干扰消除方法，研究了ODDM系统的低复杂度数据检测。基于对迭代过程中信噪比加干扰比（SINR）的理论分析，提出了一种动态SINR引导方法，以提供更好的初始化结果。具体来说，我们在初始估计之前分析了每个时域样本的SINR，并考虑了非网格延迟和多普勒频移。然后从具有最佳SINR的多载波符号索引开始迭代。同时，对于待检测符号的SINR也进行了更新，消除了其他时域样本的相应干扰。基于更新后的SINR，选择下一个多载波符号索引进行相同处理，直到所有数据符号都被初始化。最后，我们同步更新SINR，直到初始化结束。模拟实验表明，我们提出的算法在避免全线性最小均方误差（LMMSE）初始化引入的巨大复杂度的同时，展现出了令人满意的收敛性和误码性能。
 
 ---
-### 追踪最经济健康饮食的可负担性有助于指导食品安全和改善营养的干预措施。
-**[Tracking the affordability of least-cost healthy diets helps guide intervention for food security and improved nutrition](https://arxiv.org/abs/arXiv:2506.22965)**
+### 利用共单调性在回归不连续设计中的外推
+**[Extrapolation in Regression Discontinuity Design Using Comonotonicity](https://arxiv.org/abs/arXiv:2507.00289)**
 
-**Authors**: William A. Masters
+**Authors**: Ben Deaner, Soonwoo Kwon
 
-**Abstract**: This Policy Comment describes how the Food Policy article entitled 'Cost and affordability of nutritious diets at retail prices: Evidence from 177 countries' (first published October 2020) and 'Retail consumer price data reveal gaps and opportunities to monitor food systems for nutrition' (first published September 2021) advanced the use of least-cost benchmark diets to monitor and improve food security. Those papers contributed to the worldwide use of least-cost diets as a new diagnostic indicator of food access, helping to distinguish among causes of poor diet quality related to high prices, low incomes, or displacement by other food options, thereby guiding intervention toward universal access to healthy diets.
+**Abstract**: We present a novel approach for extrapolating causal effects away from the margin between treatment and non-treatment in sharp regression discontinuity designs with multiple covariates. Our methods apply both to settings in which treatment is a function of multiple observables and settings in which treatment is determined based on a single running variable. Our key identifying assumption is that conditional average treated and untreated potential outcomes are comonotonic: covariate values associated with higher average untreated potential outcomes are also associated with higher average treated potential outcomes. We provide an estimation method based on local linear regression. Our estimands are weighted average causal effects, even if comonotonicity fails. We apply our methods to evaluate counterfactual mandatory summer school policies.
 
-**摘要**: 这篇政策评论描述了题为《零售价格下营养饮食的成本和可负担性：来自177个国家的证据》（首次发表于2020年10月）和《零售消费者价格数据揭示了监测食物系统营养方面的差距和机会》（首次发表于2021年9月）的食物政策文章如何推进了使用最低成本基准饮食来监测和改善粮食安全。这些论文促进了全球范围内将最低成本饮食作为一种新的诊断指标来衡量食物获取情况，帮助区分与高价格、低收入或被其他食物选择取代相关的饮食质量差的原因，从而指导干预措施朝向实现健康饮食的普遍获取。
-
----
-### 聚合处理的因果推断
-**[Causal Inference for Aggregated Treatment](https://arxiv.org/abs/arXiv:2506.22885)**
-
-**Authors**: Carolina Caetano, Gregorio Caetano, Brantly Callaway, Derek Dyal
-
-**Abstract**: In this paper, we study causal inference when the treatment variable is an aggregation of multiple sub-treatment variables. Researchers often report marginal causal effects for the aggregated treatment, implicitly assuming that the target parameter corresponds to a well-defined average of sub-treatment effects. We show that, even in an ideal scenario for causal inference such as random assignment, the weights underlying this average have some key undesirable properties: they are not unique, they can be negative, and, holding all else constant, these issues become exponentially more likely to occur as the number of sub-treatments increases and the support of each sub-treatment grows. We propose approaches to avoid these problems, depending on whether or not the sub-treatment variables are observed.
-
-**摘要**: 在本文中，我们研究了当处理变量是多个子处理变量的聚合时的因果推断。研究者们经常报告聚合处理的边际因果效应，隐含地假设目标参数对应于子处理效应的一个明确定义的平均值。我们展示了，即使在随机分配这样的理想因果推断情境下，这个平均值背后的权重具有一些关键的不良属性：它们不是唯一的，它们可能是负的，而且，保持其他所有条件不变，随着子处理的数量增加和每个子处理的支持增长，这些问题发生的可能性呈指数级增长。我们提出了避免这些问题的方法，这取决于是否观察到子处理变量。
+**摘要**: 我们提出了一种新的方法，用于在具有多个协变量的尖锐回归不连续设计中，从处理与非处理之间的边缘外推因果效应。我们的方法既适用于处理是多个可观测函数的情况，也适用于基于单一运行变量确定处理的情况。我们的关键识别假设是，条件平均处理和未处理潜在结果是共同单调的：与更高平均未处理潜在结果相关的协变量值也与更高平均处理潜在结果相关。我们提供了一种基于局部线性回归的估计方法。即使共同单调性失败，我们的估计量也是加权平均因果效应。我们将我们的方法应用于评估反事实的强制性暑期学校政策。
 
 ---
-### 全球范围内住宅能源需求的温度敏感性：贝叶斯部分汇总模型
-**[Temperature Sensitivity of Residential Energy Demand on the Global Scale: A Bayesian Partial Pooling Model](https://arxiv.org/abs/arXiv:2506.22768)**
+### 当干扰参数可能部分被识别时的稳健推断及其在合成控制中的应用
+**[Robust Inference when Nuisance Parameters may be Partially Identified with Applications to Synthetic Controls](https://arxiv.org/abs/arXiv:2507.00307)**
 
-**Authors**: Peer Lasse Hinrichsen, Katrin Rehdanz, Richard S.J. Tol
+**Authors**: Joseph Fry
 
-**Abstract**: This paper contributes to the limited literature on the temperature sensitivity of residential energy demand on a global scale. Using a Bayesian Partial Pooling model, we estimate country-specific intercepts and slopes, focusing on non-linear temperature response functions. The results, based on data for up to 126 countries spanning from 1978 to 2023, indicate a higher demand for residential electricity and natural gas at temperatures below -5 degrees Celsius and a higher demand for electricity at temperatures above 30 degrees Celsius. For temperatures above 23.5 degrees Celsius, the relationship between power demand and temperature steepens. Demand in developed countries is more sensitive to high temperatures than in less developed countries, possibly due to an inability to meet cooling demands in the latter.
+**Abstract**: When conducting inference for the average treatment effect on the treated with a Synthetic Control Estimator, the vector of control weights is a nuisance parameter which is often constrained, high-dimensional, and may be only partially identified even when the average treatment effect on the treated is point-identified. All three of these features of a nuisance parameter can lead to failure of asymptotic normality for the estimate of the parameter of interest when using standard methods. I provide a new method yielding asymptotic normality for an estimate of the parameter of interest, even when all three of these complications are present. This is accomplished by first estimating the nuisance parameter using a regularization penalty to achieve a form of identification, and then estimating the parameter of interest using moment conditions that have been orthogonalized with respect to the nuisance parameter. I present high-level sufficient conditions for the estimator and verify these conditions in an example involving Synthetic Controls.
 
-**摘要**: 本文为全球范围内关于住宅能源需求的温度敏感性的有限文献做出了贡献。我们使用贝叶斯部分汇总模型，估计了特定国家的截距和斜率，重点关注非线性的温度响应函数。基于1978年至2023年多达126个国家的数据，结果表明，在低于零下5摄氏度的温度下，对住宅电力和天然气的需求更高，在高于30摄氏度的温度下，对电力的需求更高。对于高于23.5摄氏度的温度，电力需求与温度之间的关系变得更加陡峭。发达国家的需求对高温更为敏感，可能的原因是后者无法满足制冷需求。
-
----
-### 熵正则化信念报告
-**[Entropy Regularized Belief Reporting](https://arxiv.org/abs/arXiv:2506.22649)**
-
-**Authors**: Elchin Suleymanov
-
-**Abstract**: This paper investigates a model of partition dependence, a widely reported experimental finding where the agent's reported beliefs depend on how the states are grouped. In the model, called Entropy Regularized Belief Reporting (ERBR), the agent is endowed with a latent benchmark prior that is unobserved by the analyst. When presented with a partition, the agent reports a prior that minimizes Kullback-Leibler divergence from the latent benchmark prior subject to entropy regularization. This captures the intuition that while the agent would like to report a prior that is close to her latent benchmark prior, she may also have a preference to remain noncommittal. I axiomatically characterize the model and apply it to the experimental data from Benjamin et al. (2017).
-
-**摘要**: 本文研究了一个被称为分区依赖的模型，这是一个被广泛报道的实验发现，其中代理人报告的信念取决于状态是如何分组的。在这个模型中，称为熵正则化信念报告（ERBR），代理人被赋予了一个分析师无法观察到的潜在基准先验。当面对一个分区时，代理人报告一个先验，该先优先在熵正则化的条件下最小化与潜在基准先验的库勒贝克-莱布勒散度。这捕捉了这样的直觉：尽管代理人希望报告一个接近她潜在基准先验的先验，但她也可能有保持不承诺的偏好。我通过公理化方法对模型进行了特征描述，并将其应用于Benjamin等人（2017年）的实验数据。
+**摘要**: 在对处理组的平均处理效应进行合成控制估计器的推断时，控制权重向量是一个令人烦恼的参数，通常受到限制，维度高，并且即使处理组的平均处理效应是点识别的，也可能只是部分识别。这三个令人烦恼的参数特征都可能导致在使用标准方法时，感兴趣参数的估计量不具有渐近正态性。我提供了一种新方法，即使在所有这三种复杂情况都存在时，也能使感兴趣参数的估计量具有渐近正态性。这是通过首先使用正则化惩罚估计令人烦恼的参数以实现一种识别形式，然后使用相对于令人烦恼的参数正交化的时刻条件来估计感兴趣参数来实现的。我提出了估计器的高级充分条件，并在涉及合成控制的例子中验证了这些条件。
 
 ---
-### 过度参数化的模型和后验漂移
-**[Overparametrized models with posterior drift](https://arxiv.org/abs/arXiv:2506.23619)**
+### 重新配置数字责任：后国家会计背景下的人工智能驱动创新和跨国治理
+**[Reconfiguring Digital Accountability: AI-Powered Innovations and Transnational Governance in a Postnational Accounting Context](https://arxiv.org/abs/arXiv:2507.00288)**
 
-**Authors**: Guillaume Coqueret, Martial Laguerre
+**Authors**: Claire Li, David Freeborn
 
-**Abstract**: This paper investigates the impact of posterior drift on out-of-sample forecasting accuracy in overparametrized machine learning models. We document the loss in performance when the loadings of the data generating process change between the training and testing samples. This matters crucially in settings in which regime changes are likely to occur, for instance, in financial markets. Applied to equity premium forecasting, our results underline the sensitivity of a market timing strategy to sub-periods and to the bandwidth parameters that control the complexity of the model. For the average investor, we find that focusing on holding periods of 15 years can generate very heterogeneous returns, especially for small bandwidths. Large bandwidths yield much more consistent outcomes, but are far less appealing from a risk-adjusted return standpoint. All in all, our findings tend to recommend cautiousness when resorting to large linear models for stock market predictions.
+**Abstract**: This study explores how AI-powered digital innovations are reshaping organisational accountability in a transnational governance context. As AI systems increasingly mediate decision-making in domains such as auditing and financial reporting, traditional mechanisms of accountability, based on control, transparency, and auditability, are being destabilised. We integrate the Technology Acceptance Model (TAM), Actor-Network Theory (ANT), and institutional theory to examine how organisations adopt AI technologies in response to regulatory, ethical, and cultural pressures that transcend national boundaries. We argue that accountability is co-constructed within global socio-technical networks, shaped not only by user perceptions but also by governance logics and normative expectations. Extending TAM, we incorporate compliance and legitimacy as key factors in perceived usefulness and usability. Drawing on ANT, we reconceptualise accountability as a relational and emergent property of networked assemblages. We propose two organisational strategies including internal governance reconfiguration and external actor-network engagement to foster responsible, legitimate, and globally accepted AI adoption in the accounting domain.
 
-**摘要**: 本文研究了后验漂移对超参数化机器学习模型样本外预测准确性的影响。我们记录了当数据生成过程的载荷在训练和测试样本之间发生变化时，性能的损失。这在可能出现制度变化的环境中至关重要，例如在金融市场中。将此应用于股票溢价预测，我们的结果强调了市场时机策略对子时期和控制模型复杂性的带宽参数的敏感性。对于普通投资者而言，我们发现专注于15年的持有期可以产生非常异质的回报，尤其是对于小带宽。大带宽产生的结果更加一致，但从风险调整后的回报角度来看，吸引力要小得多。总的来说，我们的发现倾向于建议在利用大型线性模型进行股市预测时要谨慎。
-
----
-### 超越代码：大型语言模型在软件开发中的多维影响
-**[Beyond Code: The Multidimensional Impacts of Large Language Models in Software Development](https://arxiv.org/abs/arXiv:2506.22704)**
-
-**Authors**: Sardar Fatooreh Bonabi, Sarah Bana, Tingting Nian, Vijay Gurbaxani
-
-**Abstract**: Large language models (LLMs) are poised to significantly impact software development, especially in the Open-Source Software (OSS) sector. To understand this impact, we first outline the mechanisms through which LLMs may influence OSS through code development, collaborative knowledge transfer, and skill development. We then empirically examine how LLMs affect OSS developers' work in these three key areas. Leveraging a natural experiment from a temporary ChatGPT ban in Italy, we employ a Difference-in-Differences framework with two-way fixed effects to analyze data from all OSS developers on GitHub in three similar countries, Italy, France, and Portugal, totaling 88,022 users. We find that access to ChatGPT increases developer productivity by 6.4%, knowledge sharing by 9.6%, and skill acquisition by 8.4%. These benefits vary significantly by user experience level: novice developers primarily experience productivity gains, whereas more experienced developers benefit more from improved knowledge sharing and accelerated skill acquisition. In addition, we find that LLM-assisted learning is highly context-dependent, with the greatest benefits observed in technically complex, fragmented, or rapidly evolving contexts. We show that the productivity effects of LLMs extend beyond direct code generation to include enhanced collaborative learning and knowledge exchange among developers; dynamics that are essential for gaining a holistic understanding of LLMs' impact in OSS. Our findings offer critical managerial implications: strategically deploying LLMs can accelerate novice developers' onboarding and productivity, empower intermediate developers to foster knowledge sharing and collaboration, and support rapid skill acquisition, together enhancing long-term organizational productivity and agility.
-
-**摘要**: 大型语言模型（LLMs）即将对软件开发产生重大影响，特别是在开源软件（OSS）领域。为了理解这种影响，我们首先概述了LLMs可能通过代码开发、协作知识转移和技能发展影响OSS的机制。然后，我们实证检验了LLMs如何影响OSS开发者在这三个方面的工作。利用意大利暂时禁止ChatGPT的自然实验，我们采用了双重差分框架和双向固定效应来分析来自GitHub上所有OSS开发者的数据，这些开发者分布在意大利、法国和葡萄牙三个相似国家，共计88,022名用户。我们发现，访问ChatGPT可以将开发者的生产力提高6.4%，知识共享提高9.6%，技能获取提高8.4%。这些好处因用户经验水平而异：新手开发者主要体验到生产力的提高，而更有经验的开发者则更多地从改善的知识共享和加速的技能获取中受益。此外，我们发现LLM辅助学习高度依赖于上下文，在技术复杂、分散或快速演变的环境中观察到的最大好处。我们展示了LLMs的生产力效应不仅限于直接代码生成，还包括增强开发者之间的协作学习和知识交流；这些动态对于全面理解LLMs在OSS中的影响至关重要。我们的发现提供了关键的管理含义：战略性地部署LLMs可以加速新手开发者的入职和生产力，赋予中级开发者促进知识共享和协作的能力，并支持快速技能获取，共同提高长期的组织生产力和灵活性。
+**摘要**: 本研究探讨了人工智能驱动的数字创新如何在跨国治理背景下重塑组织责任。随着人工智能系统越来越多地介入审计和财务报告等领域的决策，基于控制、透明度和可审计性的传统责任机制正在受到破坏。我们整合了技术接受模型（TAM）、行动者网络理论（ANT）和制度理论，以检验组织如何因应超越国界的监管、伦理和文化压力而采纳人工智能技术。我们认为，责任是在全球化的社会技术网络内共同构建的，不仅受用户感知的影响，还受治理逻辑和规范性期望的影响。在扩展TAM的基础上，我们将合规性和合法性纳入感知有用性和易用性的关键因素。借鉴ANT，我们将责任重新概念化为网络集合体的关系性和新兴属性。我们提出了两种组织策略，包括内部治理重组和外部行动者网络参与，以促进会计领域负责任、合法和全球接受的人工智能采纳。
 
 ---
-### 设计中的自主性：在人工智能决策支持中保持人类自主性
-**[Autonomy by Design: Preserving Human Autonomy in AI Decision-Support](https://arxiv.org/abs/arXiv:2506.23952)**
+### 内生网络结构与精度和维度选择
+**[Endogenous Network Structures with Precision and Dimension Choices](https://arxiv.org/abs/arXiv:2507.00249)**
 
-**Authors**: Stefan Buijsman, Sarah Carter, Juan Pablo Bermúdez
+**Authors**: Nikhil Kumar
 
-**Abstract**: AI systems increasingly support human decision-making across domains of professional, skill-based, and personal activity. While previous work has examined how AI might affect human autonomy globally, the effects of AI on domain-specific autonomy -- the capacity for self-governed action within defined realms of skill or expertise -- remain understudied. We analyze how AI decision-support systems affect two key components of domain-specific autonomy: skilled competence (the ability to make informed judgments within one's domain) and authentic value-formation (the capacity to form genuine domain-relevant values and preferences). By engaging with prior investigations and analyzing empirical cases across medical, financial, and educational domains, we demonstrate how the absence of reliable failure indicators and the potential for unconscious value shifts can erode domain-specific autonomy both immediately and over time. We then develop a constructive framework for autonomy-preserving AI support systems. We propose specific socio-technical design patterns -- including careful role specification, implementation of defeater mechanisms, and support for reflective practice -- that can help maintain domain-specific autonomy while leveraging AI capabilities. This framework provides concrete guidance for developing AI systems that enhance rather than diminish human agency within specialized domains of action.
+**Abstract**: This paper presents a social learning model where the network structure is endogenously determined by signal precision and dimension choices. Agents not only choose the precision of their signals and what dimension of the state to learn about, but these decisions directly determine the underlying network structure on which social learning occurs. We show that under a fixed network structure, the optimal precision choice is sublinear in the agent's stationary influence in the network, and this individually optimal choice is worse than the socially optimal choice by a factor of $n^{1/3}$. Under a dynamic network structure, we specify the network by defining a kernel distance between agents, which then determines how much weight agents place on one another. Agents choose dimensions to learn about such that their choice minimizes the squared sum of influences of all agents: a network with equally distributed influence across agents is ideal.
 
-**摘要**: 人工智能系统越来越多地支持人类在专业、技能基础和个人活动领域的决策。虽然以往的研究已经考察了人工智能可能如何影响人类的全球自主性，但人工智能对特定领域自主性的影响——在定义的技能或专业知识领域内自我治理行动的能力——仍然研究不足。我们分析了人工智能决策支持系统如何影响特定领域自主性的两个关键组成部分：技能能力（在自身领域内做出明智判断的能力）和真实价值形成（形成真正与领域相关的价值和偏好的能力）。通过参与先前的研究并分析医疗、金融和教育领域的实证案例，我们展示了缺乏可靠的失败指标和潜在的无意识价值转变如何能够立即和长期侵蚀特定领域的自主性。然后我们为维护自主性的人工智能支持系统开发了一个建设性框架。我们提出了具体的社会技术设计模式——包括谨慎的角色规范、实施败因机制和支持反思实践——这些可以帮助在利用人工智能能力的同时保持特定领域的自主性。该框架为开发增强而非削弱人类在专业行动领域中的代理能力的人工智能系统提供了具体指导。
-
----
-### 在路线选择城市博弈中协调车队车辆的检测。第一部分。逆向车队分配理论
-**[Detection of coordinated fleet vehicles in route choice urban games. Part I. Inverse fleet assignment theory](https://arxiv.org/abs/arXiv:2506.22966)**
-
-**Authors**: Grzegorz Jamróz, Rafał Kucharski
-
-**Abstract**: Detection of collectively routing fleets of vehicles in future urban systems may become important for the management of traffic, as such routing may destabilize urban networks leading to deterioration of driving conditions. Accordingly, in this paper we discuss the question whether it is possible to determine the flow of fleet vehicles on all routes given the fleet size and behaviour as well as the combined total flow of fleet and non-fleet vehicles on every route. We prove that the answer to this Inverse Fleet Assignment Problem is 'yes' for myopic fleet strategies which are more 'selfish' than 'altruistic', and 'no' otherwise, under mild assumptions on route/link performance functions. To reach these conclusions we introduce the forward fleet assignment operator and study its properties, proving that it is invertible for 'bad' objectives of fleet controllers. We also discuss the challenges of implementing myopic fleet routing in the real world and compare it to Stackelberg and Nash routing. Finally, we show that optimal Stackelberg fleet routing could involve highly variable mixed strategies in some scenarios, which would likely cause chaos in the traffic network.
-
-**摘要**: 在未来的城市系统中，检测集体路由车队可能对交通管理变得重要，因为这样的路由可能会破坏城市网络，导致驾驶条件恶化。因此，在本文中，我们讨论了是否可以在给定车队规模和行为以及每条路线上车队和非车队车辆的总流量的情况下，确定所有路线上的车队车辆流量的问题。我们证明了对于比“利他”更“自私”的短视车队策略，逆向车队分配问题的答案是“可以”，否则在对路线/链接性能函数的温和假设下答案是“不可以”。为了得出这些结论，我们引入了前向车队分配算子并研究了其属性，证明了它对于车队控制器的“不良”目标是可逆的。我们还讨论了在现实世界中实施短视车队路由的挑战，并将其与斯塔克尔伯格和纳什路由进行了比较。最后，我们展示了在某些情况下，最优的斯塔克尔伯格车队路由可能涉及高度可变的混合策略，这可能会导致交通网络中的混乱。
+**摘要**: 本文提出了一个社会学习模型，其中网络结构由信号精度和维度选择内生地决定。代理人不仅选择他们信号的精度和要学习的状态维度，而且这些决策直接决定了社会学习发生的基础网络结构。我们展示了在固定网络结构下，最优精度选择是代理人在网络中固定影响力的次线性函数，并且这种个体最优选择比社会最优选择差一个 $n^{1/3}$ 的因子。在动态网络结构下，我们通过定义代理人之间的核距离来指定网络，这决定了代理人彼此之间的权重。代理人选择学习的维度，使得他们的选择最小化所有代理人影响力的平方和：一个在代理人之间平均分配影响力的网络是理想的。
 
 ---
-### 对具有连续处理的随机对象结果的因果效应进行双重稳健估计
-**[Doubly robust estimation of causal effects for random object outcomes with continuous treatments](https://arxiv.org/abs/arXiv:2506.22754)**
+### 影响水平施工项目变更订单的因素：单价合同与总价合同的比较分析
+**[Factors Influencing Change Orders in Horizontal Construction Projects: A Comparative Analysis of Unit Price and Lump Sum Contracts](https://arxiv.org/abs/arXiv:2507.00281)**
 
-**Authors**: Satarupa Bhattacharjee, Bing Li, Xiao Wu, Lingzhou Xue
+**Authors**: Mohamed Khalafalla, Tejal Mulay, Shonda L Bernadin
 
-**Abstract**: Causal inference is central to statistics and scientific discovery, enabling researchers to identify cause-and-effect relationships beyond associations. While traditionally studied within Euclidean spaces, contemporary applications increasingly involve complex, non-Euclidean data structures that reside in abstract metric spaces, known as random objects, such as images, shapes, networks, and distributions. This paper introduces a novel framework for causal inference with continuous treatments applied to non-Euclidean data. To address the challenges posed by the lack of linear structures, we leverage Hilbert space embeddings of the metric spaces to facilitate Fréchet mean estimation and causal effect mapping. Motivated by a study on the impact of exposure to fine particulate matter on age-at-death distributions across U.S. counties, we propose a nonparametric, doubly-debiased causal inference approach for outcomes as random objects with continuous treatments. Our framework can accommodate moderately high-dimensional vector-valued confounders and derive efficient influence functions for estimation to ensure both robustness and interpretability. We establish rigorous asymptotic properties of the cross-fitted estimators and employ conformal inference techniques for counterfactual outcome prediction. Validated through numerical experiments and applied to real-world environmental data, our framework extends causal inference methodologies to complex data structures, broadening its applicability across scientific disciplines.
+**Abstract**: Change orders (COs) are a common occurrence in construction projects, leading to increased costs and extended durations. Design-Bid-Build (DBB) projects, favored by state transportation agencies (STAs), often experience a higher frequency of COs compared to other project delivery methods. This study aims to identify areas of improvement to reduce CO frequency in DBB projects through a quantitative analysis. Historical bidding data from the Florida Department of Transportation (FDOT) was utilized to evaluate five factors, contracting technique, project location, type of work, project size, and duration, on specific horizontal construction projects. Two DBB contracting techniques, Unit Price (UP) and Lump Sum (LS), were evaluated using a discrete choice model. The analysis of 581 UP and 189 LS projects revealed that project size, duration, and type of work had a statistically significant influence on the frequency of change orders at a 95% confidence level. The discrete choice model showed significant improvement in identifying the appropriate contract type for a specific project compared to traditional methods used by STAs. By evaluating the contracting technique instead of project delivery methods for horizontal construction projects, the use of DBB can be enhanced, leading to reduced change orders for STAs.
 
-**摘要**: 因果推断在统计学和科学发现中占据核心地位，使研究人员能够识别超越关联的因果关系。虽然传统上在欧几里得空间内进行研究，但当代应用越来越多地涉及复杂的、非欧几里得数据结构，这些数据结构存在于抽象的度量空间中，被称为随机对象，例如图像、形状、网络和分布。本文介绍了一种新颖的框架，用于对非欧几里得数据进行连续处理的因果推断。为了解决缺乏线性结构所带来的挑战，我们利用度量空间的希尔伯特空间嵌入，以促进Fréchet均值估计和因果效应映射。受到一项关于暴露于细颗粒物对美国各县年龄死亡率分布影响的研究的启发，我们提出了一种非参数的、双重去偏的因果推断方法，用于具有连续处理结果的随机对象。我们的框架可以适应中等高维向量值混杂因素，并导出高效的影响函数进行估计，以确保鲁棒性和可解释性。我们建立了交叉拟合估计器的严格渐近性质，并采用共形推断技术进行反事实结果预测。通过数值实验验证，并应用于现实世界的环境数据，我们的框架将因果推断方法扩展到复杂数据结构，扩大了其在科学学科中的适用性。
-
----
-### 从模型设计到组织设计：生成性人工智能中的复杂性再分配与权衡
-**[From Model Design to Organizational Design: Complexity Redistribution and Trade-Offs in Generative AI](https://arxiv.org/abs/arXiv:2506.22440)**
-
-**Authors**: Sharique Hasan, Alexander Oettl, Sampsa Samila
-
-**Abstract**: This paper introduces the Generality-Accuracy-Simplicity (GAS) framework to analyze how large language models (LLMs) are reshaping organizations and competitive strategy. We argue that viewing AI as a simple reduction in input costs overlooks two critical dynamics: (a) the inherent trade-offs among generality, accuracy, and simplicity, and (b) the redistribution of complexity across stakeholders. While LLMs appear to defy the traditional trade-off by offering high generality and accuracy through simple interfaces, this user-facing simplicity masks a significant shift of complexity to infrastructure, compliance, and specialized personnel. The GAS trade-off, therefore, does not disappear but is relocated from the user to the organization, creating new managerial challenges, particularly around accuracy in high-stakes applications. We contend that competitive advantage no longer stems from mere AI adoption, but from mastering this redistributed complexity through the design of abstraction layers, workflow alignment, and complementary expertise. This study advances AI strategy by clarifying how scalable cognition relocates complexity and redefines the conditions for technology integration.
-
-**摘要**: 本文介绍了通用性-准确性-简单性（GAS）框架，用以分析大型语言模型（LLMs）如何重塑组织和竞争策略。我们认为，将人工智能视为简单的输入成本降低，忽视了两个关键动态：（a）通用性、准确性和简单性之间的固有权衡，以及（b）复杂性在各利益相关者之间的重新分配。尽管LLMs似乎通过简单的界面提供了高通用性和准确性，从而打破了传统的权衡，但这种面向用户的简单性掩盖了复杂性向基础设施、合规性和专业人员的重大转移。因此，GAS权衡并未消失，而是从用户转移到了组织，创造了新的管理挑战，特别是在高风险应用中的准确性问题。我们认为，竞争优势不再仅仅来自人工智能的采用，而是通过设计抽象层、工作流程对齐和补充专业知识来掌握这种重新分配的复杂性。这项研究通过阐明可扩展认知如何重新定位复杂性并重新定义技术整合的条件，推进了人工智能策略。
+**摘要**: 变更指令（COs）在建设项目中是常见的现象，导致成本增加和工期延长。州交通局（STAs）青睐的设计-招标-建造（DBB）项目通常比其他项目交付方式经历更频繁的COs。本研究旨在通过定量分析确定改进领域，以减少DBB项目中COs的频率。利用佛罗里达州交通部（FDOT）的历史投标数据，评估了五个因素：合同技术、项目位置、工作类型、项目规模和持续时间，对特定水平建设项目的影响。使用离散选择模型评估了两种DBB合同技术，单价（UP）和总价（LS）。对581个UP和189个LS项目的分析显示，项目规模、持续时间和工作类型在95%的置信水平上对变更指令的频率有统计学上的显著影响。与传统的STAs使用方法相比，离散选择模型在确定特定项目的适当合同类型方面显示出了显著的改进。通过评估水平建设项目的合同技术而不是项目交付方法，可以增强DBB的使用，从而为STAs减少变更指令。
 
 ---
-### FairMarket-RL：由大型语言模型引导的公平性塑造，用于点对点市场中的多智能体强化学习
-**[FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement Learning in Peer-to-Peer Markets](https://arxiv.org/abs/arXiv:2506.22708)**
+### 卫星和手机数据揭示了暴力如何影响阿富汗的季节性迁移
+**[Satellite and Mobile Phone Data Reveal How Violence Affects Seasonal Migration in Afghanistan](https://arxiv.org/abs/arXiv:2507.00279)**
 
-**Authors**: Shrenik Jadhav, Birva Sevak, Srijita Das, Akhtar Hussain, Wencong Su, Van-Hai Bui
+**Authors**: Xiao Hui Tai, Suraj R. Nair, Shikhar Mehra, Joshua E. Blumenstock
 
-**Abstract**: Peer-to-peer (P2P) trading is increasingly recognized as a key mechanism for decentralized market regulation, yet existing approaches often lack robust frameworks to ensure fairness. This paper presents FairMarket-RL, a novel hybrid framework that combines Large Language Models (LLMs) with Reinforcement Learning (RL) to enable fairness-aware trading agents. In a simulated P2P microgrid with multiple sellers and buyers, the LLM acts as a real-time fairness critic, evaluating each trading episode using two metrics: Fairness-To-Buyer (FTB) and Fairness-Between-Sellers (FBS). These fairness scores are integrated into agent rewards through scheduled {\lambda}-coefficients, forming an adaptive LLM-guided reward shaping loop that replaces brittle, rule-based fairness constraints. Agents are trained using Independent Proximal Policy Optimization (IPPO) and achieve equitable outcomes, fulfilling over 90% of buyer demand, maintaining fair seller margins, and consistently reaching FTB and FBS scores above 0.80. The training process demonstrates that fairness feedback improves convergence, reduces buyer shortfalls, and narrows profit disparities between sellers. With its language-based critic, the framework scales naturally, and its extension to a large power distribution system with household prosumers illustrates its practical applicability. FairMarket-RL thus offers a scalable, equity-driven solution for autonomous trading in decentralized energy systems.
+**Abstract**: Seasonal migration plays a critical role in stabilizing rural economies and sustaining the livelihoods of agricultural households. Violence and civil conflict have long been thought to disrupt these labor flows, but this hypothesis has historically been hard to test given the lack of reliable data on migration in conflict zones. Focusing on Afghanistan in the 8-year period prior to the Taliban's takeover in 2021, we first demonstrate how satellite imagery can be used to infer the timing of the opium harvest, which employs a large number of seasonal workers in relatively well-paid jobs. We then use a dataset of nationwide mobile phone records to characterize the migration response to this harvest, and examine whether and how violence and civil conflict disrupt this migration. We find that, on average, districts with high levels of poppy cultivation receive significantly more seasonal migrants than districts with no poppy cultivation. These labor flows are surprisingly resilient to idiosyncratic violent events at the source or destination, including extreme violence resulting in large numbers of fatalities. However, seasonal migration is affected by longer-term patterns of conflict, such as the extent of Taliban control in origin and destination locations.
 
-**摘要**: 点对点（P2P）交易日益被认为是去中心化市场调节的关键机制，但现有的方法往往缺乏确保公平性的稳健框架。本文提出了FairMarket-RL，这是一个新颖的混合框架，结合了大型语言模型（LLM）和强化学习（RL），以实现公平意识的交易代理。在模拟的P2P微电网中，有多个卖家和买家，LLM充当实时公平批评者，使用两个指标评估每个交易场景：买家公平性（FTB）和卖家间公平性（FBS）。这些公平分数通过计划的{\lambda}系数整合到代理奖励中，形成了一个自适应的LLM引导的奖励塑造循环，取代了脆弱的、基于规则的公平性约束。代理使用独立近端策略优化（IPPO）进行训练，并实现了公平的结果，满足了超过90%的买家需求，保持了公平的卖家利润率，并始终达到FTB和FBS分数超过0.80。训练过程表明，公平反馈改善了收敛性，减少了买家短缺，并缩小了卖家之间的利润差距。凭借其基于语言的批评者，该框架自然扩展，并且其扩展到具有家庭产销者的大规模电力分配系统，展示了其实际适用性。因此，FairMarket-RL为去中心化能源系统中的自主交易提供了一个可扩展、以公平为导向的解决方案。
+**摘要**: 季节性迁移在稳定农村经济和维持农业家庭生计方面发挥着关键作用。长期以来，人们一直认为暴力和内战会扰乱这些劳动力流动，但由于缺乏有关冲突区域迁移的可靠数据，这一假设历史上很难得到检验。本研究聚焦于塔利班在2021年接管阿富汗之前的8年期间，首先展示了如何利用卫星图像推断鸦片收割的时机，鸦片收割雇佣了大量的季节性工人，这些工作相对薪酬较高。然后，我们使用全国手机记录数据集来描述对这一收割的迁移反应，并检验暴力和内战是否以及如何扰乱这种迁移。我们发现，平均而言，种植罂粟较多的地区接收的季节性移民明显多于没有种植罂粟的地区。这些劳动力流动对源地或目的地的特有暴力事件出人意料地具有弹性，包括导致大量死亡的极端暴力事件。然而，季节性迁移受到长期冲突模式的影响，例如塔利班在起源地和目的地的控制程度。
+
+---
+### 内陆国家的逐步转型——人力耕作、马耕作和公平激励
+**[The gradual transformation of inland countries -- human plowing, horse plowing and equity incentives](https://arxiv.org/abs/arXiv:2507.00067)**
+
+**Authors**: Hongfa Zi, Zhen Liu
+
+**Abstract**: Many modern countries have not learned their lessons and often hope for the wisdom of later generations, resulting in them only possessing modern technology and difficult to iterate ancient civilizations. At present, there is no way to tell how we should learn from history and promote the gradual upgrading of civilization. Therefore, we must tell the history of civilization's progress and the means of governance, learn from experience to improve the comprehensive strength and survival ability of civilization, and achieve an optimal solution for the tempering brought by conflicts and the reduction of internal conflicts. Firstly, we must follow the footsteps of history and explore the reasons for the long-term stability of each country in conflict, including providing economic benefits to the people and means of suppressing them; then, use mathematical methods to demonstrate how we can achieve the optimal solution at the current stage. After analysis, we can conclude that the civilization transformed from human plowing to horse plowing can easily suppress the resistance of the people and provide them with the ability to resist; The selection of rulers should consider multiple institutional aspects, such as exams, elections, and drawing lots; Economic development follows a lognormal distribution and can be adjusted by expected value and variance. Using a lognormal distribution with the maximum value to divide equity can adjust the wealth gap.
+
+**摘要**: 许多现代国家没有吸取教训，常常寄希望于后代的智慧，导致他们只拥有现代技术而难以迭代古代文明。目前，我们无法确切地知道我们应该如何从历史中学习并推动文明的逐步升级。因此，我们必须讲述文明进步的历史和治理手段，从经验中学习以提高文明的综合国力和生存能力，并实现冲突带来的锤炼的最优解决方案以及减少内部冲突。首先，我们必须跟随历史的脚步，探索每个国家在冲突中长期稳定的原因，包括为人民提供经济利益和压制他们的手段；然后，使用数学方法来展示我们如何在当前阶段实现最优解决方案。经过分析，我们可以得出结论，从人类耕作转变为马耕作的文明可以轻易压制人民的抵抗，并为他们提供抵抗的能力；选择统治者应该考虑多个制度方面，如考试、选举和抽签；经济发展遵循对数正态分布，可以通过期望值和方差进行调整。使用具有最大值的对数正态分布来划分股权可以调整贫富差距。
+
+---
+### 解开全球线索：大流行、地缘政治冲突以及时尚和纺织供应链的韧性
+**[Unraveling Global Threads: Pandemic, Geopolitical Conflict, and Resilience in Fashion and Textile Supply Chain](https://arxiv.org/abs/arXiv:2507.00207)**
+
+**Authors**: Md. Al-Amin, Muneeb Tahir, Amit Talukder, Abdullah Al Mamun, Md Tanjim Hossain, Nigar Sultana
+
+**Abstract**: Several noteworthy scenarios emerged in the global textile and fashion supply chains during and after the COVID-19 pandemic. The destabilizing influences of a global pandemic and a geographically localized conflict are being acutely noticed in the worldwide fashion and textile supply chains. This work examines the impact of the COVID-19 pandemic, the Russo-Ukraine conflict, Israel-Palestine conflict, and Indo-Pak conflict on supply chains within the textile and fashion industry. This research employed a content analysis method to identify relevant articles and news from sources such as Google Scholar, the Summon database of North Carolina State University, and the scholarly news portal NexisUni. The selected papers, news articles, and reports provide a comprehensive overview of the fashion, textile, and apparel supply chain disruptions caused by the pandemic and the war in Ukraine, accompanied by discussions from common supply chain perspectives. Disruptions due to COVID-19 include international brands and retailers canceling orders, closures of stores and factories in developing countries, layoffs, and furloughs of workers in both retail stores and supplier factories, the increased prominence of online and e-commerce businesses, the growing importance of automation and digitalization in the fashion supply chain, considerations of sustainability, and the need for a resilient supply chain system to facilitate post-pandemic recovery. In the case of the Russo-Ukraine war, Israel-Palestine war, and Indo-Pak war, the second-order effects of the conflict have had a more significant impact on the textile supply chain than the direct military operations themselves. In addition to these topics, the study delves into the potential strategies for restoring and strengthening the fashion supply chain
+
+**摘要**: 在COVID-19大流行期间和之后，全球纺织和时尚供应链中出现了几个值得注意的情景。全球大流行和地理局部冲突的破坏性影响在全球时尚和纺织供应链中被敏锐地注意到。本研究考察了COVID-19大流行、俄乌冲突、以色列-巴勒斯坦冲突和印巴冲突对纺织和时尚行业供应链的影响。这项研究采用了内容分析方法，从谷歌学术、北卡罗来纳州立大学的Summon数据库和学术新闻门户NexisUni等来源中识别相关文章和新闻。选定的论文、新闻文章和报告提供了由大流行和乌克兰战争引起的时尚、纺织和服装供应链中断的全面概述，并从常见的供应链视角进行讨论。由于COVID-19导致的中断包括国际品牌和零售商取消订单、发展中国家的商店和工厂关闭、零售店和供应商工厂的工人被解雇和休假、在线和电子商务业务的日益突出、自动化和数字化在时尚供应链中的重要性日益增加、对可持续性的考虑，以及需要一个有弹性的供应链系统以促进大流行后恢复。在俄乌战争、以色列-巴勒斯坦战争和印巴战争的情况下，冲突的次级效应对纺织供应链的影响比直接军事行动本身更为重大。除了这些主题之外，研究还深入探讨了恢复和加强时尚供应链的潜在策略。
+
+---
+### 将基于档案的匹配问题简化为最大权重匹配问题
+**[Reducing Profile-Based Matching to the Maximum Weight Matching Problem](https://arxiv.org/abs/arXiv:2507.00047)**
+
+**Authors**: Seongbeom Park
+
+**Abstract**: The profile-based matching problem is the problem of finding a matching that optimizes profile from an instance $(G, r, \langle u_1, \dots, u_r \rangle)$, where $G$ is a bipartite graph $(A \cup B, E)$, $r$ is the number of utility functions, and $u_i: E \to \{ 0, 1, \dots, U_i \}$ is utility functions for $1 \le i \le r$. A matching is optimal if the matching maximizes the sum of the 1st utility, subject to this, maximizes the sum of the 2nd utility, and so on. The profile-based matching can express rank-maximal matching \cite{irving2006rank}, fair matching \cite{huang2016fair}, and weight-maximal matching \cite{huang2012weight}. These problems can be reduced to maximum weight matching problems, but the reduction is known to be inefficient due to the huge weights.
+This paper presents the condition for a weight function to find an optimal matching by reducing profile-based matching to the maximum weight matching problem. It is shown that a weight function which represents utilities as a mixed-radix numeric system with base-$(2U_i+1)$ can be used, so the complexity of the problem is $O(m\sqrt{n}(\log{n} + \sum_{i=1}^{r}\log{U_i}))$ for $n = |V|$, $m = |E|$. In addition, it is demonstrated that the weight lower bound for rank-maximal/fair/weight-maximal matching, better computational complexity for fair/weight-maximal matching, and an algorithm to verify a maximum weight matching can be reduced to rank-maximal matching. Finally, the effectiveness of the profile-based algorithm is evaluated with real data for school choice lottery.
+
+**摘要**: 基于配置文件的匹配问题是从实例 $(G, r, \langle u_1, \dots, u_r \rangle)$ 中找到一个优化配置文件的匹配问题，其中 $G$ 是一个二分图 $(A \cup B, E)$，$r$ 是效用函数的数量，$u_i: E \to \{ 0, 1, \dots, U_i \}$ 是 $1 \le i \le r$ 的效用函数。如果一个匹配在最大化第一个效用的总和的同时，依次最大化第二个效用的总和，以此类推，那么这个匹配就是最优的。基于配置文件的匹配可以表达排名最大化匹配 \cite{irving2006rank}、公平匹配 \cite{huang2016fair} 和权重最大化匹配 \cite{huang2012weight}。这些问题可以简化为最大权重匹配问题，但由于权重巨大，已知这种简化效率低下。
+
+本文提出了一个条件，通过将基于配置文件的匹配简化为最大权重匹配问题，来找到最优匹配的权重函数。研究表明，可以使用一个将效用表示为混合基数数字系统的权重函数，其基数为 $(2U_i+1)$，因此问题的复杂度为 $O(m\sqrt{n}(\log{n} + \sum_{i=1}^{r}\log{U_i}))$，其中 $n = |V|$，$m = |E|$。此外，还展示了排名最大化/公平/权重最大化匹配的权重下界，对于公平/权重最大化匹配的更好计算复杂度，以及一个算法，可以将最大权重匹配验证简化为排名最大化匹配。最后，通过学校选择彩票的真实数据评估了基于配置文件的算法的有效性。
 
 ---
 <!-- ARXIV_PAPERS_END -->
