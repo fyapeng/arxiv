@@ -1,150 +1,180 @@
 # 最新arXiv论文
 
 <!-- ARXIV_PAPERS_START -->
-*(Updated on: 2025-07-03 ET)*
+*(Updated on: 2025-07-04 ET)*
 
-1. **[Meta-emulation: An application to the social cost of carbon](https://arxiv.org/abs/arXiv:2507.01804)**<br/>元仿真：应用于碳的社会成本
-    - *Authors: Richard S.J. Tol*
-2. **[Covariance Matrix Estimation for Positively Correlated Assets](https://arxiv.org/abs/arXiv:2507.01545)**<br/>正相关资产协方差矩阵估计
-    - *Authors: Weilong Liu, Yanchu Liu*
-3. **[Using Machine Learning to Compute Constrained Optimal Carbon Tax Rules](https://arxiv.org/abs/arXiv:2507.01704)**<br/>使用机器学习计算受约束的最优碳税规则
-    - *Authors: Felix Kübler, Simon Scheidegger, Oliver Surbek*
-4. **[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/arXiv:2507.01517)**<br/>异质性分析与异质性处理
-    - *Authors: Phillip Heiler, Michael C. Knaus*
-5. **[Enriching the Felsenthal index with a priori unions for decision-making processes](https://arxiv.org/abs/arXiv:2507.01621)**<br/>将Felsenthal指数丰富化，加入先验联合体以用于决策过程
-    - *Authors: Alicia Mascareñas-Pazos, Silvia Lorenzo-Freire, Jose Maria Alonso-Meijide*
-6. **[Epistemic Scarcity: The Economics of Unresolvable Unknowns](https://arxiv.org/abs/arXiv:2507.01483)**<br/>认知稀缺：不可解决未知的经济
+1. **[Tertiary Education Completion and Financial Aid Assistance: Evidence from an Information Experiment](https://arxiv.org/abs/arXiv:2507.02560)**<br/>高等教育完成与财政援助：来自信息实验的证据
+    - *Authors: Luca Bonacini, Giuseppe Pignataro, Veronica Rattini*
+2. **[Large-Scale Estimation under Unknown Heteroskedasticity](https://arxiv.org/abs/arXiv:2507.02293)**<br/>在未知异方差性下的大规模估计
+    - *Authors: Sheng Chao Ho*
+3. **[A Model for the Capability Approach](https://arxiv.org/abs/arXiv:2507.02028)**<br/>能力方法的模型
+    - *Authors: Rohit Parikh*
+4. **[Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences](https://arxiv.org/abs/arXiv:2507.02439)**<br/>引入一个新的与脱欧相关的不确定性指数：其演变及经济后果
+    - *Authors: Ismet Gocer, Julia Darby, Serdar Ongan*
+5. **[Green Ammonia: A Techno-Economic Supply Chain Optimization](https://arxiv.org/abs/arXiv:2507.02412)**<br/>绿色氨：技术经济供应链优化
+    - *Authors: Lucien Genge, Felix Müsgens*
+6. **[Identity and Cooperation in Multicultural Societies: An Experimental Investigation](https://arxiv.org/abs/arXiv:2507.02511)**<br/>多元文化社会中的身份认同与合作：一项实验性研究
+    - *Authors: Natalia Montinari, Matteo Ploner, Veronica Rattini*
+7. **[Seeing Through Green: Text-Based Classification and the Firm's Returns from Green Patents](https://arxiv.org/abs/arXiv:2507.02287)**<br/>看透绿色：基于文本的分类和公司从绿色专利中获得的回报
+    - *Authors: Lapo Santarlasci, Armando Rungi, Antonio Zinilli*
+8. **[Resolving CAP Through Automata-Theoretic Economic Design: A Unified Mathematical Framework for Real-Time Partition-Tolerant Systems](https://arxiv.org/abs/arXiv:2507.02464)**<br/>通过自动机理论经济设计解决CAP问题：实时分区容错系统的统一数学框架
     - *Authors: Craig S Wright*
-7. **[Shrinkage-Based Regressions with Many Related Treatments](https://arxiv.org/abs/arXiv:2507.01202)**<br/>基于收缩的回归分析与众多相关处理
-    - *Authors: Enes Dilber, Colin Gray*
-8. **[Pay Clauses in Public Procurement: The Wage Impact of Collective Bargaining Compliance Laws in Germany](https://arxiv.org/abs/arXiv:2507.01458)**<br/>公共采购中的薪酬条款：德国集体谈判合规法律对工资的影响
-    - *Authors: Vinzenz Pyka*
-9. **[Consumption Stimulus with Digital Coupons](https://arxiv.org/abs/arXiv:2507.01365)**<br/>数字优惠券刺激消费
-    - *Authors: Ying Chen, Mingyi Li, Jiaming Mao, Jingyi Zhou*
-10. **[Uniform Validity of the Subset Anderson-Rubin Test under Heteroskedasticity and Nonlinearity](https://arxiv.org/abs/arXiv:2507.01167)**<br/>在异方差性和非线性条件下子集安德森-鲁宾检验的一致性有效性
-    - *Authors: Atsushi Inoue, Òscar Jordà, Guido M. Kuersteiner*
-11. **[rdhte: Conditional Average Treatment Effects in RD Designs](https://arxiv.org/abs/arXiv:2507.01128)**<br/>rdhte：RD设计中的条件平均处理效应
-    - *Authors: Sebastian Calonico, Matias D. Cattaneo, Max H. Farrell, Filippo Palomba, Rocio Titiunik*
+9. **[Learning to Coordinate Bidders in Non-Truthful Auctions](https://arxiv.org/abs/arXiv:2507.02801)**<br/>学习在非真实出价拍卖中协调竞拍者
+    - *Authors: Hu Fu, Tao Lin*
+10. **[It's Hard to Be Normal: The Impact of Noise on Structure-agnostic Estimation](https://arxiv.org/abs/arXiv:2507.02275)**<br/>难以正常：噪声对结构不可知估计的影响
+    - *Authors: Jikai Jin, Lester Mackey, Vasilis Syrgkanis*
+11. **[Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions](https://arxiv.org/abs/arXiv:2507.02698)**<br/>多智能体强化学习在供应链动态定价中的应用：在现实模拟市场条件下对策略性智能体行为进行基准测试
+    - *Authors: Thomas Hazenberg, Yao Ma, Seyed Sahand Mohammadi Ziabari, Marijn van Rijswijk*
+12. **[A unified model of horizontal differentiation with general spaces and irrational consumers](https://arxiv.org/abs/arXiv:2507.01985)**<br/>一个统一的横向差异化模型，具有一般空间和非理性消费者
+    - *Authors: Aldric Labarthe, Yann Kerzreho*
+13. **[FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI Disclosures in Financial Reports](https://arxiv.org/abs/arXiv:2507.01991)**<br/>FinAI-BERT：一种基于Transformer的模型，用于在财务报告中进行句子级别的人工智能披露检测。
+    - *Authors: Muhammad Bilal Zafar*
+14. **[The algebraic structures of social organizations: the operad of cooperative games](https://arxiv.org/abs/arXiv:2507.01969)**<br/>社会组织的代数结构：合作博弈的operad
+    - *Authors: Dylan Laplace Mermoud, Victor Roca i Lucio*
 
 
 ---
 
 ## 文章概览
 
-### 元仿真：应用于碳的社会成本
-**[Meta-emulation: An application to the social cost of carbon](https://arxiv.org/abs/arXiv:2507.01804)**
+### 高等教育完成与财政援助：来自信息实验的证据
+**[Tertiary Education Completion and Financial Aid Assistance: Evidence from an Information Experiment](https://arxiv.org/abs/arXiv:2507.02560)**
 
-**Authors**: Richard S.J. Tol
+**Authors**: Luca Bonacini, Giuseppe Pignataro, Veronica Rattini
 
-**Abstract**: A large database of published model results is used to estimate the distribution of the social cost of carbon as a function of the underlying assumptions. The literature on the social cost of carbon deviates in its assumptions from the literatures on the impacts of climate change, discounting, and risk aversion. The proposed meta-emulator corrects this. The social cost of carbon is higher than reported in the literature.
+**Abstract**: Understanding the role of information among disadvantaged students is crucial in explaining their investment decisions in higher education. Indeed, information barriers on the returns and the gains from completing college may explain a substantial share of variation in students' degree completion. We conduct a field experiment with 7,806 university students in Italy who benefit from financial aid assistance, by providing information, either on the labor market returns of completing college or on the education returns of meeting the academic requirements attached to the financial aid. Our results suggest that only the latter information treatment has a positive effect on academic performance, increasing the number of credits obtained by around 3, and by decreasing the probability of dropout by around 4 percentage points. We also find that the results are mediated by an aspiration lift generated by our treatment.
 
-**摘要**: 一个大型的已发布模型结果数据库被用来估计社会碳成本的分布，作为潜在假设的函数。关于社会碳成本的文献在其假设上与关于气候变化影响、贴现和风险规避的文献有所不同。所提出的元模拟器纠正了这一点。社会碳成本高于文献中的报告值。
-
----
-### 正相关资产协方差矩阵估计
-**[Covariance Matrix Estimation for Positively Correlated Assets](https://arxiv.org/abs/arXiv:2507.01545)**
-
-**Authors**: Weilong Liu, Yanchu Liu
-
-**Abstract**: The comovement phenomenon in financial markets creates decision scenarios with positively correlated asset returns. This paper addresses covariance matrix estimation under such conditions, motivated by observations of significant positive correlations in factor-sorted portfolio monthly returns. We demonstrate that fine-tuning eigenvectors linked to weak factors within rotation-equivariant frameworks produces well-conditioned covariance matrix estimates. Our Eigenvector Rotation Shrinkage Estimator (ERSE) pairwise rotates eigenvectors while preserving orthogonality, equivalent to performing multiple linear shrinkage on two distinct eigenvalues. Empirical results on factor-sorted portfolios from the Ken French data library demonstrate that ERSE outperforms existing rotation-equivariant estimators in reducing out-of-sample portfolio variance, achieving average risk reductions of 10.52\% versus linear shrinkage methods and 12.46\% versus nonlinear shrinkage methods. Further checks indicate that ERSE yields covariance matrices with lower condition numbers, produces more concentrated and stable portfolio weights, and provides consistent improvements across different subperiods and estimation windows.
-
-**摘要**: 金融市场中的共动现象创造了资产回报正相关的决策场景。本文在这样的条件下讨论协方差矩阵估计问题，这是由因子排序投资组合月度回报中显著的正相关性观察所驱动的。我们展示了在旋转等变框架内微调与弱因子相关的特征向量，可以产生条件良好的协方差矩阵估计。我们的特征向量旋转收缩估计器（ERSE）成对旋转特征向量，同时保持正交性，相当于对两个不同的特征值执行多重线性收缩。在Ken French数据库中的因子排序投资组合上的实证结果表明，ERSE在降低样本外投资组合方差方面优于现有的旋转等变估计器，与线性收缩方法相比平均风险降低了10.52%，与非线性收缩方法相比降低了12.46%。进一步的检查表明，ERSE产生的协方差矩阵具有较低的条件数，产生更集中和稳定的投资组合权重，并在不同的子时期和估计窗口中提供一致的改进。
+**摘要**: 理解信息在弱势学生中的作用对于解释他们在高等教育中的投资决策至关重要。事实上，关于完成大学学业的回报和收益的信息障碍可能解释了学生学位完成情况变化的相当大一部分。我们通过提供信息，对意大利7,806名接受财政援助的大学生进行了实地实验，这些信息要么是关于完成大学学业的劳动市场回报，要么是关于满足财政援助附加的学术要求的教育回报。我们的结果显示，只有后者的信息处理对学术表现有积极影响，使获得的学分数增加了大约3个，并将辍学的可能性降低了大约4个百分点。我们还发现，这些结果是由我们处理产生的抱负提升所中介的。
 
 ---
-### 使用机器学习计算受约束的最优碳税规则
-**[Using Machine Learning to Compute Constrained Optimal Carbon Tax Rules](https://arxiv.org/abs/arXiv:2507.01704)**
+### 在未知异方差性下的大规模估计
+**[Large-Scale Estimation under Unknown Heteroskedasticity](https://arxiv.org/abs/arXiv:2507.02293)**
 
-**Authors**: Felix Kübler, Simon Scheidegger, Oliver Surbek
+**Authors**: Sheng Chao Ho
 
-**Abstract**: We develop a computational framework for deriving Pareto-improving and constrained optimal carbon tax rules in a stochastic overlapping generations (OLG) model with climate change. By integrating Deep Equilibrium Networks for fast policy evaluation and Gaussian process surrogate modeling with Bayesian active learning, the framework systematically locates optimal carbon tax schedules for heterogeneous agents exposed to climate risk. We apply our method to a 12-period OLG model in which exogenous shocks affect the carbon intensity of energy production, as well as the damage function. Constrained optimal carbon taxes consist of tax rates that are simple functions of observables and revenue-sharing rules that guarantee that the introduction of the taxes is Pareto improving. This reveals that a straightforward policy is highly effective: a Pareto-improving linear tax on cumulative emissions alone yields a 0.42% aggregate welfare gain in consumption-equivalent terms while adding further complexity to the tax provides only a marginal increase to 0.45%. The application demonstrates that the proposed approach produces scalable tools for macro-policy design in complex stochastic settings. Beyond climate economics, the framework offers a template for systematically analyzing welfare-improving policies in various heterogeneous-agent problems.
+**Abstract**: This paper studies nonparametric empirical Bayes methods in a heterogeneous parameters framework that features unknown means and variances. We provide extended Tweedie's formulae that express the (infeasible) optimal estimators of heterogeneous parameters, such as unit-specific means or quantiles, in terms of the density of certain sufficient statistics. These are used to propose feasible versions with nearly parametric regret bounds of the order of $(\log n)^\kappa / n$. The estimators are employed in a study of teachers' value-added, where we find that allowing for heterogeneous variances across teachers is crucial for delivery optimal estimates of teacher quality and detecting low-performing teachers.
 
-**摘要**: 我们开发了一个计算框架，用于在考虑气候变化的随机重叠代际（OLG）模型中推导出帕累托改进和受约束的最优碳税规则。通过将深度平衡网络用于快速政策评估和高斯过程替代建模与贝叶斯主动学习相结合，该框架系统地为面临气候风险的异质性代理定位最优碳税计划。我们将我们的方法应用于一个12期的OLG模型，其中外生冲击影响能源生产的碳强度以及损害函数。受约束的最优碳税包括作为可观测变量的简单函数的税率和收入共享规则，以确保引入税收是帕累托改进的。这表明一个简单的政策非常有效：仅对累积排放征收帕累托改进的线性税就能在消费等价条件下带来0.42%的总福利增长，而向税收增加更多复杂性只会使增长边际增加到0.45%。该应用展示了所提出的方法为复杂随机环境中的宏观政策设计提供了可扩展的工具。超越气候经济学，该框架为系统分析各种异质性代理问题中的福利改进政策提供了一个模板。
-
----
-### 异质性分析与异质性处理
-**[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/arXiv:2507.01517)**
-
-**Authors**: Phillip Heiler, Michael C. Knaus
-
-**Abstract**: Analysis of effect heterogeneity at the group level is standard practice in empirical treatment evaluation research. However, treatments analyzed are often aggregates of multiple underlying treatments which are themselves heterogeneous, e.g. different modules of a training program or varying exposures. In these settings, conventional approaches such as comparing (adjusted) differences-in-means across groups can produce misleading conclusions when underlying treatment propensities differ systematically between groups. This paper develops a novel decomposition framework that disentangles contributions of effect heterogeneity and qualitatively distinct components of treatment heterogeneity to observed group-level differences. We propose semiparametric debiased machine learning estimators that are robust to complex treatments and limited overlap. We revisit a widely documented gender gap in training returns of an active labor market policy. The decomposition reveals that it is almost entirely driven by women being treated differently than men and not by heterogeneous returns from identical treatments. In particular, women are disproportionately targeted towards vocational training tracks with lower unconditional returns.
-
-**摘要**: 在实证治疗评估研究中，对群体层面的效应异质性进行分析是一种标准做法。然而，分析的治疗往往是由多个底层治疗组成的聚合体，这些底层治疗本身也是异质的，例如培训计划的不同模块或不同的暴露程度。在这些情况下，传统的比较方法，如比较（调整后的）组间均值差异，可能会在组间的底层治疗倾向系统性不同的情况下产生误导性的结论。本文开发了一种新颖的分解框架，将效应异质性和治疗异质性的定性不同组成部分对观察到的群体层面差异的贡献分离开来。我们提出了一种半参数去偏机器学习估计器，这些估计器对复杂治疗和有限重叠具有鲁棒性。我们重新审视了一个活跃的劳动力市场政策中培训回报的性别差异，这一差异已被广泛记录。分解揭示了这一差异几乎完全是由女性与男性接受不同治疗方式所驱动的，而不是由相同治疗的异质性回报所驱动。特别是，女性被不成比例地针对到职业培训轨道上，这些轨道的无条件回报较低。
+**摘要**: 本文研究了在具有未知均值和方差的异质参数框架下的非参数经验贝叶斯方法。我们提供了扩展的Tweedie公式，用以表达异质参数（如单位特定均值或分位数）的（不可行的）最优估计量，这些参数以某些充分统计量的密度来表示。这些公式被用来提出具有几乎参数遗憾界限的可行版本，其顺序为$(\log n)^\kappa / n$。这些估计量被应用于教师增值的研究中，我们发现允许教师之间的异质方差对于提供教师质量的最优估计和检测表现不佳的教师至关重要。
 
 ---
-### 将Felsenthal指数丰富化，加入先验联合体以用于决策过程
-**[Enriching the Felsenthal index with a priori unions for decision-making processes](https://arxiv.org/abs/arXiv:2507.01621)**
+### 能力方法的模型
+**[A Model for the Capability Approach](https://arxiv.org/abs/arXiv:2507.02028)**
 
-**Authors**: Alicia Mascareñas-Pazos, Silvia Lorenzo-Freire, Jose Maria Alonso-Meijide
+**Authors**: Rohit Parikh
 
-**Abstract**: Within the domain of game theory, power indexes are defined as functions that quantify the influence of individual participants in collective decision-making processes. Felsenthal [D. Felsenthal. A Well-Behaved Index of a Priori P-Power for Simple N-Person Games. Homo Oeconomicus, 33, 2016] proposed a power index with a focus on least size winning coalitions, i.e., those coalitions capable of determining the final outcome and with the smallest number of players among all winning coalitions. However, the Felsenthal index overlooks pre-existing affinities between the players, a common and impactful factor in real-world political and economic contexts. This paper introduces the Felsenthal Owen power index, a novel index based on Felsenthal's approach that integrates player affinities using Owen's a priori unions framework. The new index is rigorously characterised by two distinct sets of axiomatic properties. We demonstrate its practical utility by applying it to the International Monetary Fund's voting system, revealing how strategic alliances significantly reshape power distributions. The index thus offers policymakers a more sophisticated tool for measuring influence in complex decision-making scenarios.
+**Abstract**: We provide a mathematical model for the capability approach.
 
-**摘要**: 在博弈论领域，权力指数被定义为量化个体参与者在集体决策过程中影响力的函数。费尔森塔尔[D. Felsenthal. 一个良好行为的先验P-权力指数用于简单的N人博弈。Homo Oeconomicus, 33, 2016]提出了一个关注最小规模获胜联盟的权力指数，即那些能够决定最终结果并且在所有获胜联盟中玩家数量最少的联盟。然而，费尔森塔尔指数忽视了玩家之间预先存在的亲和力，这是现实世界政治和经济环境中一个常见且有影响力的因素。本文介绍了费尔森塔尔-欧文权力指数，这是一个基于费尔森塔尔方法的新指数，它使用欧文的先验联盟框架整合了玩家的亲和力。新指数通过两组不同的公理属性进行了严格的特征描述。我们通过将其应用于国际货币基金组织的投票系统，展示了它的实际效用，揭示了战略联盟如何显著重塑权力分配。因此，该指数为政策制定者提供了一个更复杂的工具，用于在复杂的决策场景中衡量影响力。
+**摘要**: 我们为能力方法提供了一个数学模型。
 
 ---
-### 认知稀缺：不可解决未知的经济
-**[Epistemic Scarcity: The Economics of Unresolvable Unknowns](https://arxiv.org/abs/arXiv:2507.01483)**
+### 引入一个新的与脱欧相关的不确定性指数：其演变及经济后果
+**[Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences](https://arxiv.org/abs/arXiv:2507.02439)**
+
+**Authors**: Ismet Gocer, Julia Darby, Serdar Ongan
+
+**Abstract**: Important game-changer economic events and transformations cause uncertainties that may affect investment decisions, capital flows, international trade, and macroeconomic variables. One such major transformation is Brexit, which refers to the multiyear process through which the UK withdrew from the EU. This study develops and uses a new Brexit-Related Uncertainty Index (BRUI). In creating this index, we apply Text Mining, Context Window, Natural Language Processing (NLP), and Large Language Models (LLMs) from Deep Learning techniques to analyse the monthly country reports of the Economist Intelligence Unit from May 2012 to January 2025. Additionally, we employ a standard vector autoregression (VAR) analysis to examine the model-implied responses of various macroeconomic variables to BRUI shocks. While developing the BRUI, we also create a complementary COVID-19 Related Uncertainty Index (CRUI) to distinguish the uncertainties stemming from these distinct events. Empirical findings and comparisons of BRUI with other earlier-developed uncertainty indexes demonstrate the robustness of the new index. This new index can assist British policymakers in measuring and understanding the impacts of Brexit-related uncertainties, enabling more effective policy formulation.
+
+**摘要**: 重要的经济变革事件和转型会引起不确定性，这可能会影响投资决策、资本流动、国际贸易和宏观经济变量。其中一个重大的转型是英国脱欧，指的是英国退出欧盟的多年过程。本研究开发并使用了一个全新的与脱欧相关的不确定性指数（BRUI）。在创建这个指数时，我们应用了文本挖掘、上下文窗口、自然语言处理（NLP）和深度学习技术中的大语言模型（LLMs）来分析《经济学人》情报单位从2012年5月到2025年1月的月度国家报告。此外，我们还采用了标准的向量自回归（VAR）分析，以检验各种宏观经济变量对BRUI冲击的模型隐含反应。在开发BRUI的同时，我们还创建了一个补充的与COVID-19相关的不确定性指数（CRUI），以区分这些不同事件产生的不确定性。将BRUI与其他早期开发的不确定性指数进行实证比较，证明了新指数的稳健性。这个新指数可以帮助英国政策制定者测量和理解与脱欧相关的不确定性的影响，从而实现更有效的政策制定。
+
+---
+### 绿色氨：技术经济供应链优化
+**[Green Ammonia: A Techno-Economic Supply Chain Optimization](https://arxiv.org/abs/arXiv:2507.02412)**
+
+**Authors**: Lucien Genge, Felix Müsgens
+
+**Abstract**: Green ammonia is emerging as a strategic intermediary within green energy supply chains, serving effectively as both an industrial commodity and hydrogen carrier. This study provides a techno-economic analysis of green ammonia supply chains, comparing cost-effective pathways from global production to European consumers, and evaluates ammonia alongside alternative hydrogen carriers. Gaseous hydrogen consistently remains the most economical import option for Europe, though ammonia holds a narrowing cost advantage over liquid hydrogen (from 16 % in 2030 to 10 % by 2040). Competitive ammonia suppliers, notably Morocco, the United States, and the United Arab Emirates, benefit from low renewable energy costs, with significant price reductions expected by 2040, driven by falling costs for electricity, electrolysers, and conversion technologies. Optimal transport modes vary by consumer demand and distance: trucks are ideal for low demands at all distances, rail for medium ranges, and pipelines for high-demand scenarios. By 2040, ammonia will primarily serve direct-use applications, as hydrogen consumers increasingly shift to direct hydrogen supplies. Policymakers should prioritize pipeline infrastructure for hydrogen distribution, cautiously invest in ammonia's short- to medium-term infrastructure advantages, and limit long-term reliance on ammonia as a hydrogen carrier to mitigate stranded asset risks.
+
+**摘要**: 绿色氨正在成为绿色能源供应链中的战略中间体，有效地充当工业商品和氢载体。本研究提供了绿色氨供应链的技术经济分析，比较了从全球生产到欧洲消费者成本效益的路径，并评估了氨与其他氢载体的竞争力。对于欧洲来说，气态氢始终是最经济的进口选项，尽管氨相对于液态氢的成本优势正在缩小（从2030年的16%降至2040年的10%）。有竞争力的氨供应商，特别是摩洛哥、美国和阿拉伯联合酋长国，得益于低成本的可再生能源，预计到2040年价格将大幅下降，这一趋势由电力、电解槽和转换技术成本的下降推动。最佳运输方式因消费者需求和距离而异：卡车适合所有距离的低需求，铁路适合中等距离，管道适合高需求场景。到2040年，氨将主要用于直接使用应用，因为氢消费者越来越多地转向直接氢供应。政策制定者应优先考虑氢气分配的管道基础设施，谨慎投资氨的短期至中期基础设施优势，并限制长期依赖氨作为氢载体，以降低资产搁浅风险。
+
+---
+### 多元文化社会中的身份认同与合作：一项实验性研究
+**[Identity and Cooperation in Multicultural Societies: An Experimental Investigation](https://arxiv.org/abs/arXiv:2507.02511)**
+
+**Authors**: Natalia Montinari, Matteo Ploner, Veronica Rattini
+
+**Abstract**: Immigration has shaped many nations, posing the challenge of integrating immigrants into society. While economists often focus on immigrants' economic outcomes compared to natives (such as education, labor market success, and health) social interactions between immigrants and natives are equally crucial. These interactions, from everyday exchanges to teamwork, often lack enforceable contracts and require cooperation to avoid conflicts and achieve efficient outcomes. However, socioeconomic, ethnic, and cultural differences can hinder cooperation. Thus, evaluating integration should also consider its impact on fostering cooperation across diverse groups. This paper studies how priming different identity dimensions affects cooperation between immigrant and native youth. Immigrant identity includes both ethnic ties to their country of origin and connections to the host country. We test whether cooperation improves by making salient a specific identity: Common identity (shared society), Multicultural identity (ethnic group within society), or Neutral identity. In a lab in the field experiment with over 390 adolescents, participants were randomly assigned to one of these priming conditions and played a Public Good Game. Results show that immigrants are 13 percent more cooperative than natives at baseline. Natives increase cooperation by about 3 percentage points when their multicultural identity is primed, closing the initial gap with immigrant peers.
+
+**摘要**: 移民塑造了许多国家，提出了将移民融入社会的挑战。虽然经济学家经常关注移民与本地人相比的经济成果（如教育、劳动市场成功和健康），但移民与本地人之间的社会互动同样至关重要。这些互动，从日常交流到团队合作，往往缺乏可执行的合同，需要合作以避免冲突并实现高效结果。然而，社会经济、种族和文化差异可能阻碍合作。因此，评估融合也应该考虑其对促进不同群体间合作的影响。本文研究了不同身份维度的引导如何影响移民和本地青年之间的合作。移民身份包括与其原籍国的种族联系和与东道国的联系。我们测试了通过强调特定身份是否能够提高合作：共同身份（共享社会）、多元文化身份（社会内的族群）或中立身份。在实地实验室实验中，超过390名青少年参与者被随机分配到这些引导条件之一，并进行了公共品博弈。结果显示，移民在基线时比本地人合作度高出13%。当本地人的多元文化身份被引导时，他们的合作度提高了约3个百分点，缩小了与移民同伴之间的初始差距。
+
+---
+### 看透绿色：基于文本的分类和公司从绿色专利中获得的回报
+**[Seeing Through Green: Text-Based Classification and the Firm's Returns from Green Patents](https://arxiv.org/abs/arXiv:2507.02287)**
+
+**Authors**: Lapo Santarlasci, Armando Rungi, Antonio Zinilli
+
+**Abstract**: This paper introduces Natural Language Processing for identifying ``true'' green patents from official supporting documents. We start our training on about 12.4 million patents that had been classified as green from previous literature. Thus, we train a simple neural network to enlarge a baseline dictionary through vector representations of expressions related to environmental technologies. After testing, we find that ``true'' green patents represent about 20\% of the total of patents classified as green from previous literature. We show heterogeneity by technological classes, and then check that `true' green patents are about 1\% less cited by following inventions. In the second part of the paper, we test the relationship between patenting and a dashboard of firm-level financial accounts in the European Union. After controlling for reverse causality, we show that holding at least one ``true'' green patent raises sales, market shares, and productivity. If we restrict the analysis to high-novelty ``true'' green patents, we find that they also yield higher profits. Our findings underscore the importance of using text analyses to gauge finer-grained patent classifications that are useful for policymaking in different domains.
+
+**摘要**: 本文介绍了自然语言处理技术，用于从官方支持文件中识别“真正的”绿色专利。我们从先前文献中被归类为绿色的大约1240万项专利开始训练。因此，我们训练了一个简单的神经网络，通过与环境技术相关的表达式的向量表示来扩展一个基线词典。经过测试，我们发现“真正的”绿色专利约占先前文献中被归类为绿色专利总数的20%。我们展示了技术类别的异质性，然后检查了“真正的”绿色专利被后续发明引用的比例大约低1%。在文章的第二部分，我们测试了专利与欧盟公司级财务账户仪表板之间的关系。在控制了逆向因果关系之后，我们展示了至少持有一项“真正的”绿色专利可以提高销售额、市场份额和生产力。如果我们将分析限制在高新颖性的“真正的”绿色专利上，我们发现它们也能带来更高的利润。我们的发现强调了使用文本分析来衡量更细粒度的专利分类的重要性，这对于不同领域的政策制定是有用的。
+
+---
+### 通过自动机理论经济设计解决CAP问题：实时分区容错系统的统一数学框架
+**[Resolving CAP Through Automata-Theoretic Economic Design: A Unified Mathematical Framework for Real-Time Partition-Tolerant Systems](https://arxiv.org/abs/arXiv:2507.02464)**
 
 **Authors**: Craig S Wright
 
-**Abstract**: This paper presents a praxeological analysis of artificial intelligence and algorithmic governance, challenging assumptions about the capacity of machine systems to sustain economic and epistemic order. Drawing on Misesian a priori reasoning and Austrian theories of entrepreneurship, we argue that AI systems are incapable of performing the core functions of economic coordination: interpreting ends, discovering means, and communicating subjective value through prices. Where neoclassical and behavioural models treat decisions as optimisation under constraint, we frame them as purposive actions under uncertainty.
-We critique dominant ethical AI frameworks such as Fairness, Accountability, and Transparency (FAT) as extensions of constructivist rationalism, which conflict with a liberal order grounded in voluntary action and property rights. Attempts to encode moral reasoning in algorithms reflect a misunderstanding of ethics and economics. However complex, AI systems cannot originate norms, interpret institutions, or bear responsibility. They remain opaque, misaligned, and inert.
-Using the concept of epistemic scarcity, we explore how information abundance degrades truth discernment, enabling both entrepreneurial insight and soft totalitarianism. Our analysis ends with a civilisational claim: the debate over AI concerns the future of human autonomy, institutional evolution, and reasoned choice. The Austrian tradition, focused on action, subjectivity, and spontaneous order, offers the only coherent alternative to rising computational social control.
+**Abstract**: The CAP theorem asserts a trilemma between consistency, availability, and partition tolerance. This paper introduces a rigorous automata-theoretic and economically grounded framework that reframes the CAP trade-off as a constraint optimization problem. We model distributed systems as partition-aware state machines and embed economic incentive layers to stabilize consensus behavior across adversarially partitioned networks. By incorporating game-theoretic mechanisms into the global transition semantics, we define provable bounds on convergence, liveness, and correctness. Our results demonstrate that availability and consistency can be simultaneously preserved within bounded epsilon margins, effectively extending the classical CAP limits through formal economic control.
 
-**摘要**: 本文提出了对人工智能和算法治理的行动学分析，挑战了关于机器系统维持经济和认识秩序能力的假设。借鉴米塞斯的先验推理和奥地利企业家理论，我们认为人工智能系统无法执行经济协调的核心功能：解释目标、发现手段，并通过价格传达主观价值。新古典和行为模型将决策视为在约束下的优化，而我们将它们框架为在不确定性下的有目的行动。
-
-我们批评了主流的伦理人工智能框架，如公平性、责任性和透明度（FAT），将其视为建构主义理性主义的延伸，这与基于自愿行动和财产权的自由秩序相冲突。试图在算法中编码道德推理反映了对伦理和经济学的误解。无论多么复杂，人工智能系统都无法起源规范、解释制度或承担责任。它们仍然是不透明的、错位的和惰性的。
-
-利用认识稀缺的概念，我们探讨了信息丰富如何降低真理辨识能力，既促进了企业家洞察力，也助长了软性极权主义。我们的分析以一项文明主张结束：关于人工智能的辩论关乎人类自主权、制度演变和理性选择的未来。专注于行动、主观性和自发秩序的奥地利传统，提供了对抗日益增长的计算社会控制的唯一连贯的替代方案。
+**摘要**: CAP定理断言了一致性、可用性和分区容错性之间的三难困境。本文引入了一个严谨的基于自动机理论和经济基础的框架，将CAP权衡重新定义为约束优化问题。我们将分布式系统建模为分区感知的状态机，并嵌入经济激励层以在对抗性分区网络中稳定共识行为。通过将博弈论机制纳入全局转换语义，我们定义了收敛性、活性和正确性的可证明界限。我们的结果表明，可以在有界epsilon范围内同时保持可用性和一致性，有效地通过正式的经济控制扩展了经典的CAP限制。
 
 ---
-### 基于收缩的回归分析与众多相关处理
-**[Shrinkage-Based Regressions with Many Related Treatments](https://arxiv.org/abs/arXiv:2507.01202)**
+### 学习在非真实出价拍卖中协调竞拍者
+**[Learning to Coordinate Bidders in Non-Truthful Auctions](https://arxiv.org/abs/arXiv:2507.02801)**
 
-**Authors**: Enes Dilber, Colin Gray
+**Authors**: Hu Fu, Tao Lin
 
-**Abstract**: When using observational causal models, practitioners often want to disentangle the effects of many related, partially-overlapping treatments. Examples include estimating treatment effects of different marketing touchpoints, ordering different types of products, or signing up for different services. Common approaches that estimate separate treatment coefficients are too noisy for practical decision-making. We propose a computationally light model that uses a customized ridge regression to move between a heterogeneous and a homogenous model: it substantially reduces MSE for the effects of each individual sub-treatment while allowing us to easily reconstruct the effects of an aggregated treatment. We demonstrate the properties of this estimator in theory and simulation, and illustrate how it has unlocked targeted decision-making at Wayfair.
+**Abstract**: In non-truthful auctions such as first-price and all-pay auctions, the independent strategic behaviors of bidders, with the corresponding equilibrium notion -- Bayes Nash equilibria -- are notoriously difficult to characterize and can cause undesirable outcomes. An alternative approach to designing better auction systems is to coordinate the bidders: let a mediator make incentive-compatible recommendations of correlated bidding strategies to the bidders, namely, implementing a Bayes correlated equilibrium (BCE). The implementation of BCE, however, requires knowledge of the distribution of bidders' private valuations, which is often unavailable. We initiate the study of the sample complexity of learning Bayes correlated equilibria in non-truthful auctions. We prove that the BCEs in a large class of non-truthful auctions, including first-price and all-pay auctions, can be learned with a polynomial number $\tilde O(\frac{n}{\varepsilon^2})$ of samples from the bidders' value distributions. Our technique is a reduction to the problem of estimating bidders' expected utility from samples, combined with an analysis of the pseudo-dimension of the class of all monotone bidding strategies of bidders.
 
-**摘要**: 在使用观察性因果模型时，实践者通常希望解开许多相关、部分重叠的处理效应。这些例子包括估计不同营销触点的处理效应、订购不同类型的产品或注册不同服务。常见的估计单独处理系数的方法对于实际决策来说过于嘈杂。我们提出了一个计算量轻的模型，该模型使用定制的岭回归在异质性和同质性模型之间转换：它大幅降低了每个单独子处理效应的均方误差（MSE），同时允许我们轻松重建聚合处理的效应。我们在理论和模拟中展示了这个估计器的特性，并说明了它如何在Wayfair解锁了针对性的决策制定。
-
----
-### 公共采购中的薪酬条款：德国集体谈判合规法律对工资的影响
-**[Pay Clauses in Public Procurement: The Wage Impact of Collective Bargaining Compliance Laws in Germany](https://arxiv.org/abs/arXiv:2507.01458)**
-
-**Authors**: Vinzenz Pyka
-
-**Abstract**: Using administrative data from Germany, this study provides first evidence on the wage effects of collective bargaining compliance laws. These laws require establishments receiving public contracts to pay wages set by a representative collective agreement, even if they are not formally bound by one. Leveraging variation in the timing of law implementation across federal states, and focusing on the public transport sector -- where regulation is uniform and demand is driven solely by state-level needs -- I estimate dynamic treatment effects using event-study designs. The results indicate that within five years of the law's implementation, wage increases were on average 2.9\% to 4.6\% higher in federal states with such a law compared to those without one -- but only in East Germany. These findings highlight the potential for securing collectively agreed wages in times of declining collective bargaining coverage.
-
-**摘要**: 利用来自德国的行政数据，这项研究首次提供了关于集体谈判合规法律对工资影响的证据。这些法律要求获得公共合同的企业支付由代表性集体协议设定的工资，即使它们并未正式受其约束。通过利用联邦州法律实施时间的变化，并重点关注公共交通部门——该部门的法规是统一的，需求完全由州级需求驱动——我使用事件研究设计估计动态处理效应。结果表明，在法律实施后的五年内，有此类法律的联邦州的工资增长平均比没有此类法律的联邦州高出2.9%至4.6%——但仅限于东德。这些发现突出了在集体谈判覆盖率下降时期确保集体协议工资的潜力。
+**摘要**: 在非诚实拍卖，如第一价格和全支付拍卖中，竞拍者的独立策略行为以及相应的均衡概念——贝叶斯纳什均衡——难以描述，并可能导致不良结果。设计更好拍卖系统的另一种方法是协调竞拍者：让中介机构向竞拍者提出激励相容的相关出价策略建议，即实施贝叶斯相关均衡（BCE）。然而，实施BCE需要了解竞拍者私人估值的分布情况，这通常是不可用的。我们开始研究在非诚实拍卖中学习贝叶斯相关均衡的样本复杂性。我们证明了，在包括第一价格和全支付拍卖在内的一大类非诚实拍卖中，可以通过从竞拍者的价值分布中获取多项式数量$\tilde O(\frac{n}{\varepsilon^2})$的样本来学习BCE。我们的技术是将问题简化为从样本中估计竞拍者的预期效用，结合对所有单调出价策略类别的伪维度分析。
 
 ---
-### 数字优惠券刺激消费
-**[Consumption Stimulus with Digital Coupons](https://arxiv.org/abs/arXiv:2507.01365)**
+### 难以正常：噪声对结构不可知估计的影响
+**[It's Hard to Be Normal: The Impact of Noise on Structure-agnostic Estimation](https://arxiv.org/abs/arXiv:2507.02275)**
 
-**Authors**: Ying Chen, Mingyi Li, Jiaming Mao, Jingyi Zhou
+**Authors**: Jikai Jin, Lester Mackey, Vasilis Syrgkanis
 
-**Abstract**: We study consumption stimulus with digital coupons, which provide time-limited subsidies contingent on minimum spending. We analyze a large-scale program in China and present five main findings: (1) the program generates large short-term effects, with each $\yen$1 of government subsidy inducing $\yen$3.4 in consumer spending; (2) consumption responses vary substantially, driven by both demand-side factors (e.g., wealth) and supply-side factors (e.g., local consumption amenities); (3) The largest spending increases occur among consumers whose baseline spending already exceeds coupon thresholds and for whom coupon subsidies should be equivalent to cash, suggesting behavioral motivations; (4) high-response consumers disproportionately direct their spending toward large businesses, leading to a regressive allocation of stimulus benefits; and (5) targeting the most responsive consumers can double total stimulus effects. A hybrid design combining targeted distribution with direct support to small businesses improves both the efficiency and equity of the program.
+**Abstract**: Structure-agnostic causal inference studies how well one can estimate a treatment effect given black-box machine learning estimates of nuisance functions (like the impact of confounders on treatment and outcomes). Here, we find that the answer depends in a surprising way on the distribution of the treatment noise. Focusing on the partially linear model of \citet{robinson1988root}, we first show that the widely adopted double machine learning (DML) estimator is minimax rate-optimal for Gaussian treatment noise, resolving an open problem of \citet{mackey2018orthogonal}. Meanwhile, for independent non-Gaussian treatment noise, we show that DML is always suboptimal by constructing new practical procedures with higher-order robustness to nuisance errors. These \emph{ACE} procedures use structure-agnostic cumulant estimators to achieve $r$-th order insensitivity to nuisance errors whenever the $(r+1)$-st treatment cumulant is non-zero. We complement these core results with novel minimax guarantees for binary treatments in the partially linear model. Finally, using synthetic demand estimation experiments, we demonstrate the practical benefits of our higher-order robust estimators.
 
-**摘要**: 我们研究了数字优惠券形式的消费刺激措施，这些措施提供了基于最低消费额度的限时补贴。我们分析了中国的一个大规模项目，并提出了五个主要发现：（1）该项目产生了巨大的短期效应，每1日元的政府补贴能够诱发3.4日元的消费支出；（2）消费反应差异显著，由需求侧因素（例如，财富）和供给侧因素（例如，当地的消费设施）共同推动；（3）最大的消费增长发生在基线消费已经超过优惠券门槛的消费者中，对于这些消费者来说，优惠券补贴应该等同于现金，这表明了行为动机；（4）反应强烈的消费者不成比例地将他们的支出投向大型企业，导致刺激效益的再分配不公；（5）针对反应最强烈的消费者可以使得总刺激效应翻倍。结合针对性分配和小企业直接支持的混合设计，可以提高项目的效率和公平性。
-
----
-### 在异方差性和非线性条件下子集安德森-鲁宾检验的一致性有效性
-**[Uniform Validity of the Subset Anderson-Rubin Test under Heteroskedasticity and Nonlinearity](https://arxiv.org/abs/arXiv:2507.01167)**
-
-**Authors**: Atsushi Inoue, Òscar Jordà, Guido M. Kuersteiner
-
-**Abstract**: We consider the Anderson-Rubin (AR) statistic for a general set of nonlinear moment restrictions. The statistic is based on the criterion function of the continuous updating estimator (CUE) for a subset of parameters not constrained under the Null. We treat the data distribution nonparametrically with parametric moment restrictions imposed under the Null. We show that subset tests and confidence intervals based on the AR statistic are uniformly valid over a wide range of distributions that include moment restrictions with general forms of heteroskedasticity. We show that the AR based tests have correct asymptotic size when parameters are unidentified, partially identified, weakly or strongly identified. We obtain these results by constructing an upper bound that is using a novel perturbation and regularization approach applied to the first order conditions of the CUE. Our theory applies to both cross-sections and time series data and does not assume stationarity in time series settings or homogeneity in cross-sectional settings.
-
-**摘要**: 我们考虑了安德森-鲁宾（AR）统计量，用于一组非线性矩限制的一般情况。该统计量基于连续更新估计器（CUE）的准则函数，用于在零假设下不受限制的参数子集。我们在零假设下对数据分布进行非参数处理，并施加参数矩限制。我们展示了基于AR统计量的子集检验和置信区间在包括具有一般异方差形式的矩限制在内的广泛分布范围内都是统一有效的。我们展示了当参数未识别、部分识别、弱识别或强识别时，基于AR的检验具有正确的渐近大小。我们通过构建一个使用新颖的微扰和正则化方法应用于CUE的一阶条件的上界来获得这些结果。我们的理论研究适用于横截面数据和时间序列数据，并且不假设时间序列设置中的趋势平稳性或横截面设置中的同质性。
+**摘要**: 结构不可知因果推断研究了在给定黑盒机器学习估计的干扰函数（例如混杂因素对处理和结果的影响）的情况下，如何估计治疗效果。在这里，我们发现答案以一种令人惊讶的方式依赖于处理噪声的分布。专注于\citet{robinson1988root}的部分线性模型，我们首先展示了广泛采用的双重机器学习（DML）估计器对于高斯处理噪声是最小最大速率最优的，解决了\citet{mackey2018orthogonal}的开放问题。与此同时，对于独立的非高斯处理噪声，我们通过构建对干扰误差具有更高阶鲁棒性的新实用程序，展示了DML总是次优的。这些\emph{ACE}程序使用结构不可知的累积量估计器，在第$(r+1)$个处理累积量非零时，实现对干扰误差的$r$阶不敏感。我们用部分线性模型中二元处理的新最小最大保证来补充这些核心结果。最后，通过合成需求估计实验，我们展示了我们更高阶鲁棒估计器的实际好处。
 
 ---
-### rdhte：RD设计中的条件平均处理效应
-**[rdhte: Conditional Average Treatment Effects in RD Designs](https://arxiv.org/abs/arXiv:2507.01128)**
+### 多智能体强化学习在供应链动态定价中的应用：在现实模拟市场条件下对策略性智能体行为进行基准测试
+**[Multi-Agent Reinforcement Learning for Dynamic Pricing in Supply Chains: Benchmarking Strategic Agent Behaviours under Realistically Simulated Market Conditions](https://arxiv.org/abs/arXiv:2507.02698)**
 
-**Authors**: Sebastian Calonico, Matias D. Cattaneo, Max H. Farrell, Filippo Palomba, Rocio Titiunik
+**Authors**: Thomas Hazenberg, Yao Ma, Seyed Sahand Mohammadi Ziabari, Marijn van Rijswijk
 
-**Abstract**: Understanding causal heterogeneous treatment effects based on pretreatment covariates is a crucial aspect of empirical work. Building on Calonico, Cattaneo, Farrell, Palomba, and Titiunik (2025), this article discusses the software package rdhte for estimation and inference of heterogeneous treatment effects in sharp regression discontinuity (RD) designs. The package includes three main commands: rdhte conducts estimation and robust bias-corrected inference for heterogeneous RD treatment effects, for a given choice of the bandwidth parameter; rdbwhte implements automatic bandwidth selection methods; and rdhte lincom computes point estimates and robust bias-corrected confidence intervals for linear combinations, a post-estimation command specifically tailored to rdhte. We also provide an overview of heterogeneous effects for sharp RD designs, give basic details on the methodology, and illustrate using an empirical application. Finally, we discuss how the package rdhte complements, and in specific cases recovers, the canonical RD package rdrobust (Calonico, Cattaneo, Farrell, and Titiunik 2017).
+**Abstract**: This study investigates how Multi-Agent Reinforcement Learning (MARL) can improve dynamic pricing strategies in supply chains, particularly in contexts where traditional ERP systems rely on static, rule-based approaches that overlook strategic interactions among market actors. While recent research has applied reinforcement learning to pricing, most implementations remain single-agent and fail to model the interdependent nature of real-world supply chains. This study addresses that gap by evaluating the performance of three MARL algorithms: MADDPG, MADQN, and QMIX against static rule-based baselines, within a simulated environment informed by real e-commerce transaction data and a LightGBM demand prediction model. Results show that rule-based agents achieve near-perfect fairness (Jain's Index: 0.9896) and the highest price stability (volatility: 0.024), but they fully lack competitive dynamics. Among MARL agents, MADQN exhibits the most aggressive pricing behaviour, with the highest volatility and the lowest fairness (0.5844). MADDPG provides a more balanced approach, supporting market competition (share volatility: 9.5 pp) while maintaining relatively high fairness (0.8819) and stable pricing. These findings suggest that MARL introduces emergent strategic behaviour not captured by static pricing rules and may inform future developments in dynamic pricing.
 
-**摘要**: 理解基于预处理协变量的因果异质性处理效应是实证工作中的一个重要方面。在Calonico, Cattaneo, Farrell, Palomba和Titiunik（2025）的基础上，本文讨论了rdhte软件包，该软件包用于估计和推断在锐断点回归（RD）设计中的异质性处理效应。该软件包包括三个主要命令：rdhte用于进行异质性RD处理效应的估计和稳健偏差校正推断，针对给定的带宽参数选择；rdbwhte实现了自动带宽选择方法；rdhte lincom计算线性组合的点估计和稳健偏差校正置信区间，这是一个特别为rdhte量身定制的后估计命令。我们还提供了锐断点设计中异质性效应的概述，提供了方法论的基本细节，并使用实证应用进行说明。最后，我们讨论了rdhte软件包如何补充，以及在特定情况下恢复，规范的RD软件包rdrobust（Calonico, Cattaneo, Farrell和Titiunik 2017）。
+**摘要**: 本研究探讨了多智能体强化学习（MARL）如何改善供应链中的动态定价策略，特别是在传统ERP系统依赖静态、基于规则的方法，忽视市场参与者之间战略互动的背景下。尽管最近的研究已经将强化学习应用于定价，但大多数实现仍然是单智能体的，未能模拟现实世界供应链的相互依赖性。本研究通过在由真实电子商务交易数据和LightGBM需求预测模型指导的模拟环境中评估三种MARL算法：MADDPG、MADQN和QMIX的性能，来填补这一空白，与静态基于规则的基线进行对比。结果显示，基于规则的智能体实现了接近完美的公平性（Jain指数：0.9896）和最高的价格稳定性（波动性：0.024），但它们完全缺乏竞争动态。在MARL智能体中，MADQN表现出最具侵略性的定价行为，波动性最高，公平性最低（0.5844）。MADDPG提供了一种更平衡的方法，支持市场竞争（市场份额波动性：9.5个百分点），同时保持相对较高的公平性（0.8819）和稳定的定价。这些发现表明，MARL引入了静态定价规则未能捕捉的新兴战略行为，并可能为未来动态定价的发展提供信息。
+
+---
+### 一个统一的横向差异化模型，具有一般空间和非理性消费者
+**[A unified model of horizontal differentiation with general spaces and irrational consumers](https://arxiv.org/abs/arXiv:2507.01985)**
+
+**Authors**: Aldric Labarthe, Yann Kerzreho
+
+**Abstract**: We introduce a new microeconomic model of horizontal differentiation that unifies and extends previous developments inspired by the seminal work of Hotelling (1929). Our framework incorporates boundedly rational consumers, an unlimited number of firms, and arbitrary differentiation spaces with Riemannian manifolds. We argue that Riemannian geometry provides a natural and powerful tool for analyzing such models, offering fresh insights into firm behavior and market structure with complex products.
+
+**摘要**: 我们引入了一个新的水平差异化微观经济模型，该模型统一并扩展了受Hotelling（1929年）开创性工作启发的先前发展。我们的框架包含了有限理性消费者、无限数量的公司以及使用黎曼流形的任意差异化空间。我们认为黎曼几何为分析这类模型提供了一个自然而强大的工具，为具有复杂产品的公司行为和市场结构提供了新的见解。
+
+---
+### FinAI-BERT：一种基于Transformer的模型，用于在财务报告中进行句子级别的人工智能披露检测。
+**[FinAI-BERT: A Transformer-Based Model for Sentence-Level Detection of AI Disclosures in Financial Reports](https://arxiv.org/abs/arXiv:2507.01991)**
+
+**Authors**: Muhammad Bilal Zafar
+
+**Abstract**: The proliferation of artificial intelligence (AI) in financial services has prompted growing demand for tools that can systematically detect AI-related disclosures in corporate filings. While prior approaches often rely on keyword expansion or document-level classification, they fall short in granularity, interpretability, and robustness. This study introduces FinAI-BERT, a domain-adapted transformer-based language model designed to classify AI-related content at the sentence level within financial texts. The model was fine-tuned on a manually curated and balanced dataset of 1,586 sentences drawn from 669 annual reports of U.S. banks (2015 to 2023). FinAI-BERT achieved near-perfect classification performance (accuracy of 99.37 percent, F1 score of 0.993), outperforming traditional baselines such as Logistic Regression, Naive Bayes, Random Forest, and XGBoost. Interpretability was ensured through SHAP-based token attribution, while bias analysis and robustness checks confirmed the model's stability across sentence lengths, adversarial inputs, and temporal samples. Theoretically, the study advances financial NLP by operationalizing fine-grained, theme-specific classification using transformer architectures. Practically, it offers a scalable, transparent solution for analysts, regulators, and scholars seeking to monitor the diffusion and framing of AI across financial institutions.
+
+**摘要**: 人工智能（AI）在金融服务中的广泛传播促使对能够系统性检测公司文件中与AI相关的披露的工具的需求不断增长。虽然以前的方法通常依赖于关键词扩展或文档级别的分类，但它们在粒度、可解释性和鲁棒性方面存在不足。本研究介绍了FinAI-BERT，这是一个针对领域适应的基于变换器的语言模型，旨在对金融文本中与AI相关的内容进行句子级别的分类。该模型在从2015年到2023年的669份美国银行年报中抽取的1,586个句子的手动策划和平衡数据集上进行了微调。FinAI-BERT实现了接近完美的分类性能（准确度为99.37%，F1分数为0.993），超越了传统的基线模型，如逻辑回归、朴素贝叶斯、随机森林和XGBoost。通过基于SHAP的令牌归因确保了可解释性，而偏见分析和鲁棒性检查证实了模型在句子长度、对抗性输入和时间样本方面的稳定性。从理论上讲，该研究通过使用变换器架构实现了细粒度、主题特定的分类，推进了金融自然语言处理（NLP）。从实践上讲，它为分析师、监管机构和学者提供了一个可扩展、透明的解决方案，用于监控金融机构中AI的传播和框架构建。
+
+---
+### 社会组织的代数结构：合作博弈的operad
+**[The algebraic structures of social organizations: the operad of cooperative games](https://arxiv.org/abs/arXiv:2507.01969)**
+
+**Authors**: Dylan Laplace Mermoud, Victor Roca i Lucio
+
+**Abstract**: The main goal of this paper is to settle a conceptual framework for cooperative game theory in which the notion of composition/aggregation of games is the defining structure. This is done via the mathematical theory of algebraic operads: we start by endowing the collection of all cooperative games with any number of players with an operad structure, and we show that it generalises all the previous notions of sums, products and compositions of games considered by Owen, Shapley, von Neumann and Morgenstern, and many others. Furthermore, we explicitly compute this operad in terms of generators and relations, showing that the Möbius transform map induces a canonical isomorphism between the operad of cooperative games and the operad that encodes commutative triassociative algebras. In other words, we prove that any cooperative game is a linear combination of iterated compositions of the 2-player bargaining game and the 2-player dictator games. We show that many interesting classes of games (simple, balanced, capacities a.k.a fuzzy measures and convex functions, totally monotone, etc) are stable under compositions, and thus form suboperads. In the convex case, this gives by the submodularity theorem a new operad structure on the family of all generalized permutahedra. Finally, we focus on how solution concepts in cooperative game theory behave under composition: we study the core of a composite and describe it in terms of the core of its components, and we give explicit formulas for the Shapley value and the Banzhaf index of a compound game.
+
+**摘要**: 本文的主要目标是为合作博弈论建立一个概念框架，其中游戏的组合/聚合概念是定义结构。这是通过代数操作的数学理论来完成的：我们首先为所有玩家数量的合作游戏集合赋予一个操作结构，并展示它概括了Owen、Shapley、von Neumann和Morgenstern等人之前考虑的所有关于游戏的和、积和组合的概念。此外，我们明确地用生成元和关系来计算这个操作，表明Möbius变换映射在合作游戏的操作和编码交换三结合代数的操作之间诱导了一个规范的同构。换句话说，我们证明了任何合作游戏都是两个玩家协商游戏和两个玩家独裁游戏的迭代组合的线性组合。我们展示了许多有趣的游戏类别（简单、平衡、容量即模糊测度和凸函数、完全单调等）在组合下是稳定的，因此形成了子操作。在凸的情况下，根据次模定理，这为所有广义排列多面体家族提供了一个新的操作结构。最后，我们关注合作博弈论中的解概念在组合下的行为：我们研究复合的核心，并用其组成部分的核心来描述它，并为复合游戏的Shapley值和Banzhaf指数提供了明确的公式。
 
 ---
 <!-- ARXIV_PAPERS_END -->
