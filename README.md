@@ -1,186 +1,36 @@
 # 最新arXiv论文
 
 <!-- ARXIV_PAPERS_START -->
-*(Updated on: 2025-07-31 ET)*
+*(Updated on: 2025-08-01 ET)*
 
-1. **[Robust Voting under Uncertainty](https://arxiv.org/abs/arXiv:2507.22655)**<br/>在不确定性下的稳健投票
-    - *Authors: Satoshi Nakada, Shmuel Nitzan, Takashi Ui*
-2. **[Inference on Common Trends in a Cointegrated Nonlinear SVAR](https://arxiv.org/abs/arXiv:2507.22869)**<br/>在共同趋势中的协整非线性SVAR的推断
-    - *Authors: James A. Duffy, Xiyu Jiao*
-3. **[How Exposed Are UK Jobs to Generative AI? Developing and Applying a Novel Task-Based Index](https://arxiv.org/abs/arXiv:2507.22748)**<br/>英国就业对生成性人工智能的暴露程度如何？开发和应用一个新颖的基于任务的指数
-    - *Authors: Golo Henseke, Rhys Davies, Alan Felstead, Duncan Gallie, Francis Green, Ying Zhou*
-4. **[Robust Contract with Career Concerns](https://arxiv.org/abs/arXiv:2507.22852)**<br/>稳健合同与职业关切
-    - *Authors: Tan Gan, Hongcheng Li*
-5. **[Misspecified Bayesianism](https://arxiv.org/abs/arXiv:2507.22775)**<br/>错误指定的贝叶斯主义
-    - *Authors: Pooya Molavi*
-6. **[A Predictive Framework Integrating Multi-Scale Volatility Components and Time-Varying Quantile Spillovers: Evidence from the Cryptocurrency Market](https://arxiv.org/abs/arXiv:2507.22409)**<br/>一个整合多尺度波动率成分和时变分位数溢出的预测框架：来自加密货币市场的证据
-    - *Authors: Sicheng Fu, Fangfang Zhu, Xiangdong Liu*
-7. **[Dimension Reduction for Conditional Density Estimation with Applications to High-Dimensional Causal Inference](https://arxiv.org/abs/arXiv:2507.22312)**<br/>用于高维因果推断的条件密度估计的降维
-    - *Authors: Jianhua Mei, Fu Ouyang, Thomas T. Yang*
-8. **[AI Agents and the Attention Lemons Problem in Two-Sided Ad Markets](https://arxiv.org/abs/arXiv:2507.22435)**<br/>AI代理和双边广告市场中的注意力柠檬问题
-    - *Authors: Md Mahadi Hasan*
-9. **[Generalized Optimal Transport](https://arxiv.org/abs/arXiv:2507.22422)**<br/>广义最优传输
-    - *Authors: Andrei Voronin*
-10. **[Uniqueness of Inflection Points in Binomial Exceedance Function Compositions](https://arxiv.org/abs/arXiv:2507.22211)**<br/>二项超越函数组合中的拐点唯一性
-    - *Authors: Srinivas Arigapudi, Yuval Heller, Amnon Schreiber*
-11. **[Valuing Time in Silicon: Can Large Language Model Replicate Human Value of Travel Time](https://arxiv.org/abs/arXiv:2507.22244)**<br/>在硅中评估时间：大型语言模型能否复制人类对旅行时间的价值评估
-    - *Authors: Yingnan Yan, Tianming Liu, Yafeng Yin*
-12. **[Testing for multiple change-points in macroeconometrics: an empirical guide and recent developments](https://arxiv.org/abs/arXiv:2507.22204)**<br/>在宏观经济学中测试多个变化点：实证指南和最新发展
-    - *Authors: Otilia Boldea, Alastair R. Hall*
-13. **[Low-Rank Structured Nonparametric Prediction of Instantaneous Volatility](https://arxiv.org/abs/arXiv:2507.22173)**<br/>低秩结构化非参数即时波动率预测
-    - *Authors: Sung Hoon Choi, Donggyu Kim*
-14. **[Cycles Protocol: A Peer-to-Peer Electronic Clearing System](https://arxiv.org/abs/arXiv:2507.22309)**<br/>Cycles Protocol：点对点电子清算系统
-    - *Authors: Ethan Buchman, Paolo Dini, Shoaib Ahmed, Andrew Miller, Tomaž Fleischman*
+1. **[Will Compute Bottlenecks Prevent an Intelligence Explosion?](https://arxiv.org/abs/arXiv:2507.23181)**<br/>计算瓶颈会阻止智能爆炸吗？
+    - *Authors: Parker Whitfill, Cheryl Wu*
+2. **[Relative Bias Under Imperfect Identification in Observational Causal Inference](https://arxiv.org/abs/arXiv:2507.23743)**<br/>在观察性因果推断中的不完全识别下的相对偏差
+    - *Authors: Melody Huang, Cory McCartan*
 
 
 ---
 
 ## 文章概览
 
-### 在不确定性下的稳健投票
-**[Robust Voting under Uncertainty](https://arxiv.org/abs/arXiv:2507.22655)**
+### 计算瓶颈会阻止智能爆炸吗？
+**[Will Compute Bottlenecks Prevent an Intelligence Explosion?](https://arxiv.org/abs/arXiv:2507.23181)**
 
-**Authors**: Satoshi Nakada, Shmuel Nitzan, Takashi Ui
+**Authors**: Parker Whitfill, Cheryl Wu
 
-**Abstract**: This paper proposes normative criteria for voting rules under uncertainty about individual preferences. The criteria emphasize the importance of responsiveness, i.e., the probability that the social outcome coincides with the realized individual preferences. Given a convex set of probability distributions of preferences, denoted by $P$, a voting rule is said to be $P$-robust if, for each probability distribution in $P$, at least one individual's responsiveness exceeds one-half. Our main result establishes that a voting rule is $P$-robust if and only if there exists a nonnegative weight vector such that the weighted average of individual responsiveness is strictly greater than one-half under every extreme point of $P$. In particular, if the set $P$ includes all degenerate distributions, a $P$-robust rule is a weighted majority rule without ties.
+**Abstract**: The possibility of a rapid, "software-only" intelligence explosion brought on by AI's recursive self-improvement (RSI) is a subject of intense debate within the AI community. This paper presents an economic model and an empirical estimation of the elasticity of substitution between research compute and cognitive labor at frontier AI firms to shed light on the possibility. We construct a novel panel dataset for four leading AI labs (OpenAI, DeepMind, Anthropic, and DeepSeek) from 2014 to 2024 and fit the data to two alternative Constant Elasticity of Substitution (CES) production function models. Our two specifications yield divergent results: a baseline model estimates that compute and labor are substitutes, whereas a 'frontier experiments' model, which accounts for the scale of state-of-the-art models, estimates that they are complements. We conclude by discussing the limitations of our analysis and the implications for forecasting AI progress.
 
-**摘要**: 本文提出了在对个人偏好不确定的情况下投票规则的规范标准。这些标准强调了响应性的重要性，即社会结果与实现的个人偏好一致的概率。给定一个偏好概率分布的凸集，记作$P$，如果对于$P$中的每个概率分布，至少有一个个体的响应性超过一半，则称投票规则是$P$-稳健的。我们的主要结果确立了，如果存在一个非负权重向量，使得在$P$的每个极点下，个体响应性的加权平均严格大于一半，则投票规则是$P$-稳健的。特别是，如果集合$P$包括所有退化分布，那么$P$-稳健的规则就是没有平局的加权多数规则。
-
----
-### 在共同趋势中的协整非线性SVAR的推断
-**[Inference on Common Trends in a Cointegrated Nonlinear SVAR](https://arxiv.org/abs/arXiv:2507.22869)**
-
-**Authors**: James A. Duffy, Xiyu Jiao
-
-**Abstract**: We consider the problem of performing inference on the number of common stochastic trends when data is generated by a cointegrated CKSVAR (a two-regime, piecewise-linear SVAR; Mavroeidis, 2021), using a modified version of the Breitung (2002) multivariate variance ratio test that is robust to the presence of nonlinear cointegration (of a known form). To derive the asymptotics of our test statistic, we prove a fundamental LLN-type result for a class of stable but nonstationary autoregressive processes, using a novel dual linear process approximation. We show that our modified test yields correct inferences regarding the number of common trends in such a system, whereas the unmodified test tends to infer a higher number of common trends than are actually present, when cointegrating relations are nonlinear.
-
-**摘要**: 我们考虑在数据由共整合CKSVAR（双制度、分段线性SVAR；Mavroeidis, 2021）生成时，对共同随机趋势的数量进行推断的问题，使用一个修改版的Breitung（2002）多变量方差比率检验，该检验对非线性共整合（已知形式）的存在具有鲁棒性。为了推导我们的检验统计量的渐近性质，我们为一类稳定但非平稳自回归过程证明了一个基本的LLN类型结果，使用一种新颖的双线性过程近似。我们展示了我们的修改检验能够正确推断此类系统中共同趋势的数量，而未修改的检验在共整合关系为非线性时，倾向于推断出比实际存在更多的共同趋势。
+**摘要**: 由人工智能的递归自我改进（RSI）引发的快速、“仅软件”智能爆炸的可能性，在人工智能社区内引发了激烈的辩论。本文提出了一个经济模型和对前沿人工智能公司研究计算与认知劳动之间替代弹性的经验估计，以阐明这种可能性。我们为四家领先的人工智能实验室（OpenAI、DeepMind、Anthropic和DeepSeek）构建了一个从2014年到2024年的新面板数据集，并将数据拟合到两种替代的恒定弹性替代（CES）生产函数模型。我们的两种规范得出了不同的结果：一个基线模型估计计算和劳动力是替代品，而一个“前沿实验”模型，考虑到最先进模型的规模，估计它们是互补品。我们最后讨论了我们分析的局限性和对预测人工智能进展的影响。
 
 ---
-### 英国就业对生成性人工智能的暴露程度如何？开发和应用一个新颖的基于任务的指数
-**[How Exposed Are UK Jobs to Generative AI? Developing and Applying a Novel Task-Based Index](https://arxiv.org/abs/arXiv:2507.22748)**
+### 在观察性因果推断中的不完全识别下的相对偏差
+**[Relative Bias Under Imperfect Identification in Observational Causal Inference](https://arxiv.org/abs/arXiv:2507.23743)**
 
-**Authors**: Golo Henseke, Rhys Davies, Alan Felstead, Duncan Gallie, Francis Green, Ying Zhou
+**Authors**: Melody Huang, Cory McCartan
 
-**Abstract**: We introduce the Generative AI Susceptibility Index (GAISI), a task-based measure of UK job exposure to large language models (LLMs), such as ChatGPT. GAISI is derived from probabilistic task ratings by LLMs and linked to worker-reported task data from the Skills and Employment Surveys. It reflects the share of job activities where an LLM or LLM-powered system can reduce task completion time by at least 25 per cent beyond existing productivity tools. The index demonstrates high reliability, strong alignment with AI capabilities, and superior predictive power compared to existing exposure measures. By 2023-24, nearly all UK jobs exhibited some exposure, yet only a minority were heavily affected. Aggregate exposure has risen since 2017, primarily due to occupational shifts rather than changes in task profiles. The price premium for AI-exposed tasks declined relative to 2017, measuring approximately 11 per cent lower in 2023-24. Job postings in high-exposure roles also fell by 6.5 per cent following the release of ChatGPT. GAISI offers a robust framework for assessing generative AI's impact on work, providing early evidence that displacement effects may already outweigh productivity gains.
+**Abstract**: To conduct causal inference in observational settings, researchers must rely on certain identifying assumptions. In practice, these assumptions are unlikely to hold exactly. This paper considers the bias of selection-on-observables, instrumental variables, and proximal inference estimates under violations of their identifying assumptions. We develop bias expressions for IV and proximal inference that show how violations of their respective assumptions are amplified by any unmeasured confounding in the outcome variable. We propose a set of sensitivity tools that quantify the sensitivity of different identification strategies, and an augmented bias contour plot visualizes the relationship between these strategies. We argue that the act of choosing an identification strategy implicitly expresses a belief about the degree of violations that must be present in alternative identification strategies. Even when researchers intend to conduct an IV or proximal analysis, a sensitivity analysis comparing different identification strategies can help to better understand the implications of each set of assumptions. Throughout, we compare the different approaches on a re-analysis of the impact of state surveillance on the incidence of protest in Communist Poland.
 
-**摘要**: 我们引入了生成性人工智能敏感性指数（GAISI），这是一项基于任务的衡量英国工作对大型语言模型（LLMs）如ChatGPT暴露度的指标。GAISI源自LLMs的概率性任务评级，并与技能和就业调查中的工人报告任务数据相关联。它反映了在至少25%的工作任务活动中，LLM或LLM驱动的系统可以比现有生产力工具减少任务完成时间的份额。该指数显示出高可靠性，与AI能力的强烈一致性，以及与现有暴露度量相比的优越预测能力。到2023-24年，几乎所有英国工作都表现出一定程度的暴露，但只有少数受到严重影响。自2017年以来，总体暴露度上升，主要是由于职业转变而不是任务概况的变化。与2017年相比，AI暴露任务的价格溢价下降，到2023-24年大约降低了11%。在ChatGPT发布后，高暴露角色的职位发布量也下降了6.5%。GAISI为评估生成性AI对工作的影响提供了一个稳健的框架，提供了早期证据表明，替代效应可能已经超过了生产力收益。
-
----
-### 稳健合同与职业关切
-**[Robust Contract with Career Concerns](https://arxiv.org/abs/arXiv:2507.22852)**
-
-**Authors**: Tan Gan, Hongcheng Li
-
-**Abstract**: An employer contracts with a worker to incentivize efforts whose productivity depends on ability; the worker then enters a market that pays him contingent on ability evaluation. With non-additive monitoring technology, the interdependence between market expectations and worker efforts can lead to multiple equilibria (contrasting Holmstrom (1982/1999); Gibbons and Murphy (1992)). We identify a sufficient and necessary criterion for the employer to face such strategic uncertainty--one linked to skill-effort complementarity, a pervasive feature of labor markets. To fully implement work, the employer optimally creates private wage discrimination to iteratively eliminate pessimistic market expectations and low worker efforts. Our result suggests that present contractual privacy, employers' coordination motives generate within-group pay inequality. The comparative statics further explain several stylized facts about residual wage dispersion.
-
-**摘要**: 雇主与工人签订合同以激励其努力，这些努力的生产力取决于能力；然后工人进入一个根据能力评估支付的市场。在非加性监控技术下，市场预期与工人努力之间的相互依赖可能导致多重均衡（与Holmstrom（1982/1999）；Gibbons和Murphy（1992）形成对比）。我们确定了雇主面临这种战略不确定性的充分必要条件——这与技能-努力互补性有关，这是劳动市场的普遍特征。为了充分实施工作，雇主最优地创造私人工资歧视，以迭代消除悲观的市场预期和低工人努力。我们的结果表明，当前的合同隐私，雇主的协调动机在群体内产生工资不平等。比较静态分析进一步解释了关于残差工资分散的几个风格化事实。
-
----
-### 错误指定的贝叶斯主义
-**[Misspecified Bayesianism](https://arxiv.org/abs/arXiv:2507.22775)**
-
-**Authors**: Pooya Molavi
-
-**Abstract**: An agent is a misspecified Bayesian if she updates her belief using Bayes' rule given a subjective, possibly misspecified model of her signals. This paper shows that a belief sequence is consistent with misspecified Bayesianism if the prior contains a grain of the average posterior, i.e., is a mixture of the average posterior and another distribution. A partition-based variant of the grain condition is both necessary and sufficient. Under correct specification, the grain condition reduces to the usual Bayes plausibility. The condition imposes no restriction on the posterior given a full-support prior over a finite or compact state space. However, it rules out posteriors that have heavier tails than the prior on unbounded state spaces. The results cast doubt on the feasibility of testing Bayesian updating in many environments. They also suggest that many seemingly non-Bayesian updating rules are observationally equivalent to Bayesian updating under misspecified beliefs.
-
-**摘要**: 如果一个代理人根据她对信号的主观、可能错误的模型使用贝叶斯规则更新她的信仰，那么她就是一个错误指定的贝叶斯人。本文表明，如果先验包含平均后验的一小部分，即是由平均后验和另一个分布的混合，那么信仰序列就与错误指定的贝叶斯主义一致。基于划分的谷物条件的变体既是必要的也是充分的。在正确指定的情况下，谷物条件简化为通常的贝叶斯合理性。在有限或紧致状态空间上具有全支持的先验下，该条件对后验没有限制。然而，它排除了在无界状态空间上比先验有更重尾部的后验。这些结果对在许多环境中测试贝叶斯更新的可行性提出了质疑。它们还表明，许多看似非贝叶斯的更新规则在观察上等同于在错误指定信仰下的贝叶斯更新。
-
----
-### 一个整合多尺度波动率成分和时变分位数溢出的预测框架：来自加密货币市场的证据
-**[A Predictive Framework Integrating Multi-Scale Volatility Components and Time-Varying Quantile Spillovers: Evidence from the Cryptocurrency Market](https://arxiv.org/abs/arXiv:2507.22409)**
-
-**Authors**: Sicheng Fu, Fangfang Zhu, Xiangdong Liu
-
-**Abstract**: This paper investigates the dynamics of risk transmission in cryptocurrency markets and proposes a novel framework for volatility forecasting. The framework uncovers two key empirical facts: the asymmetric amplification of volatility spillovers in both tails, and a structural decoupling between market size and systemic importance. Building on these insights, we develop a state-adaptive volatility forecasting model by extracting time-varying quantile spillover features across different volatility components. These features are embedded into an extended Log-HAR structure, resulting in the SA-Log-HAR model. Empirical results demonstrate that the proposed model outperforms benchmark alternatives in both in-sample fitting and out-of-sample forecasting, particularly in capturing extreme volatility and tail risks with greater robustness and explanatory power.
-
-**摘要**: 本文研究了加密货币市场风险传导的动态，并提出了一个新颖的波动率预测框架。该框架揭示了两个关键的经验事实：尾部波动率溢出的不对称放大，以及市场规模与系统重要性之间的结构性脱钩。基于这些洞见，我们通过提取不同波动率成分之间的时变分位数溢出特征，开发了一个状态自适应波动率预测模型。这些特征被嵌入到扩展的Log-HAR结构中，形成了SA-Log-HAR模型。实证结果表明，所提出的模型在样本内拟合和样本外预测方面均优于基准替代模型，特别是在捕捉极端波动率和尾部风险方面，具有更大的稳健性和解释力。
-
----
-### 用于高维因果推断的条件密度估计的降维
-**[Dimension Reduction for Conditional Density Estimation with Applications to High-Dimensional Causal Inference](https://arxiv.org/abs/arXiv:2507.22312)**
-
-**Authors**: Jianhua Mei, Fu Ouyang, Thomas T. Yang
-
-**Abstract**: We propose a novel and computationally efficient approach for nonparametric conditional density estimation in high-dimensional settings that achieves dimension reduction without imposing restrictive distributional or functional form assumptions. To uncover the underlying sparsity structure of the data, we develop an innovative conditional dependence measure and a modified cross-validation procedure that enables data-driven variable selection, thereby circumventing the need for subjective threshold selection. We demonstrate the practical utility of our dimension-reduced conditional density estimation by applying it to doubly robust estimators for average treatment effects. Notably, our proposed procedure is able to select relevant variables for nonparametric propensity score estimation and also inherently reduce the dimensionality of outcome regressions through a refined ignorability condition. We evaluate the finite-sample properties of our approach through comprehensive simulation studies and an empirical study on the effects of 401(k) eligibility on savings using SIPP data.
-
-**摘要**: 我们提出了一种新颖且计算效率高的非参数条件密度估计方法，该方法适用于高维环境，能够在不施加限制性分布或函数形式假设的情况下实现降维。为了揭示数据的潜在稀疏结构，我们开发了一种创新的条件依赖度量和修改后的交叉验证程序，这使得基于数据的变量选择成为可能，从而避免了主观阈值选择的需要。我们通过将其应用于平均处理效应的双重稳健估计器，展示了我们降维条件密度估计的实际效用。值得注意的是，我们提出的过程能够为非参数倾向得分估计选择相关变量，并通过改进的可忽略性条件，内在地降低结果回归的维度。我们通过全面的模拟研究和使用SIPP数据对401(k)资格对储蓄影响的实证研究，评估了我们方法的有限样本属性。
-
----
-### AI代理和双边广告市场中的注意力柠檬问题
-**[AI Agents and the Attention Lemons Problem in Two-Sided Ad Markets](https://arxiv.org/abs/arXiv:2507.22435)**
-
-**Authors**: Md Mahadi Hasan
-
-**Abstract**: I develop a theoretical model to examine how the rise of autonomous AI (artificial intelligence) agents disrupts two-sided digital advertising markets. Through this framework, I demonstrate that users' rational, private decisions to delegate browsing to agents create a negative externality, precipitating declines in ad prices, publisher revenues, and overall market efficiency. The model identifies the conditions under which publisher interventions such as blocking AI agents or imposing tolls may mitigate these effects, although they risk fragmenting access and value. I formalize the resulting inefficiency as an "attention lemons" problem, where synthetic agent traffic dilutes the quality of attention sold to advertisers, generating adverse selection. To address this, I propose a Pigouvian correction mechanism: a per-delegation fee designed to internalize the externality and restore welfare. The model demonstrates that, for an individual publisher, charging AI agents toll fees for access strictly dominates both the 'Blocking' and 'Null (inaction)' strategies. Finally, I characterize a critical tipping point beyond which unchecked delegation triggers a collapse of the ad-funded ecosystem.
-
-**摘要**: 我构建了一个理论模型，用以检验自主人工智能（AI）代理的兴起如何扰乱双边数字广告市场。通过这个框架，我展示了用户合理、私人化的决策将浏览任务委托给代理会产生负外部性，导致广告价格、出版商收入和整体市场效率的下降。该模型确定了出版商干预措施（如封锁AI代理或征收费用）可能缓解这些影响的条件，尽管这些措施有风险，可能会导致访问和价值的分裂。我将由此产生的效率低下形式化为一个“注意力柠檬”问题，其中合成代理流量稀释了向广告商出售的注意力质量，产生了逆向选择。为了解决这个问题，我提出了一种庇古修正机制：一种旨在内部化外部性并恢复福利的委托费用。模型表明，对于个别出版商来说，向AI代理收取访问费用严格优于“封锁”和“无（不采取行动）”策略。最后，我描述了一个临界的临界点，超过这个点，未经检查的委托将引发广告资助生态系统的崩溃。
-
----
-### 广义最优传输
-**[Generalized Optimal Transport](https://arxiv.org/abs/arXiv:2507.22422)**
-
-**Authors**: Andrei Voronin
-
-**Abstract**: Many causal and structural parameters in economics can be identified and estimated by computing the value of an optimization program over all distributions consistent with the model and the data. Existing tools apply when the data is discrete, or when only disjoint marginals of the distribution are identified, which is restrictive in many applications. We develop a general framework that yields sharp bounds on a linear functional of the unknown true distribution under i) an arbitrary collection of identified joint subdistributions and ii) structural conditions, such as (conditional) independence. We encode the identification restrictions as a continuous collection of moments of characteristic kernels, and use duality and approximation theory to rewrite the infinite-dimensional program over Borel measures as a finite-dimensional program that is simple to compute. Our approach yields a consistent estimator that is $\sqrt{n}$-uniformly valid for the sharp bounds. In the special case of empirical optimal transport with Lipschitz cost, where the minimax rate is $n^{2/d}$, our method yields a uniformly consistent estimator with an asymmetric rate, converging at $\sqrt{n}$ uniformly from one side.
-
-**摘要**: 在经济学中，许多因果和结构参数可以通过计算与模型和数据一致的所有分布上的优化程序的值来识别和估计。现有的工具适用于数据是离散的，或者仅识别分布的不相交边际，这在许多应用中是限制性的。我们开发了一个通用框架，该框架在i)任意一组已识别的联合子分布和ii)结构条件（例如条件独立性）下，为未知真实分布的线性函数提供尖锐的界限。我们将识别限制编码为特征核的连续矩集合，并使用对偶性和近似理论将无限维的Borel测度程序重写为有限维程序，该程序易于计算。我们的方法产生了一个一致的估计器，对于尖锐界限是$\sqrt{n}$-均匀有效的。在具有Lipschitz成本的经验最优传输的特殊情况中，其中最小最大速率是$n^{2/d}$，我们的方法产生了一个具有不对称速率的均匀一致估计器，从一侧以$\sqrt{n}$的速度均匀收敛。
-
----
-### 二项超越函数组合中的拐点唯一性
-**[Uniqueness of Inflection Points in Binomial Exceedance Function Compositions](https://arxiv.org/abs/arXiv:2507.22211)**
-
-**Authors**: Srinivas Arigapudi, Yuval Heller, Amnon Schreiber
-
-**Abstract**: We examine functions representing the cumulative probability of a binomial random variable exceeding a threshold, expressed in terms of the success probability per trial. These functions are known to exhibit a unique inflection point. We generalize this property to their compositions and highlight its applications.
-
-**摘要**: 我们研究了表示二项分布随机变量超过阈值的累积概率的函数，这些函数以每次试验的成功概率来表示。这些函数被认为具有一个独特的拐点。我们将这一性质推广到它们的组合中，并强调其应用。
-
----
-### 在硅中评估时间：大型语言模型能否复制人类对旅行时间的价值评估
-**[Valuing Time in Silicon: Can Large Language Model Replicate Human Value of Travel Time](https://arxiv.org/abs/arXiv:2507.22244)**
-
-**Authors**: Yingnan Yan, Tianming Liu, Yafeng Yin
-
-**Abstract**: As a key advancement in artificial intelligence, large language models (LLMs) are set to transform transportation systems. While LLMs offer the potential to simulate human travelers in future mixed-autonomy transportation systems, their behavioral fidelity in complex scenarios remains largely unconfirmed by existing research. This study addresses this gap by conducting a comprehensive analysis of the value of travel time (VOT) of a popular LLM, GPT-4o. We employ a full factorial experimental design to systematically examine the LLM's sensitivity to various transportation contexts, including the choice setting, travel purpose, income, and socio-demographic factors. Our results reveal a high degree of behavioral similarity between the LLM and humans. The LLM exhibits an aggregate VOT similar to that of humans, and demonstrates human-like sensitivity to travel purpose, income, and the time-cost trade-off ratios of the alternatives. Furthermore, the behavioral patterns of LLM are remarkably consistent across varied contexts. However, we also find that the LLM's context sensitivity is less pronounced than that observed in humans. Overall, this study provides a foundational benchmark for the future development of LLMs as proxies for human travelers, demonstrating their value and robustness while highlighting that their blunted contextual sensitivity requires careful consideration.
-
-**摘要**: 作为人工智能的关键进展，大型语言模型（LLMs）即将改变交通系统。虽然LLMs提供了模拟未来混合自主交通系统中人类旅行者的潜力，但现有研究对它们在复杂场景中的行为保真度大多未经证实。本研究通过全面分析流行的LLM——GPT-4o的旅行时间价值（VOT），填补了这一空白。我们采用全因子实验设计，系统地检验LLM对各种交通环境的敏感性，包括选择设置、旅行目的、收入和社会人口统计因素。我们的结果显示，LLM与人类之间存在高度的行为相似性。LLM显示出与人类类似的总体VOT，并表现出对旅行目的、收入和替代方案的时间成本权衡比率的类似人类敏感性。此外，LLM的行为模式在不同环境中出奇地一致。然而，我们也发现LLM的上下文敏感性不如人类观察到的那么明显。总体而言，本研究为LLM作为人类旅行者代理的未来开发提供了基础基准，展示了它们的价值和鲁棒性，同时强调它们的钝化上下文敏感性需要仔细考虑。
-
----
-### 在宏观经济学中测试多个变化点：实证指南和最新发展
-**[Testing for multiple change-points in macroeconometrics: an empirical guide and recent developments](https://arxiv.org/abs/arXiv:2507.22204)**
-
-**Authors**: Otilia Boldea, Alastair R. Hall
-
-**Abstract**: We review recent developments in detecting and estimating multiple change-points in time series models with exogenous and endogenous regressors, panel data models, and factor models. This review differs from others in multiple ways: (1) it focuses on inference about the change-points in slope parameters, rather than in the mean of the dependent variable - the latter being common in the statistical literature; (2) it focuses on detecting - via sequential testing and other methods - multiple change-points, and only discusses one change-point when methods for multiple change-points are not available; (3) it is meant as a practitioner's guide for empirical macroeconomists first, and as a result, it focuses only on the methods derived under the most general assumptions relevant to macroeconomic applications.
-
-**摘要**: 我们回顾了在具有外生和内生回归变量的时间序列模型、面板数据模型以及因子模型中检测和估计多个变化点的最新进展。这篇综述与其他综述在多个方面有所不同：（1）它专注于对斜率参数变化点的推断，而不是对因变量均值的变化——后者在统计文献中很常见；（2）它专注于通过顺序检验和其他方法检测多个变化点，并且仅在没有适用于多个变化点的方法时才讨论一个变化点；（3）它首先是作为实证宏观经济学家的实践指南，因此，它只关注在与宏观经济应用最相关的最一般假设下推导出的方法。
-
----
-### 低秩结构化非参数即时波动率预测
-**[Low-Rank Structured Nonparametric Prediction of Instantaneous Volatility](https://arxiv.org/abs/arXiv:2507.22173)**
-
-**Authors**: Sung Hoon Choi, Donggyu Kim
-
-**Abstract**: Based on Itô semimartingale models, several studies have proposed methods for forecasting intraday volatility using high-frequency financial data. These approaches typically rely on restrictive parametric assumptions and are often vulnerable to model misspecification. To address this issue, we introduce a novel nonparametric prediction method for the future intraday instantaneous volatility process during trading hours, which leverages both previous days' data and the current day's observed intraday data. Our approach imposes an interday-by-intraday matrix representation of the instantaneous volatility, which is decomposed into a low-rank conditional expectation component and a noise matrix. To predict the future conditional expected volatility vector, we exploit this low-rank structure and propose the Structural Intraday-volatility Prediction (SIP) procedure. We establish the asymptotic properties of the SIP estimator and demonstrate its effectiveness through an out-of-sample prediction study using real high-frequency trading data.
-
-**摘要**: 基于伊藤半鞅模型，一些研究提出了使用高频金融数据预测日内波动率的方法。这些方法通常依赖于限制性的参数假设，并且往往容易受到模型误设的影响。为了解决这个问题，我们引入了一种新颖的非参数预测方法，用于预测交易时间内未来的日内即时波动率过程，该方法利用了前一天的数据和当前天观察到的日内数据。我们的方法对即时波动率施加了一个日内-日间矩阵表示，该表示被分解为低秩条件期望分量和噪声矩阵。为了预测未来的条件期望波动率向量，我们利用这种低秩结构，并提出了结构化日内波动率预测（SIP）程序。我们建立了SIP估计器的渐近性质，并通过使用真实高频交易数据的样本外预测研究来证明其有效性。
-
----
-### Cycles Protocol：点对点电子清算系统
-**[Cycles Protocol: A Peer-to-Peer Electronic Clearing System](https://arxiv.org/abs/arXiv:2507.22309)**
-
-**Authors**: Ethan Buchman, Paolo Dini, Shoaib Ahmed, Andrew Miller, Tomaž Fleischman
-
-**Abstract**: For centuries, financial institutions have responded to liquidity challenges by forming closed, centralized clearing clubs with strict rules and membership that allow them to collaborate on using the least money to discharge the most debt. As closed clubs, much of the general public has been excluded from participation. But the vast majority of private sector actors consists of micro or small firms that are vulnerable to late payments and generally ineligible for bank loans. This low liquidity environment often results in gridlock and leads to insolvency, and it disproportionately impacts small enterprises and communities.
-On the other hand, blockchain communities have developed open, decentralized settlement systems, along with a proliferation of store of value assets and new lending protocols, allowing anyone to permissionlessly transact and access credit. However, these protocols remain used primarily for speculative purposes, and so far have fallen short of the large-scale positive impact on the real economy prophesied by their promoters.
-We address these challenges by introducing Cycles, an open, decentralized clearing, settlement, and issuance protocol. Cycles is designed to enable firms to overcome payment inefficiencies, to reduce their working capital costs, and to leverage diverse assets and liquidity sources, including cryptocurrencies, stablecoins, and lending protocols, in service of clearing more debt with less money. Cycles solves real world liquidity challenges through a privacy-preserving multilateral settlement platform based on a graph optimization algorithm. The design is based on a core insight: liquidity resides within cycles in the payment network's structure and can be accessed via settlement flows optimized to reduce debt.
-
-**摘要**: 几个世纪以来，金融机构通过形成封闭的、集中式的清算俱乐部来应对流动性挑战，这些俱乐部有着严格的规则和会员制度，使它们能够合作使用最少的资金来清偿最多的债务。作为封闭的俱乐部，大多数普通公众被排除在参与之外。但绝大多数私营部门参与者由微型或小型企业组成，这些企业容易受到延迟支付的影响，通常没有资格获得银行贷款。这种低流动性环境常常导致僵局，导致无力偿债，并且对小型企业和社区造成不成比例的影响。
-
-另一方面，区块链社区已经开发出开放的、去中心化的结算系统，以及价值储存资产和新的借贷协议的激增，允许任何人无需许可即可进行交易和获得信贷。然而，这些协议主要用于投机目的，迄今为止未能实现其推广者预言的对实体经济的大规模积极影响。
-
-我们通过引入Cycles来应对这些挑战，Cycles是一个开放的、去中心化的清算、结算和发行协议。Cycles旨在使企业能够克服支付效率低下的问题，降低其营运资本成本，并利用多样化的资产和流动性来源，包括加密货币、稳定币和借贷协议，以更少的资金清偿更多的债务。Cycles通过一个基于图优化算法的隐私保护多边结算平台解决现实世界的流动性挑战。设计基于一个核心洞察：流动性存在于支付网络结构中的循环中，可以通过优化的结算流程来访问，以减少债务。
+**摘要**: 在观察性研究中进行因果推断时，研究者必须依赖某些识别假设。在实践中，这些假设不太可能完全成立。本文考虑了在违反其识别假设的情况下，选择偏差、工具变量和近端推断估计的偏差。我们为工具变量和近端推断开发了偏差表达式，展示了违反各自假设的情况是如何被结果变量中的任何未测量混杂因素放大的。我们提出了一套敏感性工具，用以量化不同识别策略的敏感性，并且增强的偏差轮廓图可视化了这些策略之间的关系。我们认为，选择识别策略的行为隐含地表达了对替代识别策略中必须存在的违规程度的信念。即使研究者打算进行工具变量或近端分析，比较不同识别策略的敏感性分析也有助于更好地理解每组假设的含义。在整个过程中，我们比较了不同方法在重新分析国家监控对共产主义波兰抗议活动发生率影响中的应用。
 
 ---
 <!-- ARXIV_PAPERS_END -->
