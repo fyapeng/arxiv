@@ -1,7 +1,7 @@
 # 最新arXiv论文
 
 <!-- ARXIV_PAPERS_START -->
-*(Updated on: 2026-01-13 ET)*
+*(Updated on: 2026-01-14 ET)*
 
 今日无新发表的经济学论文。
 <!-- ARXIV_PAPERS_END -->
